@@ -1,0 +1,507 @@
+ANOTHER PART OF YOUR LIFE IS ABOUT TO
+go digital. This time it's data communica-
+tion—transferring files, connecting to re-
+mote networks, and other "talking" a
+computer does on the phone with fellow
+computers. By going digital, you don't
+need to use error-prone analog modems;
+instead you get nearly error-free data
+communication at speeds modems can
+only dream of. Telephone companies in
+the United States, Canada, Japan, and
+Western Europe offer digital services that
+cost about the same to use per call as high-
+speed modems. These services are called
+switched digital services because they take
+advantage of switched phone lines to keep
+costs down. Placing a call switches on a
+connection to a phone line, and ending a
+call switches off the connection, freeing the
+line for another call. You pay only for calls
+you make, not for full-time use of a dedi-
+cated phone line.
+MacWorld started using switched digi-
+tal services last summer to transmit
+scanned-image files and Aldus PageMaker
+files of magazine pages to and from Digi-
+tal Pre-Press International (DPI), a San
+Francisco prepress service bureau. The
+files, which range in size from several
+hundred kilobytes to over 100 megabytes,
+used to be copied onto disk cartridges and
+carried to DPI by bike messenger. In ad-
+dition, MacWorld's San Francisco office
+keeps stories and artwork on a file server
+that sister magazines in other countries can
+quickly access using switched digital ser-
+vices. Previewing and copying those files
+by modem takes forever, and transfers
+too often fail due to noisy phone lines.
+
+What You Get
+
+U.S. TELEPHONE COMPANIES OFFER
+two types of switched digital services,
+switched 56-kbps service and ISDN (In-
+tegrated Services Digital Network). With
+switched 56 service you get a single
+phone line that can transfer digital data
+at speeds up to 56,000 bits per second.
+You can't use the line to make voice calls
+or send Group 3 faxes.
+
+ISDN service gives you more than
+one communication channel on a single
+line. You get two or more 64,000-bps
+channels for digitized voice, digital data,
+or Group 4 (high-speed digital) fax calls.
+These are called B (Bearer) channels.
+You can use B channels independently or
+combine the channels for higher data-
+transmission rates. For example, you
+might talk on one B channel while your
+computer communicates on another, or
+you might combine two B channels for
+video teleconferencing.
+
+The B channels only carry content.
+Another channel, called the D (Delta)
+channel, carries signaling information
+that makes and controls B-channel con-
+nections. The D channel operates at
+16,000 bps or 64,000 bps depending on
+the type of ISDN service. Signaling
+doesn't keep the D channel busy, so it can
+also be used for data transfer at rates
+equivalent to those of a 9600-bps modem
+or for X.2 5 packet switching.
+
+In addition to data-transfer capabili-
+ties, ISDN can improve the sound qual-
+ity of voice calls. ISDN also offers fea-
+tures such as the ability to display a
+caller's phone number before you answer
+a call, add that number to a list of unan-
+swered calls, or use it to look up infor-
+mation about the caller in your database.
+(Access to the caller's number may be re-
+stricted or blocked in some states.) Several
+newly announced applications can use
+ISDN voice features, including Northern
+Telecom's Meridien TeleCenter, and
+Cvpress Research's PhonePro.
+
+Where It Goes
+
+ALTHROGH SWITCHED 56 AND ISDN
+are switched services, you can't use them
+to call just anywhere. You can call other
+switched digital lines served by the same
+central office. Calling beyond your local
+telephone company's central office be-
+comes more complicated, especially for
+ISDN. The transmission rate drops to
+56,000 bps because that's the maximum
+for the trunk lines that carry calls outside
+a central office. Likewise, calls outside
+your service area (as depicted in your
+telephone book), state, or country run at
+56,000 bps.
+
+For example, MacWorld and DPI are
+served by the same central office in San
+Francisco and can transfer files at 64,000
+bps over an ISDN line. But when Mac-
+World Japan places an ISDN call to Mac-
+World in San Francisco, the two commu-
+nicate at 56,000 bps. Still, that transfer
+speed is many times faster than a high-
+speed modem.
+
+Where It Is
+
+YOU MAY HAVE TROUBLE OBTAINING
+ISDN or switched 56 service from your
+local phone company. Neither service is
+available everywhere. Right now ISDN
+service is concentrated in the business
+districts of major metropolitan areas (see
+"ISDN Lines in the U.S."). Switched 56
+service is more widely available but is not
+universal. Even in areas where switched
+digital services are available, phone com-
+pany representatives may not know
+ISDN and switched 56 exist, or they may
+not know them by those generic names.
+Each phone company has its own names
+for these services. Pacific Bell, for ex-
+ample, has an ISDN service named
+Centrex IS and a switched 56 service
+named CenPath. Fortunately this picture
+should improve during the next year as
+telephone companies install more ISDN
+and switched 56 services and promote
+them more aggressively.
+
+Like names, charges for switched
+digital services vary among phone com-
+panies. Your local phone company may
+compound the cost of getting ISDN or
+switched 56 by requiring that you also
+have an unrelated service such as
+Centrex, which gives business customers
+PBX capabilities from the phone-com-
+pany central office. Pacific Bell charges
+$540 to $650 to establish Centrex service
+and install two Centrex lines (its mini-
+mum) with a switched digital service on
+one of them. In addition to paying the
+phone company's installation costs, you
+must buy special equipment to attach to
+the phone lines (the type of equipment
+varies depending on the type of service
+the phone company offers). Pacific Bell
+charges $30 to $40 monthly per switched
+digital line and $15 per conventional
+voice Centrex line. You also pay connect
+charges at standard voice-call rates.
+Lower-cost switched digital services are
+available in some parts of the United
+States and should become more wide-
+spread this year.
+
+If vou plan to make ISDN or switched
+56 calls outside your state or service area,
+vou must choose a long-distance company
+and pay it for those calls. Switched digi-
+tal calls cost the same as ordinary voice
+calls on AT&T, MCI, and Sprint.
+
+To get ISDN at your building, you
+must be located within about 2 miles of
+a phone company central office that has
+switching equipment for routing ISDN
+calls. This distance will in-
+crease to about 3.5 miles as
+telephone companies install
+new switching equipment
+over the next few years. For
+switched 56 service vou must
+be within about 3.5 miles of a
+central office with switched
+56 switching equipment. The
+geographical areas served by
+central offices vary widely;
+they are roughly the size of—
+but by no means coincide
+with — zip code areas. If you
+are farther away than the
+maximum distance, the phone
+company must run a high-
+speed dedicated line from a
+switched digital central office
+to your phone company cen-
+tral office or directly to your
+building. You pay a monthly
+fee for full-time use of that
+line and also pay by the call
+for calls that must be routed
+beyond the central office. A
+dedicated line is generally not
+economical unless you install at least six
+ISDN or switched 56 lines on it.
+
+Inside Your Building
+
+NEITHER BASIC-RATE ISDN (TWO B
+channels and one D channel) nor switched
+56 service requires special wiring inside
+your building. Basic-rate ISDN service,
+like ordinary voice service, uses two of the
+four wires routed to common RJ- 11
+modular jacks. Switched 56 service re-
+quires either two wires or four, depending
+on the specific type of service your phone
+company offers. You can usually replace
+an existing voice line with basic-rate
+ISDN or switched 56 service without any
+wiring change inside the building.
+
+To use an ISDN line, you must install
+a terminator, called an NTl, to maintain
+signal quality on the phone-company
+lines. The NTl terminator usually con-
+nects to your RJ-l 1 wall jack. It costs $100
+to $300, and you must buy one that has
+been made for the switching equipment
+installed in your phone company's central
+office. As the switching equipment mi-
+grates to new standards over the next few
+years, you should have a wider choice of
+vendors. Switched 56 service does not
+need a terminator.
+
+Connecting to a Mac
+
+ALTHOUGH ISDN AND SWITCHED
+56 services transfer data digitally, you
+can't connect them directly to a com-
+puter. You don't need an ordinary mo-
+dem to convert digital data from the
+computer to analog data (sounds) or the
+reverse. Instead you need a device that
+prepares the digital data from a com-
+puter for transmission on digital phone
+lines. Think of it as a digital modem.
+
+The ISDN digital modem is called a
+terminal adapter (TA). You can buy a
+freestanding TA from Northern Tele-
+com, Fujitsu, Hayes, UDS/Motorola,
+and other companies for $750 to $2000.
+You can also install a TA inside any
+Macintosh with a spare NuBus slot.
+Apple should already be shipping its
+$1099 ISDN NB Card. Apple's NuBus
+board and some of the freestanding TAs
+convert a second B channel to let you
+plug in a standard telephone, answering
+machine, or Group 3 fax machine. Alter-
+natively, you can buy an ISDN telephone
+with an integral TA and data port for
+$500 to $1000 from AT&T or Fujitsu,
+or for $700 to $1100 from Telrad.
+
+Digital modems for switched 56 go
+under two names, depending on the type
+of switched 56 service your phone com-
+pany offers. One is called a DSU/CSU
+(Digital Service Unit/Channel Service
+Unit) and the other is called a Data Unit.
+AT&T, Northern Telecom, UDS/
+Motorola, and others sell them. Some
+ISDN terminal adapters can also be used
+as switched 56 digital modems.
+
+To further complicate the situation,
+digital modems are not all compatible
+with each other, nor is every digital mo-
+dem compatible with all types of switch-
+ing equipment used in phone-company
+central offices. You may be unable to call
+someone else who has switched digital
+service because your digital modems are
+incompatible. And if you're not careful,
+you could buy a digital modem that
+won't work with the switching equip-
+ment at your phone-company central of-
+fice or with the switching equipment at
+your new central office after you move
+across town.
+
+Using a Digital Modem
+
+DIGITAL MODELS WITH SWITCHED
+digital services can speed up file transfer,
+screen sharing, and remote network ac-
+cess. For simple file transfer between two
+Macs, you can use Microphone II,
+WhiteKnight, VersaTerm Pro, or an-
+other terminal program. To remotely
+operate (and exchange files with) another
+Macintosh, you can use screen-sharing
+software like Timbuktu/Remote. Prod-
+ucts like Farallon's PhoneNet Liaison
+and Shiva's TeleBridge let you access
+E-mail, file servers, and other network
+services from a remote Mac.
+
+When used with a freestanding digi-
+tal modem connected to the Mac's mo-
+dem or printer port, none of these appli-
+cations can take full advantage of
+switched digital speed. The Mac serial
+ports can run at 57,600 bps asynchro-
+nously, but today's system software, which
+handles serial communications for appli-
+cation programs, can't sustain that rate.
+The serial port can usually sustain a
+throughput rate of 19,200 bps—the exact
+speed depends on factors such as the speed
+of your Mac, the communications proto-
+col, and the design of the application
+program.
+
+Some programs can achieve full
+switched digital speed if they are used
+with an ISDN NuBus board. These pro-
+grams use the Communications Toolbox
+part of system software to transfer data
+synchronously at 56,000 bps or 64,000 bps
+through the ISDN board. At this writing,
+VersaTerm Pro and Timbuktu/Remote
+are compatible with the Communications
+Toolbox, and compatible versions of the
+other products mentioned above are in
+progress. (The Communications Toolbox
+is built into System 7 and can be added as
+an INIT to Systems 6.0.4 through 6.0.8.)
+
+On Your Network
+
+WITH SWITCHED DIGITAL SER-
+vices you can go beyond connecting 
+Mac to a distant network. You can
+interconnect multiple AppleTalk
+networks and share network ser-
+vices. For instance, MacWorld af-
+filiates in different countries can
+link networks to access each
+other's file servers and exchange
+E-mail by placing ISDN phone
+calls. After linking networks, a
+MacWorld editor uses Timbuktu (Remote Acess Software)to
+preview large illustrations (by
+opening them on the distant
+network's file server) and to trans-
+fer files. Timbuktu or a new prod-
+uct, Aspects, let several users work
+on the same document simulta-
+neously from separate Macs.
+
+You can also access a distant
+network with the Chooser and
+connect to file servers, items
+shared with System 7's file shar-
+ing, and printers. If you use the
+Chooser to mount a distant file
+server or shared item on your
+desktop, you can copy files to or
+from the server with the Finder.
+With applications that take advan-
+tage of System 7's publish and
+subscribe technology, you can in-
+clude live copies of material from
+a distant file server or shared disk.
+If someone changes the original
+material, your documents are au-
+tomaticaliy updated across the
+switched digital network link. Ap-
+plications that use System 7's pro-
+gram-linking capability to share
+services, such as MacProject II 2.5
+and Claris Resolve, could be lo-
+cated on remote networks.
+
+To set up a switched digital
+link between AppleTalk networks,
+you connect each network to a
+router, each router to a modem,
+and each digital modem to a
+switched digital phone line. The
+router examines packets of data traveling
+on the local network and routes packets
+headed for the distant network across the
+phone line.
+
+Some routers, such as Farallon's
+
+- $395 PhoneNet Liaison, are software
+that run on any Macintosh connected to
+the network. Hardware routers connect
+independently to the LocalTalk cabling.
+They include Engage Communication's
+$1895 SyncRouter, Shiva's $599 Tele-
+Bridge, Solana Electronics' $2195
+H-Server, and International Transware's
+$899 TransTalk. Although the Phone-
+Net Liaison and the TeleBridge routers
+cost less, they communicate asynchro-
+nously at only 19,200 bps to 38,400 bps.
+The other routers communicate syn-
+chronouslv at the switched digital
+service's full 64,000 bps or 56,000 bps.
+
+Routers made by different companies
+are incompatible, and more compatibil-
+ity problems exist between routers, digi-
+tal modems, and phone-company central-
+office switching equipment. In setting
+up its international file server, for ex-
+ample, MacWorld first tried H-Servers,
+found them to be incompatible with
+something in Tokyo, switched to Synch-
+Routers, and is currently evaluating
+TransTalk routers for its enhanced net-
+work-security options. Other people in
+Tokyo, New York, and Paris, however,
+have used H-Servers without any trou-
+ble whatsoever.
+
+To make your network more secure,
+some routers let vou restrict access bv
+users on linked networks to specific zones
+in your network. Without this zone-
+blocking control someone at MacWorld
+could accidentally print a docu-
+ment on DPI's imagesetter—a
+costly mistake. Some routers offer
+other security provisions that help
+keep hackers out of your network.
+
+Experienced users say network
+performance across a switched
+digital link rivals that of a direct
+connection to a LocalTalk net-
+work with five to ten active users.
+Apparently a private 56,000-bps or
+64,000-bps connection using a
+hardware router approximately
+matches an individual's share of a
+232,000-bps LocalTalk or Phone-
+Net-type connection. Of course
+performance declines when several
+people actively use an ISDN or
+switched 56 network connection
+simultaneously. Your choice of
+digital modem and router may also
+give you lower performance.
+
+Not only are switched digital
+services fast, they are also ex-
+tremely reliable. You can't transfer
+multimegabyte files frequently us-
+ing ordinary modems and voice
+phone lines without failures due to
+line noise. But MacWorld editors
+routinely use ISDN to transfer
+tens of megabytes across town and
+across the Pacific without any fail-
+ure. Other ISDN and switched 56
+users report the same reliability—
+no errors, period.
+
+ISDN Today
+
+SWITCHED 56 AND ISDN PROMISE
+a lot and deliver it to some Macin-
+tosh users, but don't hang up your
+modem just yet. You'll still need it
+to connect to commercial informa-
+tion services, national E-mail ser-
+vices, and electronic bulletin
+boards. And if vou sometimes ac-
+cess files and E-mail on your office
+network or your office Macintosh from
+home or a hotel room, you'll want a mo-
+dem for that too. Switched digital ser-
+vices can't help you with those connec-
+tions today.
+
+Right now those most able to take
+advantage of ISDN or switched 56 ser-
+vices are businesses needing to link loca-
+tions and transfer lots of data regularly but
+not constantly. The rest of us must anx-
+iously wait while switched digital services
+come to our telephone prefixes. 

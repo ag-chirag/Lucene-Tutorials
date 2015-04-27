@@ -1,0 +1,244 @@
+
+
+==)--- P TO PAUSE S TO STOP ---(==
+
+                        ANDREW FLUEGLEMAN: IN MEMORIAM
+                               by Kevin Strehlo
+
+The following is an excerpt from NEWSBYTES (dated 7/30/85), an electronic
+publication available on The Source (tm).
+
+
+(Editor's note: This is the full, unedited transcript of Kevin's last "PC
+Tales" column for InfoWorld.  Kevin resigned because the editors saw the last
+few paragraphs unfit for publication.  NEWSBYTES does not.  So with Kevin's
+permission, we post his eloquent and moving tribute to Andrew.)
+
+
+
+       The voice on the tape is elusive.  Dennis Erokan and Mary Eisenhart
+of "Microtimes" conducted the interview in the cafeteria at the last San
+Francisco Mac Expo, and Andrew Fluegelman is barely audible over the din.  Yet
+the animation behind the voice comes through.
+
+  "I was driving across the Golden Gate Bridge," the voice says, "which I
+think is a power point -- I have more inspirations driving across the Golden
+Gate Bridge [laughs] -- and as I was pulling into the toll plaza the word
+"freeware" popped into my head, and this whole idea of user-supported
+software: pass it around, don't make people pay for it, let them try it...."
+
+       Freeware: it sounds like a share-the-wealth concept left over from the
+Sixties, sort of what you'd expect from a guy who had given up law practice to
+work as an editor for "The Whole Earth Catalog"  and who put together a book
+called "The New Games" about sports in which everybody won.
+
+       But the voice reveals that his Freeware plan was the only real option
+if he was to profit from PC Talk, the communications program he had written
+for his book publishing business.  Fleugelman was tired of the hassles of
+publishing; this seemed a better way.
+
+       PC Talk's documentation describes Freeware as "an experiment in
+economics more than altruism."  Free distribution of software and voluntary
+payment for its use eliminated marketing and advertising costs; the question
+was, would it also eliminate the program author's income?
+
+       The voice on the tape says the arrival of the first check in the mail
+was unbelievable, but now, with an estimated 100,000 copies of PC Talk in use,
+it takes two full-time people to handle the checks mailed daily to Headlands
+Press in Tiburon.  It is obvious: the experiment is a success.
+
+       David Bunnell and Jim Edlin had no idea what seed they were about to
+plant as they hauled their heavy box of iron, glass and silicon chips across
+Jackson Square.  The once rowdy area of San Francisco, from whence many an
+unwary sailor was recruited for voyages to Shanghai with a swift bang on the
+head, was now a chic location for business.  The brick buildings that had
+survived the great 1906 quake housed designer showrooms, architects and Andrew
+Fluegelman's Headland's Press, but nary a personal computer.
+
+       Fluegelman was intrigued by the Sol 20 computer they plopped on his
+desk.  As they demonstrated Electric Pencil, he realized how useful it could
+be in his business, which was to conceptualize and package the work of writers
+and illustrators and sell it to major publishers in New York.
+
+       Edlin and Bunnell were there to propose a book that would take a broad,
+philosophic look at the coming sociological impacts of personal computers.
+Theory was fine, but Fluegelman wanted something more substantive and
+participatory that would explain what people could do with the technology.
+They couldn't agree; no deal was struck.
+
+       But Fluegelman had the bug; he ended up selling a book on computers for
+writers and bought one of the first thousand IBM PCs shipped.  The only
+software available for the PC was BASIC and the Easywriter word processor; the
+need to exchange chapters with his coauthor on the book lead Flugelman to
+write PC Talk.
+
+       The connection with Edlin and Bunnell was renewed when they founded PC
+magazine.  Fluegelman, as one of the few business people actually using a PC,
+was a perfect subject for a first issue profile.  He was also a user of
+Easywriter, the only application program then available for the PC, and they
+asked him to write a review of it.
+
+       Fluegelman made a name for himself with that review.  He thought it was
+terrible and said so.  PC ran it without changing a word, under Fluegelman's
+headline: "Not so Easywriter." John Draper, the program's author, says
+Fluegelman was right: the program was released before it was ready.  Thus did
+Fluegelman begin his long involvement with spreading the word, good and bad,
+about personal computing.
+
+       Fluegelman was fond of saying the amount of code doing the work in PC
+Talk was tiny compared to the amount that was just there to make life
+pleasant.  When it came to the program that dictated Fluegelman's life, the
+work and pleasure segments seemed intertwined.
+
+       Fluegelman worked hard.  He wrote PC Talk late at night -- "abandoning
+all bodily functions for a month," says the voice on the tape -- while still
+publishing books during the day.  Later, when Bunnell founded PC World to
+compete with PC, Fluegelman agreed to become the new magazine's editor and
+worked for months on end, stopping only to eat and sleep.
+
+       On the tape, the voice talks about the intense pleasure and
+rejuvenation Fleugelman got from his involvement with computers.  "I have
+never been as socially involved, as interconnected with as many different
+kinds of people, as when I started getting involved with computers," it says.
+
+       Those people lucky enough to interconnect with Fluegelman are having a
+hard time figuring out what happened.  His friends talk about the strong
+medication he was taking for Colitis, a drug that has been known to cause
+depression and mental confusion.  They try to connect the voice that haunts
+them to the Fluegelman who was acting a bit strangely the last few days before
+he disappeared.
+
+       Fluegelman had been missing for about a week when his car was found
+parked near the toll plaza on the Marin County side of the Golden Gate Bridge,
+the site of so many of his moments of inspiration.  Friends say a suicide note
+was found inside.  His family held a memorial service in New York the
+following Sunday.
+
+       Yet, as this is being written, no body has been found.  Police still
+list Fluegelman as a missing person.  Friends hope against hope that he has
+been shanghaied, that someday he will return.
+
+       The small voice on the tape talks about the future.  "It's great to go
+along for 40 years and still find your life changing and new things
+happening," the essence of Fluegelman says.  "It makes you look forward to
+what's going to happen when you're 60, what's going to happen when you're 80."
+
+       With that, the tape ends.
+
+                       --- End of NEWSBYTES article ---
+______________________________________________________________________________
+
+
+Users of the IBM PC and PC oriented bulletin boards owe much to Andrew
+Fluegelman... The Freeware (tm) concept, making XModem a defacto file transfer
+protocol and the quality found in the early PC World issues.
+
+In the spring of 1982, I first added communications capabilities to my "still
+wet behind the ears" IBM PC.  I did what any PC user was forced to do... went
+to Computerland, plunked down $220 for a Tecmar board with two serial ports
+and a parallel port, $279 for a Hayes Smartmodem (300 baud), and $50 for
+IBM's Asynchronous Communications Support software, and with a heavy limp
+began to communicate with my company's mainframe.
+
+Sometimes I even managed to transfer a text file to or from the system.  Each
+time I called, I had to set the communications parameters, and type the
+dialing command and phone number to the SmartModem.  Imagine my delight when
+in the fall, a friend gave me a copy of PC-Talk II.  He had seen it mentioned
+in a magazine article, and had sent Andrew a blank formatted disk, and a
+return mailer.  No money.  A donation of $25 was requested if you liked the
+program.
+
+Was it a slick program.  No cumbersome menus to go through.  Just type Alt-D
+and up came a list of remote system phone numbers and their settings for
+communications parameters.  Type in a 1 or 2 digit number and get connected to
+the remote system.  It stripped out those funny characters the mainframe sent.
+You could even send and receive text files, just type Alt-T to transmit, Alt-R
+to receive.
+
+That magazine article also mentioned something called an electronic bulletin
+board.  A fellow by the name of Wes Merchant was running a PC information
+exchange on his Radio Shack computer for the Capitol PC Users Group.  By mid-
+winter we were calling his board, and boards run by Gene Plantz in Chicago,
+and Rich Schinnell in Rockville, MD.  We could receive COM & EXE program files
+that had been converted to an ASCII format for transmission.  Sometimes we
+could convert them back to the original files and get the programs to run.
+
+Some of the ASCII files we received were BASIC merge files to add new
+capabilities to PC-Talk.  The boards were really getting busy, and the patch
+that added automatic redial was a welcome addition.  Then there was this thing
+called XModem.  Gene Plantz had it working on his board.  I think the HOSTCOMM
+boards had also added it by then.  We installed the patch, and could move COM
+& EXE files without having to translate them to some other format, just
+download and run.
+
+In the process of modifying the program, I began to get a little insight into
+how to program in BASIC.  Andrew had used techniques and features of PC-BASIC
+in the program that other programmers and magazine articles were just
+beginning to recognize.  In particular, his technique for trapping the PC's
+extended keyboard set (Alt-D, Alt-R, et al) was leading the field.
+
+By the spring of 1983 we had compiled PC-Talk II and some of the
+modifications.  By late spring we had received a copy of PC-Talk III.  Andrew
+had collected all of the modifications, resolved the conflicts between them,
+and compiled the program.  It ran circles around most of the commercial
+competition.  He had increased his requested contribution to $35.
+
+Larry Jordan reviewed twelve communications packages in PC World, Volume 1,
+Number 5 (published in the summer of 1983).  Larry said, "PC-Talk has become
+the benchmark that other PC communications packages are measured against."  Of
+the twelve packages reviewed, eight had the capability to transmit binary (COM
+& EXE) files.  Three of those used the XModem protocol, the others used
+proprietary protocols.  Apparently the vendors hoped to force the public to
+use their packages at both ends to transmit binary files.  A few folks didn't
+think too much of that.
+
+That copy of PC World was an excellent issue on communications.  Andrew
+Flugelman was the editor.
+
+Larry, by then, had added XModem to RBBS-PC.  It was being distributed by the
+Capitol PC Users Group's Software SIG, and was available on Compuserve.  A
+friend of mine downloaded it, (using PC-Talk of course) and in July of 1983 I
+began operating an electronic bulletin board.
+
+Shortly after that, word leaked out that Andrew was actually making money off
+of PC-Talk, and the Freeware concept became recognized as a reasonable
+alternative to commercial software distribution methods.
+
+Over the next year, most vendors came around and added XModem to their
+packages.  There were an awful lot of people with whom their customers hadn't
+been able to exchange files.
+
+In the spring of 1984, MacWorld premiered.  Andrew Flugelman was the Editor-
+in-Chief.  For me, that was the explanation of why PC World's quality had
+declined in the preceeding months.  I had let my charter subscription expire.
+
+PC-Talk has been patched and revised many times over.  A few months back,
+Andrew discontinued distribution via a blank floppy and return mailer.  In the
+fall of last year, John Friel III released a program called QModem.  It
+mimicked the PC-Talk structure, but took advantage of the features of Turbo
+Pascal to offer more speed, and a cleaner user interface.  I've been using it
+since last November.
+
+There are so many good communications products for the IBM PC on the market
+today, it is hard to remember a time when we didn't have products to fill the
+need.  Andrew's PC-Talk was the best tool we had for a long time.  If I had
+had to do without it, I doubt that I would have been attracted to PC
+communications to the point that I have been.  I have an even more difficult
+time imagining the PC without the Freeware alternative.  Thank you, Andrew.
+
+                                        Bob Ketcham
+
+ 
+
+
+
+Library Menu #9
+
+
+
+
+<A>Trojan Horses
+<B>New Atari Products
+<C>Problems in the Making
+<D>BBS Oper Standards
+<E>Flugelman-In Memoriam

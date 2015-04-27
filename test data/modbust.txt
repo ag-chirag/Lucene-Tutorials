@@ -1,0 +1,171 @@
+ * Originally By: Randy Edwards
+ * Originally To: All
+ * Originally Re: NEW YORK COMPUTER CRIME INDICTMENTS
+ * Original Area: <FIDO> U.S. News & World Report
+ * Forwarded by : Blue Wave v2.10
+
+ Via The NY Transfer News Service 718-448-2358, 718-448-2683
+ Subject: New York Computer Crime Indictments
+  Date: 10 Jul 92 21:14:29 EDT
+  From: mcmullen@well.sf.ca.us
+  alt.society.cu-digest Sun Jul 12 18:18:52 1992
+
+  NEW YORK, N.Y., U.S.A., 1992 JULY 9 (NB) -- Otto G. Obermaier, United
+States Attorney for the Southern District of New York, has announced the
+indictment of five "computer hackers" on charges of computer tampering,
+computer fraud, wire fraud, illegal wire tapping and conspiracy. The
+announcement was made at a press conference at 2:00 PM on Wednesday, July
+8th at the Federal Court hose in Manhattan
+
+  Named in the indictment were Julio Fernandez, 18, known as the "Outlaw";
+John Lee, 21, a/k/a "Corrupt"; Mark Abene, 20, a/k/a "Phiber Optik"; Elias
+Ladopoulos, 22, a/k/a "Acid Phreak"; and "Paul Stira, 22, a/k/a "Scorpion."
+In addition to alleged specific illegal acts involving computers, the five
+individuals were also charged with conspiracy.
+
+  According to the indictment, the five were members of a group known as MOD
+(standing for either "Masters of Disaster" or "Masters of Deception") and
+the goal of the conspiracy was "that the members of MOD would gain access to
+and control of computer systems in order to enhance their image and prestige
+among other computer hackers; to harass and intimidate rival hackers and
+people they did not like; to obtain telephone, credit, information, and
+other services without paying for them; and to obtain. passwords, account
+numbers and other things of value which they could sell to others."
+
+  The indictment defines computer hacker as "someone who uses a computer or
+a telephone to obtain unauthorized access to other computers."
+
+  Obermaier stated that this investigation was "the first investigative use
+of court-authorized wiretaps to obtain conversations and data transmissions
+of computer hackers." He said that this procedure was essential to the
+investigation and that "It demonstrates, I think, the federal government's
+ability to deal with criminal conduct as it moves into new technological
+areas." He added that the interception of data was possible only because the
+material was in analog form and added "Most of the new technology is in
+digital form and there is a pending statute in the Congress which seeks the
+support of telecommunications companies to allow the federal government,
+under court authorization, to intercept digital transmission. Many of you
+may have read the newspaper about the laser transmission which go through
+fiber optics as ernment needs the help of Congress and, indeed, the
+telecommunications companies to able to intercept digital While all of those
+indicted were charged with some type of unlawful access to one or more of
+computer systems belonging to the following: Southwestern Bell, BT North
+America, New York Telephone, ITT, Information America, TRW, Trans Union,
+Pacific Bell, the University of Washington, New York University, U.S. West,
+Learning Link, Tymnet and Martin Marietta Electronics Information and
+Missile Group, Fernandez and Lee were also charged with selling illegally
+obtained credit information to a person that later re-sold the information
+to private detectives.
+
+  Assistant United States Attorney Stephen Fishbein announced that Morton
+Rosenfeld has been indicted and pled guilty to purchasing credit information
+and access codes from persons named "Julio" and "John." Fishbein said that
+Rosenfeld, at the time of his arrest on December 6, 1991, has approximately
+176 TRW credit reports in his possession. Rosenfeld, 21, pled guilty on June
+24, 1992 and is scheduled to be sentenced on September 9th. He faces a
+maximum of five years imprisonment and a fine of the greater of $250,000 or
+twice the gross gain or loss incurred.
+
+  Fishbein also announced the outcome of a "separate but related court
+action, Alfredo De La Fe, 18, pled guilty on June 19, 1992 to the use and
+sale of telephone numbers and codes for Private Branch Exchanges (PBX's). De
+La Fe said that he had sold PBX numbers belonging to Bugle Boy Industries to
+a co-conspirator who used the numbers in a call-selling operation. He also
+said that he and a person that he knew as "Corrupt" had made illegal long
+difference conference calls. De La Fe faces the same maximum penalty as
+Rosenfeld and is scheduled for sentencing on August 31st.
+
+  Among the charges against the five charged as conspirators is the
+allegation that Fernandez, Lee, Abene and "others whom they aided and
+abetted" performed various computer activities "that caused losses to
+Southwestern Bell of approximately $370,000. When asked by Newsbytes how the
+losses were calculated, Fishbein said that there was no breakdown beyond
+that stated in the indictment -- "expenses to locate and replace computer
+programs and other information that had been modified or otherwise
+corrupted, expenses to determine the source of the unauthorized intrusions,
+and expenses for new computers and security devices that were necessary to
+prevent continued unauthorized access by the defendants and others whom they
+aided and abetted."
+
+  In answer to a Newsbytes question concerning the appropriateness of making
+an intruder into a computer system totally responsible for the cost of
+adding security features "which possibly should have been there to begin
+with," Obermaier said "That theory would make the burglar the safety expert
+since one can't have people going around fooling around with other people's
+relatively private information and then claiming that I'm doing it for their
+good."
+
+  Paul Tough of Harper's Magazine followed up on the same topic by saying
+"In the Craig Neidorf case a regional telephone company claimed that a
+document was worth over $100,000. When it was found to be worth only $12,
+the case was thrown out. In view of that, are you concerned that they
+(Southwestern Bell) may have overreported? In response, Obermaier "No, we
+are not concerned. It's a matter of proof and, if the accused stand trial
+and have a similar experience to as happened the case you cite, not in this
+district, then the results predictably will be the same." Fishbein said that
+the conspiracy change carries a maximum sentence of five years imprisonment
+while each of the other counts (there are 10 additional counts) carries a
+maximum of five years imprisonment and a fine of the greater of $250,000 or
+twice the gross gain or loss incurred. A single exception is a count
+charging Fernandez with possessing fifteen or more unauthorized access
+devices. That count carries a maximum penalty of ten years imprisonment.
+
+  In response to a statement by Alex Michelini of the New York Daily News
+that "What you've outlined, basically, except for the sales of credit
+information, this sounds like a big prank, most of it," Obermaier said
+"Really, Well, I suppose, if you can characterize that as a prank but it's
+really a federal crime allowing people without authorization to rummage
+through the data of other people to which they do not have access and, as I
+point out to you again, the burglar cannot be your safety expert. He may be
+inside and laugh at you when you come home and say that your lock is not
+particularly good but I think you, if you were affected by that contact,
+would be somewhat miffed"
+
+  Obermaier also said that "The message that ought to be delivered with this
+indictment is that such conduct will not be tolerated, irrespective of
+tensible purpose."
+
+   Obermaier also said that "The message that ought to be delivered with
+this indictment is that such conduct will not be tolerated, irrespective of
+the ag of the particular accused or their ostensible purpose."
+
+  Others participating in the news conference were Raymond Shaddick, United
+States Secret Service assistant director - Office of Investigations; William
+Y. Doran, FBI special agent in charge, New York criminal division; Scott
+Charney, United States Dept. of Justice chief of computer crime unit. All
+stressed the cooperation that had gone on between the various law
+enforcement agencies during the investigation.
+
+  Charney told Newsbytes that, in spite of the fact that the search warrants
+executed on Stira and Ladopoulos preceded those executed on Lee and
+Fernandez by almost two years and that the last specific allegation against
+Stira proceeds the first against Lee by 16 months and the first against
+Fernandez by 21 months, there is evidence that links them together in the
+conspiracy. Charney also told Newsbytes that the counts against Abene were
+not related to a misdemeanor conviction in early 1991 for which he served
+community service. Those indicted have been asked to present themselves at
+New York Service Services headquarters at 9:00 AM on July 8th for
+fingerprinting. Arraignment for the indicted is scheduled for Thursday, July
+16th.
+
+  Abene told Newsbytes that while he couldn't comment on anything related to
+the indictment until he obtained legal counsel, "I've been participating i
+conferences with law enforcement personnel and guest lecturing to college
+classes for the last year and a half. In every case, I have said how those
+responsible for information about us have the responsibility to protect that
+data. I have also tried to explain the great difference between a true
+hacker and a person who uses computers for criminal profit. I hope that I
+have increased understanding with these efforts."
+
+  (Barbara E. McMullen & John F. McMullen/Press Contacts:Federico E.
+Virella, Jr., United States Attorney's Office, 212 791-1955; Betty Conkling,
+United States Secret Service, 212 466-4400; Joseph Valiquette, Jr, Federal
+Bureau of Investigation, 212 335-2715/19920709)
+
+-!- GoldED 2.40
+ ! Origin: Marxists do it with CLASS. (1:128/105)
+
+ 
+--- Blue Wave/TG v2.10 [NR]
+ * Origin: SYSTEM: Utility City BBS (313-299-5854) (85:871/112.0)
+

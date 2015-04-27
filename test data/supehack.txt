@@ -1,0 +1,171 @@
+
+
+==)--- P TO PAUSE S TO STOP ---(==
+
+Super Hacker-WAS HE BUSTED OR DID HE SLIP OFF INTO THE NIGHT-You decide what happened in this true story.
+
+
+
+From: David Rogers <DRogers@SUMEX-AIM.ARPA>
+Subject: "19 year old UCLA hacker"
+
+    Well, that 19 year old hacker was here at Stanford, and here is a 
+system programmers account of what it was like. After reading this message, 
+I took the problem of hackers much less casually.
+
+    (By the way, "call-back" systems are good, but if the computer is on a 
+network, it's virtually impossible to keep the hackers out. Read on.)
+
+ 9-Nov-83 16:47:37-PST,8835;000000000000
+Return-Path: <@SU-SCORE.ARPA:mail-daemon@Glacier>
+Date: Wednesday, 9 November 1983 16:44:19-PST
+To: su-bboards@Score
+Subject: the breakin: short summary of a media event
+From: Brian Reid <reid@Glacier>
+
+Enough people have asked me "what really happened" that I thought it was 
+worth posting a medium-sized note to bboard explaining what this computer 
+intruder stuff is all about. I will also tell the tale of how it came to be 
+a full-fledged media phenomenon.
+
+Early morning on September 17 I had logged on to Shasta and noticed an 
+unseemly slowness to the logon process. I was the only user on the system, 
+which made it even more curious. I was too sleepy to care, but filed it 
+away for future puzzleement. A few hours later Jeff Mogul telephoned me 
+with the truth, which he had discovered and explained. The Shasta directory 
+/usr/local/bin contained a file named "stty", whose contents was actually a 
+shell script that copied /bin/csh into ~somewhere/.$USER, then chmod u+s 
+$USER .$USER, then an exec of the real stty. Translating into English from 
+Unix-ese, this means that when some innocent victim ran this false "stty" 
+program, it would store in the perpetrator's directory a copy of the shell 
+(a shell is like the Tops-20 EXEC) set up in such a way that when the 
+perpetrator later executed that shell, he would acquire all of the 
+permissions and access rights of the victim. The unseemly delay that I had 
+noticed at 5:30 a.m. was caused by the length of time that it took to copy 
+the 64KB shell file into the intruder's directory.
+
+The "stty" program on Unix is used by virtually all users to set up their 
+terminal characteristics when logging on, and most Shasta users have their 
+search lists set up to look in /usr/local/bin before /usr/bin. This means 
+that after the passage of a few hours, the perpetrator's directory 
+contained many files with names like ".reid" or ".mogul" or ".hennessey", 
+each rigged so that if he executed it he could read or write any files to 
+which reid or mogul or hennessey had access.
+
+The account used by the perpetrator belonged to Jim Miller, who had visited 
+HPP last year, and who had left quite some time ago. Tom Rindfleisch 
+assured me that Miller was an honest person who would not do such a thing; 
+we therefore concluded that some alien was using the account. I spent a 
+couple of minutes finding out some biographical data about him, and was 
+easily able to guess his password. That solved the mystery of how the 
+intruder was using Miller's account.
+
+We waited for the perpetrator to log on again, and when he did so, he was 
+coming in through the Internet from Purdue. I traced the net connections 
+back to find out that he was logged on as Mark Bronson at Purdue, and 
+immediately called Walter Tichy at Purdue to ask about Bronson, and was 
+told that Mark Bronson had graduated a year ago and gone to work for a 
+certain company in another state, which intriguingly enough was the same 
+company that Miller worked for. This "clue" turned out to be a red herring, 
+but it distracted us for a day. Chris Kent of Purdue traced the network 
+connections back to SU-TAC, where the perpetrator was dialed in on a 300-
+baud line.
+
+At this point I wanted to go home for dinner, so I shut down Shasta's 
+internet service, which made it impossible for him to telnet in to Shasta 
+from ARPA-land. I figured that he would think Shasta had just crashed. To 
+my amazement, he was logged back on within 30 seconds, this time coming in 
+from Navajo via PUP telnet (which I had not shut off). A quick trace of the 
+net connections showed that he was logged on to Navajo as Anita Mayo. Steve 
+Hartwell phoned Anita in New York to ask her if she was doing this; she 
+said no, she wasn't, but her password wou| to guess. I 
+tried guessing "Anita", and sure enough it worked. Wanting to go home for 
+dinner, I changed Anita's Navajo password to something unrememberable and 
+killed the Mayo job on Navajo, figuring that this would keep him out.
+
+30 seconds later he was back on again, this time coming in from Diablo, 
+where he was logged on as Jeff Adams. I was unsuccessful at guessing Jeff 
+Adams' password, but I realized at this point that I was dealing with 
+organized crime and not just with some casual password hacker: he clearly 
+had access to lists of account names and passwords all over the place. I 
+hotwired Shasta's "login" so that only people actually physically in ERL 
+could log in, and went home a bit shaken.
+
+At this point I called Ralph Gorin to ask for advice, and he advised me to 
+call the FBI. It took 24 hours to get them to return my call, and another 
+24 hours to get them to believe that a real crime was taking place. They 
+came to campus and spent a day talking to me, to Len Bosack, and to Ralph. 
+The following morning they obtained permission authorizing Pacific 
+Telephone to put a "trap" on the SU-TAC dialin lines; simultaneously, Len 
+and Benjy Levy connected a hardcopy terminal to the TAC dialin line so that 
+we could get a transcript of what the intruder was doing, to use as 
+evidence if necessary.
+
+Meanwhile back at Shasta, we were walking the fine line between keeping 
+this intruder out of our files and keeping him interested enough to stay on 
+the line long enough for us to trace the call. We did this by leaving his 
+Trojan horse in place, and periodically getting volunteers to run it, 
+whereupon he would get quite excited and spend an hour or two checking to 
+see if he had acquired any interesting new privileges.  Steve Przybylski, 
+Glenn Trewitt, Steve Hartwell and I took turns at this babysitting task.
+
+Pacific Telephone told us that the calls were being made from a certain 
+travel agency in San Bruno. The FBI folks made a visit there, and found no 
+evidence of any such thing. Pacific Telephone then suspected that the 
+telephone wires in that building had been compromised, but after another 
+day of fooling around, Pac Tel admitted that what was *really* going on was 
+that the call was coming in through a long-distance calling service, such 
+as Sprint or MCI. The long-distance calling service people refused to 
+cooperate; Len and the FBI obtained the necessary search warrant (another 
+delay); they cooperated and told us that the calls were coming from Los 
+Angeles.
+
+At this point I went out of town for a program committee meeting, so I am a 
+little fuzzy on the exact details, but Len and the FBI together managed to 
+get the necessary traps in place on the Los Angeles local telephone end. I 
+returned from the trip to resume my shift at babysitting Shasta to make 
+sure the intruder did not get too carried away. By this point we had a 
+fairly automatic notification mechanism set up; we doctored "login" so that 
+whenever the intruder logged on it would send mail notification to all of 
+us who were participating in the chase.
+
+But he never logged in again. After a few days of wondering whether he had 
+detected our traps and chickened out, I got word from Ralph that Ralph had 
+gotten word that the Los Angeles police had raided some teenager's 
+apartment and seized a computer. The date and time of the raid mesh fairly 
+well with the last recorded instance of our intruder coming in, but of 
+course we have no hard evidence that it is the same person. The FBI might 
+have further evidence; they aren't talking.
+
+That was September 22. I had thought the whole issue was dead, but last 
+week somebody at Purdue told a reporter for the Los Angeles Times that I 
+had located this intruder and informed Purdue of his existence; the L.A. 
+Times reporter called me and I told him the story pretty much as you read 
+it above. It appeared in the Sunday LA Times, and went out on the LA Times 
+News Service newswire.
+
+Well, it seems that when the LA Times runs a story on something it becomes 
+Big News. The following morning (Tuesday a.m.) Len and I started getting 
+calls from every imaginable reporter (Only his name and mine appeared in 
+the LA Times story). Before 10am, 10 radio stations, 4 TV stations, all of 
+the local newspapers, even the Stanford Daily had picked up on this hot 
+story of evil alien spies penetrating the Department of Defense through 
+Stanford University, and all had to have the story first-hand.
+
+It has all blown over now; today something else is Big News. Please, 
+everyone, please make sure your passwords are hard to guess. Try to make 
+them non-pronounceable, and long, and certainly make them unrelated to your 
+life. And try to understand that not every quote you read in the papers is 
+correct.
+
+Brian
+------------------------------
+DOWNLOADED FROM P-80 SYSTEMS
+                                
+
+
+LIBRARY MENU #5
+
+
+<A>Computer Survey
+<B>Orwellia

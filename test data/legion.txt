@@ -1,0 +1,87 @@
+ÿ
+
+Here is some interesting news that appeared in the August 15, 1991
+edition of the 'HOUSTON CHRONICLE'.  It involved the now defunct
+hacking group the 'Legion of Doom', who as you recall was busted in the
+'Operation SunDevil' raids last Summer.
+
+--------------------------------------------------------------------------
+
+
+EX-HACKERS' TACTICS ATTRACTING CRITICISM
+
+Houston computer-security experts up to their old tricks, executive says
+
+------------
+Joe Abernathy
+Houston Chronicle
+------------
+
+        A new computer-security consulting firm run by members of a once
+notorious nationwide hackers' group is facing heat for what a technology
+executive sees as a return to the ways of the computer underground.
+        Comsec Data Security, a Houston-based firm recently incorporated by
+reformed members of the defunct Legion of Doom, counters that the attack is
+an attempt by competitors to discredit the company.
+        Scott Chasin, a Comsec principal, acknowledged that he and his
+colleagues surveyed competing firms by posing as prospective customers.
+        But he emphatically denied that the activity included unauthorized
+access to comuter systems.
+        "It was not a Legion of Doom operation, it was not some big
+clandestine thing," Chasin said.  "It's called shopping for yoour
+competitors, that's what it's called, competitive shopping, and thats what
+we did.  But some of these consultants that have been in the industry, some
+of the dinosuars, got upset."
+        To survey the pricing and services offered by its competition,
+Comsec called security consulting firms around the nation, representing
+itself as an unrelated company with a hacker problem.
+        They said they were from Landmark Graphics, a real Houston
+technology company with a real hacker problem - one it didn't know about at
+the time.  They gave out information regarding Landmark's computer system
+that the company says wasn't publicly available.
+        Chasin said the computer system they described was generic and was
+drawn from their knowledge of such systems but not from any unauthorized
+information about Landmark.
+        But Landmark chief financial officer Hardie Morgan questioned the
+ethics of the Comsec survey, regardless of whether it included hacking.
+        "My thoughts are that in effect they haven't changed their way of
+doing business," he said.
+        Morgan said Comsec representatives asked security firms to send
+information, and left a phone number and address.  "Most of those firms
+followed u pand got a constant busy signal," he said.  The address was the
+home of a Comsec principal.
+        But the phone number belonged to Southwestern Bell.
+        "That is a number that is utilized by Southwestern Bell for testing
+various and sundry equipment," said Bill Ray, general security manager for
+the phone company.  "It's what's called a permanent busy.  How they came
+about having that number, I have no idea.  I doubt that they hacked it."
+        The Comsec members said they didn't know to whom the phone number
+belonged, only that it always gave a busy signal.
+        Morgan said the company has performed a full security evaluation.
+        "We did find some weaknesses in out security, particularly as it
+related to our connection to the Internet," a nationwide network that is a
+favorite haunt of computer enthusiast, Morgan said.  "We found that people
+were using an unsecured line we had as jumping-off point into the
+Internet."
+        Chasin contends competing firms are engineering publicity about the
+Landmark incident.
+        "We think it's a plot to get us out of the business," he said.
+        The matter ws brought to the Chronicle's attention by a third
+party.
+        Chasin said the Comsec members now regret their "comparison
+shopping" but defend it as standard business practice.
+        Ray and Morgan took issue with that.
+        "Their position is that this is standard operating procedure, and I
+can tell you that is not true," Morgan said.  "Their concern is that this
+is wrecking their business. I said they should have thought about that
+before."
+
+
+
+August 15, 1991.
+
+        *** DANSE MACABRE *** (713) 324-2139 *** DANSE MACABRE ***
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::: DEVIL'S TRIANGLE  4 0 7 - 5 7 1 - 1 0 7 5 ::::::::::::::::
+:::::::::::::::::::::::: INDEPENDENTLY FAST !! :::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,0 +1,207 @@
+LOS ANGELES TIMES: THURSDAY, NOVEMBER 3, 1994
+Front page (A1), left column - article continuing onto page A18.
+---------------------------------------------
+COLUMN ONE - TITLE: "The Pirates of the Internet"
+Subtitle: "As the global computer network grows so do the rings of thieves
+          who use it to steal software.  Frustrated security experts say they
+          may have to resort to bounty hunters."
+
+By: Adam S. Bauman (nickname "reporter")
+Contact: 1-800-528-4637 extension 73492
+---------------------------------------------
+
+	In the early hours of July 6, Jenny, head of a software piracy 
+ring based in the Pacific Northwest, paced impatiently in front of a rack 
+of high-speed personal computers, waiting for the phone call that would 
+make her a superstar in the pirate underground.
+	It would come from an employee of LucasArts Entertainment Co. in 
+San Rafael, who for $300 would supply Jenny's pirate group with one of 
+the most anticipated games of the summer: "TIE Fighter," based on the 
+"Star Wars" movie trilogy and priced at about $60 per copy.
+	At LucasArts, the employee attached a small cellular modem to the 
+back of his PC - a technique that would keep any record of the call off 
+the company telephone bill - and dialed.  Within a few minutes, the 
+program had arrived in Jenny's computer, lacking only the code keys that 
+would make it possible to play the game without an owner's manual.
+	Jenny then dialed into the Internet, the global computer network, 
+and after taking several deliberate electronic detours she connected with 
+a small computer in Moscow.  There, a programming whiz who goes by the 
+name "Skipjack" quickly cracked the codes and sent the program back 
+across the Internet to "Waves of Warez," a Seattle bulletin board popular 
+with software pirates.
+	Within 24 hours, "TIE Fighter" would be available to thousands of 
+software pirates in major cities around the world - days before its 
+official release date of July 20.
+	Welcome to the underside of the Internet, where stealing software 
+has become highly sophisticated and hotly competitive - pursued more for 
+thrills than for money.  It's a world where pirate groups build 
+alliances, undertake mergers and sometimes launch all-out battles against 
+rivals.
+	And, contrary to common stereotypes, it is populated not only by 
+nerdy teen-age misfits, but by a curious cross-section of computer 
+enthusiasts looking for some dangerous fun.
+	Jenny, for example, is a woman whose hobbies include motorcycles 
+and collecting rare birds.  The head of a big East Coast-based ring is a 
+commercial airline pilot.  Another group leader is a junior studying 
+chemical engineering at Carnegie Mellon University in Pittsburgh, Pa.  
+Yet another is a grandmother, leader of an elite group called Nokturnal 
+Trading Alliance.
+	Their activities are, of course, illegal, potential felonies in 
+many cases.  And to most denizens of cyberspace, who use the Internet for 
+scientific research, legimate commerce and legal forms of entertainment, 
+the pirates are common vandals at best.
+	Still, a number of pirates agreed to allow a reporter to observe 
+their operations - both in person and via computer techniques that make 
+it possible to monitor computer activities remotely - on the condition 
+that their real names not be used.
+	The economic impact of the pirates' activities is difficult to 
+measure.  Electronic software theft via the Internet and other on-line 
+services accounts for about one-third of the $2.2 billion lost in the 
+United States last year as a result of piracy, according to the Business 
+Software Alliance, a trade group.  Pirates who mass-produce CD-ROM and 
+floppy disks with stolen software pose a much bigger problem.
+	But Internet software theft is growing rapidly, along with the 
+global network itself.  Even major, mainstream software programs - like 
+the new version of IBM's OS/2 operating system - are now routinely 
+obtainable for free on the Internet.
+	And the pirates' activities have other consequences as well.  
+They sometimes invade and effectively disable computers being used for 
+scientific research, for example.  And many in the information technology 
+industries fear that software theft and other illegal activities are 
+giving the Internet a bad name just when it is gaining unprecedented 
+popularity.
+	Yet stopping the pirates turns out to be a very difficult task.  
+Law enforcement agencies, software companies and even indignant 
+individuals are stepping up efforts to hunt down electronic lawbreakers, 
+but new methods of stealing and distributing stolen software are 
+developed every day.
+
+	By design, the Internet lacks any central administrative 
+authority, and security procedures aimed at thwarting pirates could 
+interfere with the philosophy of free and open communications that is 
+integral to the network.  Some suggest the thievery won't be stopped 
+until "bounty hunters" are recruited from the pirates' ranks and paid to 
+hunt their former cohorts.
+	It may be small comfort to the victims, but most of the pirates 
+interviewed for this story insisted they were not in it for the money.
+	"It was just for the thrill of getting free software or logging 
+onto pirate bulletin boards that normal people don't know about," said 
+Mike from Seattle, who says he has never earned a dime in his role as a 
+"courier" for a pirate group.
+	During the interview, conducted in a tidy suburban home that he 
+shares with friends, Mike uploaded a new program - "Lode Runner for 
+Windows" by Sierra Games - to the Internet from his custom-built 
+computer.  He then typed e-mail messages to other couriers notifying them 
+of the new game and instructing them to copy it to various pirate sites 
+around the world.
+	There appear to be about 20 major groups dedicated to software 
+piracy, a length Times investigation has found, with names such as Razor 
+1911, Tristar Red Sector Inc. (TRSi), Pirates With Attitude (PWA), 
+Revolutionizing International Piracy (RIP), Legend, Malice and Anti 
+Lamers Foundation (ALF).  The groups vary in size from 20 to 100 members, 
+and most have a similar hierarchy: group leaders, senior staff, regional 
+coordinators, couriers and members.
+	The groups divide into two broad types: releasing groups, which 
+arrange for software to be supplied and transferred to local computer 
+bulletin board systems, and courier groups, which have a worldwide 
+network of members who quickly transfer software from local bulletin 
+boards to the Internet for instantaneous worldwide distribution.
+	Operators generally pay a pirate group a "donation" of $50 to 
+$200 per month to carry that group's software on their bulletin boards.  
+The more successful groups boast as many as several dozen affiliated 
+bulletin boards.
+	The logistics of coordinating these far-flung networks are 
+daunting, but the pirates are resourceful.  One crucial communications 
+method is the Internet Relay Chat (IRC) system, a kind of citizens' band 
+of cyberspace that connects thousands of computer users in 21 countries.  
+A particular series of channels, known as "warez" channels, are used both 
+for conversation between software pirates and the on-line trading of 
+freshly stolen software.
+	But the IRC has its limits, and even computer hackers sometimes 
+need to talk with each other.
+	One method they have developed involves a "beige box," or 
+custom-built telephone.  The pirate travels a distance from his or her 
+home and taps into the exterior wiring of an apartment building or house 
+to arrange a conference call, possibly involing 20 people or more in 
+several countries, via an AT&T Alliance Teleconferencing opertor.
+	The pirate controls the conference call from a pay phone.  But at 
+the end of the month, the person whose line was tapped receives the bill 
+- which can run well into five figures.
+	Several leaders of software pirating groups also descrived a 
+method to avoid charges that involves a special computer program, a pay 
+phone and a recordable Hallmark greeting card that contains a small 
+computer memory.  The electronic sounds a quarter makes when dropped in a 
+pay phone are recorded on the memory chip, then are played back into the 
+phone in lieu of depositing money.
+
+	Despite the seeming case with which many pirates stay one step 
+ahead of law enforcement, there are plenty of risks - especially for 
+those who work in the computer industry.
+	On Aug. 3, Cupertino-based Symantec Corp., best known for its 
+line of Norton Utility software backup and security products, discovered 
+an employee in its Baton Rouge, La., facility running a pirate site on a 
+company computer.
+	A Symantec source says the company took the unusual step of 
+packing the offending computer inside a chilled and shielded container 
+and flying it to corporate headquarters in Cupertino for laboratory 
+analysis.  The employee - who the source said was motivated by "the 
+thrill of being part of the pirate scene" - was fired.
+	Last month, Dr. William L Sebok, an astronomer at the University 
+of Maryland, announed he had shut down a large pirate site that contained 
+more than 500 megabytes of stolen software - enough to fill half a dozen 
+personal computer hard disks.  The site had been running on a laboratory 
+computer used for processing images from the recent collision of Jupiter 
+and the Shoemaker-Levy comet.  The illegal use was detected three weeks 
+ago when processing on the computer inexplicably slowed to a crawl.
+	Maryland officials tried to trace the thieves back through the 
+Internet, but met with little success: Many pirates were found to have 
+used computer accounts belonging to university students in Switzerland, 
+Spain and Slovenia who were unaware their accounts were being used for 
+illicit purposes.
+	Still, Sebok says the time he spent tracking the pirates was well
+justified.
+	"I figured by shutting their site down, I would create a stir for 
+[the pirates] that would be worth it for me.  I didn't want to see the 
+cockroaches tunneling through our computer system any more," he said.
+	Law enforcement officials have grown more vigilant about computer
+crime of all types.  A group of special FBI agents now cruises the 
+Internet, and many local and state law enforcement agencies have been 
+training investigators to root out computer crime.  But software piracy - 
+especially involving games - takes a back seat to credit card theft and 
+other more destructive crimes.
+	Dr.G Gene Spafford, an associate professor at Purdue University 
+and a computer security expert, says software manufacturers and trade 
+groups like the Software Publishers Assn. may have to resort to frontier 
+justice to stem the tide of illicit software being transferred over the 
+Internet.
+
+	"Some of these same guys who are out pirating right now could 
+very easily turn in the rival groups for a buck or more, and they'll be 
+very willing to do so," Spafford said.  He expects to see bounty hunters 
+who get paid based on damages recovered or convictions of software 
+pirating groups.
+	"We are already seeing private detective agencies investigating 
+computer break-ins, because the local law enforcement agencies arn't 
+equipped," he added.
+	Robert Roden, general counsel at LucasArts, said the growth of 
+the Internet has made it much easier for people to steal and distribute 
+games around the world.  Usually a company sends out cease and desist 
+letters to pirates if it can find them, but that has become harder, Roden 
+said.
+	"If they're stealing 'TIE Fighter' because they love the game, 
+the irony in all of it is that they're harming the thing they love," 
+Rodden added.  "They're making it more difficult for software companies 
+to make these products and survive in the market."
+	But the pirates arn't much impressed with that argument.  On July 
+14, a 20-year-old pirate nicknamed Drizzt took a morning drive from his 
+home in the San Fernando Valley to Babbage's computer retail store at the 
+Glendale Galleria.  He wanted to check if LucasArts' "TIE Fighter" game 
+had come yet.
+	Glancing inside, Drizzt could see the game had not arrived.  On a 
+shelf near the front of the store stood empty "TIE Fighter" boxes, gaily 
+decorated with ribbons that said "coming soon."
+	Drizzt recalls laughing at the sight of those empty boxes.  "The 
+funny thing was," he later told a reporter, "I'd been playing that game 
+for the last seven days.  I'd downloaded it off the Internet, I didn't 
+have to pay for it, I was up to the sixth mission and it worked great."
+

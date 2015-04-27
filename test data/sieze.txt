@@ -1,0 +1,190 @@
+Sunday, June 3, 1990. New York times
+        Drive to counter computer crime aims at invaders
+           Legitimate users voice worries over rights
+By John Markoff
+Transcribed by Dr. Strangelove.
+
+  From Los Angeles to Atlanta, Federal and State law-enforcement
+agents have begun an intense battle against computer operators who
+break into government and business data systems.
+  The agents, under mounting pressure from corporations and
+lawmakers, say the crackdown is needed to halt a growing threat to
+commerce, research and national security.
+  But increasingly, civil liberties experts and even some computer
+industry executives say the crackdown is affecting computer users
+who are not breaking the law. These experts say such users are
+being intimidated and are suffering illegal searches and violations
+of their constitutional guarantees to free speech.
+                 Crimes `In the blink of an eye'
+  In many ways the computer crackdown parallels the campaign
+against drugs, with officials responding to an outcry over a
+serious problem only to confront another outcry over assaults on
+civil rights. 
+  "It's a whole new era," said Stephen McNamee, United States
+Attorney for Arizona, who has been a central figure in Government
+efforts to counter computer crime. "Computer are providing a new
+avenue for criminal activities. It is possible to transmit computer
+information for an illegal purpose in the blink of an eye."
+  But representative Don Edwards, a California Democrat, said the
+authorities had gone too far. "every time there is a perceived
+crisis, law-enforcement agencies and legislators overreact, and
+usually due process and civil liberties suffer," Mr. Edwards said.
+"The Fourth Amendment provides strict limits on rummaging though
+people's property."
+  The largest of several investigations under way around the
+country is a two year old federal effort called Operation Sun
+Devil, in which about 40 personal computer systems, including
+23,000 data disks, have been seized from homes and businesses. 
+  The seizures, resulting from 28 search warrants in 14 cities,
+haled the operations of some computer bulletin board, telephone-
+linked services that permit users to post and read messages. Little
+or any of the confiscated equipment had been returned. In all,
+seven people have been arrested so far. 
+ 
+  One computer game maker who has not been charged says he is on
+the verge of going out of business since investigators seized his
+equipment. 
+  In related inquires, the Secret Service has surreptitiously
+eavesdropped on computer bulletin boards and telephone
+conversations, and in the process agents have entered these
+networks posing as legitimate users and traded information.
+
+  In an unrelated investigation of the theft of an important
+program from Apple Computer Inc. last year, dozens of experts and
+hobbyists have recently been interrogates by the Federal Bureau of
+Investigation.
+
+  Civil libertarians and some business executives have begin to
+organize defenses, amount them is Mitchell D. Kapor, creator of the
+nation's most popular software program, the Lotus 1-2-3-
+spreadsheet, who is planning to help finance a legal defense fnud
+of several hundred thousand dollars for some of those accused. 
+
+                  Legal protections are unclear
+
+  Harvery Silvergate, a Massachusetts lawyer and civil liberties
+expert who is working with Mr. Kapor, said, "You have innocent
+people who are being terrorized as well as investigators of people
+who have broken the law." He termed the Government action a
+"Typical American solutions: throw your best and brightest in
+jail."
+  Officials of the Secret Service, which since 1984 has been the
+primary Federal enforcer of computer fraud laws, believe that an
+alarming number of bright young computer enthusiasts are using
+computer illegally.
+  "Often," said Gary M. Jenkins, Secret Service assistant director,
+"a progression of criminal activity occurs which involves
+telecommunication fraud, unauthorized access to other computers,
+credit card fraud, and then moves on to other destructive
+activities like computer viruses." [How many buttons can we push in
+one sentence? Sheesh!]
+                  A 1986 Law on Computer Crime
+  A 1986 Federal Law on computer fraud and abuse makes it a crime
+to enter computers or take information from them without
+authorization. 
+  But Mr. Kapor of Lotus said he believes that danger posed by the
+computer joy riders has been greatly exaggerates. "Now that the
+Communists aren't our enemies anymore, the American psyche has to
+end up inventing new ones," he said.
+  He and other experts are also alarmed by new investigative
+techniques that employ computers. The power of advanced machines
+multiplies the risk of search and seizure violations, these experts
+say, because they can perform so many simultaneous tasks and absorb
+and analyze so much information. 
+  Moreover, civil liberties advocates say the perils are greater
+because legal precedents are not clear on how the First Amendment
+protects against searches and seizures in the electronic world.
+                     Government surveillance
+  In response to a count-enforceable request under the freedom of
+Information Act, the Secret Service has acknowledged that it sa
+monitored computer bulletin boards. In its answer to the request,
+made my Representative Edwards, the agency said its agents, acting
+as legitimate users, had secretly monitored communication on
+computer bulletin boards. The agency also disclosed it has a new
+Computer Diagnostic Center, in which the data on computer disks
+seized in raids is evaluates by machines operation automatically.
+  Civil liberties specialists view suck practices a potentially
+harmful.
+
+  "Computer mail unrelated to an investigation could be swept up in
+the Government's electronic dragnet if the law is not carefully
+tailored to a well defined purpose," said Marc Torenberg, the
+Washington director for the Computer Professional for Social
+Responsibility. 
+  The Government's Operation Sun Devil was set up primarily to
+fight a loose association of several dozen computer hobbyists,
+including teenagers, who referred to themselves as the Legion of
+Doom. [Publicity hogs incarnate] Members in various cities stayed
+in touch through computer networks and bulletin board and exchanged
+technical information of how to break into computer systems.
+
+  In February a federal grand jury in Chicago indicted two members,
+Craig Neidorf, 20 years old, and Robert J. Riggs, 21, for
+exchanging a six-page document describing the operation of the
+Southern Bell 911 emergency system.
+                  Private Document Distributed
+
+  The indictment, under the 1986 computer fraud law charges that in
+December 1988 Mr. Rigs broke into a company computer and stole the
+document, which the company valued at more than $76,000. He
+transferred it to Mr. Niedorf by electronic mail on a bulletin
+board in Lockport, Ill., the indictment said, and Mr. Niedorf later
+reproduces it in an electronic newspaper. [I bet anything that
+document is somewhere on this system. A lolly for anyone who finds
+it - Dr. Strangelove] 
+  Computer security experts say documents like the 911 description
+are usually not taken for profit, but rather for the challenge of
+doing it. Some members of the computer underground create elaborate
+manuals on how to violate computer security as a sport or hobby.
+  But law enforcement officials do no se it as a game. Because
+modern society has come to depend on computer for so much of it's
+government and commercial business, officials view intrusions as
+threats not only to private property, but also to the very
+operations of the systems.
+  In another part of the Sun Devil investigation, Secret Service
+agents in March confiscated from steve Jackson Games, a small
+Austin, Tex., company. 
+  Mr. Jackson, the company's president, sad the agents were seeking
+a rule book for a fantasy game that deal with "cyberpunk," the
+science fiction world where high technology and outlaw society
+intersect.
+
+  Mr. Jackson said he still did not know why his company had been
+searched. He said the Secret Service officials had promised three
+times to return his equipment and software but still had not done
+so. He said he had been forced to lay off 8 of his 17 employees and
+the that company was on the verge of going out of business. 
+  "It raises first amendment questions," said Mr. Jackson. "it's a
+frightening precedent. I don't think they would have done it to
+I.B.M." 
+  Law enforcement officials say they have difficulty returning
+seized computers and software promptly. 
+                      A Sweep in 14 Cities
+The largest operation in the Sun Devil investigation came on May 8
+when more than 150 Secret Service agents, plus state and local law-
+enforcement officers, served the 28 search warrants in 14 cities:
+Chicago, Cincinnati, Detroit, Los Angeles, Miami, Newark, Ne York,
+Phoenix, Pittsburgh, Plano, Tex.; Richmond, Va.; San Diego; San
+Jose, Calif., and Tuscon, Ariz. In all, seven people, including me.
+riggs and Mr. Niedorf, have been arrested.
+
+  In a separate investigation, the F.B.I. has been searching for a
+year for members of a group that stole basic programming
+information from Apple Computer and mailed coped to people in the
+press and the computer industry. The group said that it stole the
+software which is fundamental to the operation of Macintosh
+computers, to protect apple's refusal to let other makers copy the
+Macintosh. [Sounds like a dissambly of either the ROMs or the OS]
+  The group calls itself the Neopromethus League, from the
+character in Greek Mythology who stole fire from the gods. 
+  Organizers of an annual West Coast computer meeting known as the
+Hackers' conference said at least a dozen of the several hundred
+people who atteneded last year's even had reported being recent;y
+by the F.B.I. agents about the Apple theft.
+  The Hackers' conference began in 1984 after the publication of
+the book "Hackers" by Steven Levy, an account of computer industry
+pioneer at M.I.T. and in Silicon Valley. 
+  There is no evidence that the Apple theft was linger to people
+who atteneded the Hacker's conference and Leo Cunningham, assistant
+United States Attorney in San Jose, Calif., wound not comment on
+any facet of the case. 

@@ -1,0 +1,90 @@
+Software Piracy - NZListener 13-8-90
+
+Author: Chris Barton
+NZ Listener, August 13 1990.
+
+The copy command for IBM PCs and compatibles is seductively simple.
+You type: copy *.* a: You say: copy space star-dot-star space ay colon.
+People think the gibberish you're muttering indicates brain damage from too
+much exposure to low-level radiation from your computer screen. Wrong. Your
+computerspeak command to your PC simply translates to: copy a whole bunch of
+files onto the magnetic disk I've just placed in the disk drive named "a".
+
+This language is based on the principle of "your wish is my command", but get
+the command right. Its minimalist approach to communication demands precision
+and has no time for nuance, ambiguity or shades of meaning. Spell incorrectly
+or get a colon or a space out of place and the PC will come back with a curt
+error message like "Bad command or file name" and then sit steadfastly silent,
+oblivious to your curses, until you try again.
+
+The computer is also amoral. It's language has no words to warn you about the
+consequences of your actions. For example, it doesn't think of telling you that
+when you use the commands like copy *.* or diskcopy a: b: (diskcopy space ay
+colon space bee colon) that you could be committing theft. Or that, depending on
+whether they prosecute you under the Crimes Act or the Copyright Act, you could
+be facing imprisonment for up to 10 years, fines or a civil action for
+substantial damages. The PC is indifferent to the fact that in Australia fines
+up to $250,000 have been imposed.
+
+No one has been successfully prosecuted for illegally copying software in New
+Zealand yet. But if we believe what the software vendors tell us, the country
+is riddled with software thieves. They say up to 50 percent of all business
+software products such as wordprocessors and spreadsheets in use in New Zealand
+are illegal or "pirated" copies. And the recently formed New Zealand Business
+Software Association (NZBSA) - an alliance of software vendors - claims in the
+coming year "an estimated $80 million revenue will be forfeited by the New
+Zealand information industry alone as a result of widespread unauthorised
+copying and related illegal practices".
+
+So, if software piracy is rampant, why hasn't anyone been prosecuted? Well, it
+could be because software copyright has never been fully tested in New Zealand
+courts, although a judgment by Justice Smellie in favour of IBM in a copyright
+case against Computer Imports in March 1989 went some way towards setting a
+precedent. The problem is the New Zealand Copyright Act came into existence in
+1962 when the computer industry was still in its infancy and contains no
+explicit references to computer software. This means any case will have to argue
+whether or not software constitutes a "literary work" as defined in the act and
+whether, in its machine-coded form, it is a "translation" or "adaptation" of
+the literary work. New Zealand legal minds are no doubt itching to sort this
+out.
+
+There are also cases of copying to other magnetic media such as video or audio
+cassette tape where copyright has been infringed and where prosecutions have
+been successful. But perhaps the real reason for little action being taken is
+that the copying of software in endemic and so easy to do.
+
+Software is an expensive item in any computer purchase - around $1000 each for
+well-known brands of database, wordprocessor or spreadsheet - and the ease with
+which you can copy these on to blank disks costing around $5 is very tempting,
+even if you don't get the software manual and the benefit of software upgrades.
+Some argue software vendors should look to a technological solution like the
+special chip included in the new digital audio tape (DAT) recorders being sold
+in the US which prevent making tape copies from compact disc players.
+
+But it's really a case of trying to shut the stable door after the horse has
+bolted. Although copy protection techniques have been used in some software,
+they've never been very successful and tend to cause problems in everyday use.
+And the vast quantity of existing pirated software makes the task even more
+difficult. Which is why the NZBSA is adopting an educate rather than prosecute
+approach. The main targets are educational institutions and large businesses
+where software is "shared" among the students or employees. And from time to
+time these sorts of institutions undergo a major purge of pirated software as
+was seen recently at Auckland Technical Institute.
+
+The NZBSA is also about to publish its "Software Compliance Manual for Decision
+Makers" which gives guidelines on the whole issue of copying software and its
+prevention.
+
+While no one expects the NZBSA to start breaking down doors and seizing personal
+computers, it's clear a prosecution test case would show they mean business. In
+the meantime expect to see warning notices appear around your place of work. The
+NZBSA example reads:
+
+WARNING
+Making unauthorised copies of software is a criminal act and can
+expose you to instant dismissal, substantial fines, claims for
+civil damages and even a jail term. Don't jeopardise your career.
+Use only original software.
+
+
+

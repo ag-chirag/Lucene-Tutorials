@@ -1,0 +1,826 @@
+
+
+                                                                       $3.95
+
+         B  O  A  R  D  W  A  T  C  H      M  A  G  A  Z  I  N  E
+
+                   Guide to the World of Online Services
+
+ 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
+ Editor: Jack Rickard   Volume VII: Issue 4    ISSN:1054-2760      April 1993
+ 様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様様
+
+              Copyright 1993 Jack Rickard - ALL RIGHTS RESERVED
+
+ Boardwatch Magazine is published monthly in printed form at an annual
+ subscription rate of $36. In most cases, the operator of the local system
+ carrying Boardwatch Online Edition can process your subscription order.
+ Editorial comment may be addressed to Editor, BOARDWATCH MAGAZINE, 7586 West
+ Jewell, Suite 200, Lakewood, CO 80232. (303)973-6038 voice, (303)973-4222
+ data, (303)986-8754 fax. 
+
+               SUBSCRIPTION VOICE ORDER LINE - 1-800-933-6038
+
+ The April issue of Boardwatch Magazine included several articles on legal
+ issues of importance to the BBS community.  This has led to the largest 
+ number of requests for reprints in the six-year history of Boardwatch 
+ Magazine and hundreds of requests from BBS operators for permission to 
+ repost the editorial and article on the seizure of Rusty & Edie's BBS.
+ As a service to the online community, we have extracted these particular
+ articles of interest in this file.  You may freely distribute this file on
+ bulletin boards and online information services, without restriction.
+
+ Jack Rickard
+ Editor
+
+
+ ==============
+ EDITOR'S NOTES
+ ==============
+
+ IT'S AGAINST THE LAW
+ --------------------
+
+I don't condone software piracy. I'm not one of those that believe everything
+should be free. I know too many people who spend their nights trying to
+puzzle out their next piece of code, and none of them resemble Bill Gates
+very closely. Most are like Bob Fairburn, trying to put together a little
+thing done well, do what they love, and eeek out a living doing it. More
+generally, nothing comes from nothing, and without economic legs, little in
+this world advances very far, or has much impact.
+
+I also confess some reticence regarding the topic of pornography. I
+personally don't even take the Sports Illustrated swimsuit issue, and I
+generally shower in the dark. Photos of fat chicks with donkeys don't do any
+more for me than they do for the donkey, and frankly, some of the images I
+have had the privilege of viewing online would make even the donkey blush. I
+don't find any lofty position posturing for "freedom of speech or
+expression", artistic merit, or anything else in photo-images involving
+little girls, animals, or graphic depictions of homosexual acts. Despite the
+howls of rage from the terribly concerned, I find no high ground to take on
+this issue not already staked out by someone braying with less intelligence
+than the donkey could possibly muster.
+
+And while it is a very small cut of what goes on in cyberspace, it does go
+on. There are victims. Not terribly directly. And they are not terribly
+damaged. But there are the issues of crime and victim, and we should deal
+with them in an appropriate degree through the existing apparatus of law.
+
+There is also the concept of a level playing field. BBS operators who work
+within established legal and business norms are immediately put at a
+competitive disadvantage when some BBS operators decide the law does not
+apply to them. The nature of callers being what it is, a BBS offering
+commercial software freely for download, or offering clearly obscene
+materials online, will find an audience pretty quickly. Reaching 100 lines in
+just a few years is quite a task for those playing by the rules.
+
+All that said, we've got a problem. It goes to the heart of a basic sense of
+dishonesty among our law enforcement apparatus. And it's becoming awkwardly
+difficult to tell the criminals from the police. The current mode is to use a
+poorly thought out law intended for mobsters and drug kingpins to seize
+computer equipment of bulletin boards and other businesses suspected of
+information crimes. In most cases to date, these seizures have not resulted
+in criminal charges.
+
+Whenever called to task on this topic, the FBI, Secret Service, and local law
+enforcement invariably harp that they were simply gathering evidence as part
+of the investigation. This is so disingenuous as to be criminal. They don't
+normally even have the courtesy of hiding their  posture on this topic. It is
+a planned campaign of terror intended to frighten BBS operators into
+compliance by the threat of an electronic and economic death penalty. The
+problem with this, and the very reason our founding fathers barred such
+activity as part of our Constitution, is that it is all too easy to get the
+wrong man. And the system further then becomes subject to political or
+economic motivators inappropriate to a system of justice.
+
+Personal computers are not simply evidence gathering machines. They've become
+so central to the operation of bulletin boards, publishers, software vendors
+and developers, and many other businesses, that seizing them constitutes a
+sentence of economic bankruptcy - from the minute the seizure is made.
+
+There is a principle established by our founding fathers in their
+Constitutional compromise that was quite explicit in that a resident of these
+United States is held to be innocent until proven guilty and adjudged to be
+so by a jury of his peers. In theory, you can be caught red handed running a
+lawn mower over piles of human bodies stacked on your front lawn and an FBI
+agent or policeman can't find you "guilty" of anything by themselves. They
+can detain you on suspicion and present you for prosecution. In fact, judges
+cannot actually find you guilty of criminal wrong doing under our system of
+justice. Twelve of your uninterested neighbors who are NOT professionally
+part of the system have to agree that you are indeed guilty before our system
+can mete out a punishment. This current practice of seizing equipment under
+color of search warrant abrogates all the protections built into our
+Constitutional form of government to preclude this. As such, they constitute
+not merely a procedural faux pas, but treason.
+
+The Steve Jackson Games Trial illustrates the mockery made of our legal
+system by bumbling, ignorant law enforcement officials who very nearly put
+this man out of business by breaking into his office, stealing all his
+equipment and business records, and there was NEVER a charge filed against
+him. Indeed, the investigation leading to this ridiculous activity has all
+the appearance of a mistake. He's not only innocent of all charges, there
+WERE NO CHARGES and indeed he was apparently not only the wrong guy, it was
+even the wrong BBS. They were looking for ANOTHER BBS that used the same WWIV
+software in the same city.
+
+The government's main defense in this case actually appears to be that they
+were unaware of the Privacy Protection Act, unaware that Steve Jackson Games
+was a publisher, and that anyway the seizure brought the company media
+attention and it was HELPED by the publicity. This would all be evil if there
+were anyone in charge of this with enough sense to have had a design. The
+lame protestations of the defense in this civil trial finally even turned the
+judge livid.
+
+And it doesn't stop there. On Saturday, January 30, Russell Hardenburgh had
+all the equipment it took him years to purchase, and I would think years just
+to wire together into a 124 line BBS, seized and hauled away. He has a very
+difficult task rebuilding a business he's been building since 1987. That he
+made copyrighted software available on this system is quite likely, indeed it
+was viewed as the biggest open secret in the BBS community, and most BBS
+operators thought something ought to be done about it. But as of this
+writing, he hasn't been charged with anything at all. He has already lost his
+BBS and his 14,000 subscribers are likewise out in the cold - BEFORE any
+charges have been brought. If the man had been pureeing neighborhood kids in
+the kitchen blender he would have at least had a trial before beginning his
+sentence.
+
+Similarly Joey Jay had his 32-line system hauled away from his Chesterfield
+Missouri home on January 15, again by the FBI, on allegations of pornographic
+images. They threatened his FATHER with seizure of his HOUSE and the man
+subsequently threw his son out into the street. Jay lost his BBS AND his
+HOME. I would guess from talking to him that Jay DID have such images online.
+And that may in fact be illegal. But it doesn't appear we'll ever know. There
+were no charges filed. The penalty was again levied BEFORE the process was
+even begun.
+
+We don't know that these two men are guilty. We don't know that they are not.
+We will quite likely NEVER know because it's unlikely they will ever be
+charged. Their computers were arrested. And it's striking fear in the hearts
+of computers everywhere. If this were due to mistakes, it would be one thing.
+But it isn't. It is part of a planned and executed design to enforce law by
+not enforcing it. To simply arrest equipment, forego the expense and bother
+of a trial, and let the victims serve as "examples." If anyone questions
+this, they innocently claim to simply be gathering evidence - knowing full
+well they've already sentenced the suspect to bankruptcy.
+
+Not only have the lives and livelihoods of all of these individuals been
+irretrievably damaged, but large numbers of people who used these systems
+have found their correspondence has become the property of the government,
+that government agents are pouring over their private electronic mail, and
+that their right to assemble and to communicate has not been abridged, it has
+been abrogated in its entirety - without acknowledgement, notice, or
+explanation.
+
+Through the gross misapplication of existing evidenciary practices, federal
+law enforcement officials have basically abrogated their responsibility to
+enforce laws at all. They are not charging lawbreakers, they are not
+prosecuting law breakers, they are RUINING individuals who they have reason
+to believe MIGHT be breaking the law - often on terribly thin allegations.
+They have taken on the role of judge, jury, and executioner largely because
+it is inconvenient and expensive to learn the technology and make their case
+in court. So they cunningly just use the evidence gathering function to
+deliver the punishment and to hell with the rest of the process.
+
+And that is no law at all. It is a crime. Not a small crime. And not a
+victimless crime. It is a crime of treason against the state, against our
+nation, against our citizens, and against our way of life. And it is a crime
+all out of proportion to crimes of copyright infringement or donkey
+pornography. Realistically a fine and some community service would likely
+cover the donkey and the grevious harm done Novell. Treason and the designed
+overthrow of our Constitutional form of government is generally held to be
+more serious.
+
+As we sit, on any allegation from virtually anyone that wishes you ill, our
+government can, and in fact may, break down your door, take your computer
+equipment and business records, and disappear in the night with virtually no
+explanation and it will take you years of legal effort and hundreds of
+thousands of dollars to ever retrieve it. It is a peculiarity of our
+technological age that this act is virtually an airtight assurance of your
+bankruptcy. By the time you get your day in court, if you are wealthy enough
+to afford it, the business you worked for years to build will have been long
+gone.
+
+You may be guilty yourself of a crime. You may not. It may never come up. On
+the signature of a bureaucrat so ignorant he can't list a file directory, you
+can be ruined. And there are enough cases of it happening already that this
+is no longer an abstract theory. It is happening and has happened repeatedly
+within the last 45 days. It is happening by design. They are proud of it. And
+they fully believe that they not only are above the law, but that they ARE
+the law.
+
+None of this falls within the powers we as a people have granted the state -
+ever. Our representatives didn't do it by "mistake." A small group of
+bureaucrats who have made a life of snuffling up to the public trough for a
+living have taken it upon themselves to do this thing - mainly because it's
+easy, and because it works - and because nobody has yet yelled booger.
+
+I do not concur with those who treat this situation as something requiring
+education and conciliation. I have no reason to believe we need to establish
+"credibility" with our legal system. It has to establish credibility with us.
+At this point, they seem to seek control by a rule of fear and intimidation -
+a tactic outside our system of law.
+
+It is the ultimate irony of our time that in a period where totalitarian
+governments all over the face of the planet are folding their tents in
+failure, our nation seems bent on establishing their own as if it were all a
+new idea. Copy all the software you like. Titillate yourselves till your eyes
+bleed with goofy bit-images. No matter how you arrange the pixels, as
+criminals, you're all small timers compared to the felons and traitors behind
+the badge.
+
+Bill Clinton probably doesn't read all his e-mail at
+75300.3115@compuserve.com. But somebody will have to. And your elected
+representative in Washington would be a good follow up. They won't know
+there's a problem if you don't tell them. It's a sure bet the SPA is unlikely
+to carry the torch for you. There's twelve million of you online. And if you
+don't want to have to apply for the government's permission for every
+tagline, we'd better get in motion.
+
+Booger.
+
+ Jack Rickard
+ Editor Rotundus
+
+
+ ===============================================
+ FILES FROM THE FBI - BULLETIN BOARDS AND BADGES
+ ===============================================
+
+ RUSTY & EDIE'S BBS SEIZED BY THE FBI
+ ------------------------------------
+
+Rusty & Edie's BBS touted the fact that they had only two rules: 1. Have fun
+and 2. No More Rules. It would appear they are going to soon add a third rule
+to their operation - No Commercial Software.
+
+After several years operating as the biggest open secret in BBSland, the 124
+line BBS operated from the home of Russell And Edwina Hardenburgh in Boardman
+Ohio was raided by the FBI. On Saturday afternoon, January 30, FBI agents
+presented Rusty with a search warrant. Approximately 130 personal computers,
+modems, LAN cabling, software packages, and subscriber records were seized as
+evidence and hauled away - essentially terminating all operations.
+
+Claiming some 14,000 subscribers to a system sporting a registration fee of
+some $89 per year and 124 access telephone lines, Rusty & Edie's was one of
+the nation's largest bulletin board systems. They claimed some 3.4 million
+calls since going online and were receiving some 4000 calls daily when the
+system went offline. The system featured over a 100,000 shareware files on 19
+Gigabytes of file storage. They were charged with distributing copyrighted
+commercial software on their BBS. And while the Software Publishers
+Association (SPA) was quick to step forward and take credit for the FBI
+action, it was actually quite late on the scene with this one. And therein
+lies a tale.
+
+Five years ago, Bob Fairburn had a heart attack. A restaurant manager in
+Kansas with a wife and children, Fairburn could not obtain life insurance and
+was assured by doctors that he had a life expectancy of five years or less.
+He pondered for months on how he could somehow assure his family an income
+after his death. And he decided that there were two things a man could do in
+America to generate ongoing income - write a book or invent something.
+
+So he set out to write the Great American Novel. After months of effort, he
+read through his manuscript and decided even he wouldn't buy it. So he cast
+about for something he could invent. But again, he found he just didn't have
+the inspiration to be an Edison. His son had a small personal computer and
+was already writing games in BASIC. Fairburn took a look at it and decided
+this was something he could do.
+
+He bought every book he could find on computer programming, and he signed up
+on Bob Mahoney's Shorewood Wisconsin EXEC-PC BBS. He downloaded hundreds of
+files from the BBS containing code fragments, examples, programming
+tutorials, and anything he could find on programming. Starting in BASIC, he
+eventually moved on to PASCAL. And he came up with an idea for a program. He
+called it HOME DESIGNER and it was basically a simple CAD package to design
+home floor plans, place and arrange furniture, and try out various designs
+for your home or office.
+
+Fairburn decided shareware wasn't the way to go to generate cash. So he
+solicited software distributors for months. Eventually, a company in Florida
+called Expert Software picked up the title and launched Expert Home Design -
+at the staggering price of $14.95 retail.
+
+According to Fairburn, he only gets fifty cents for each copy sold, but the
+program caught on and he reached the point that he was making a living. He
+bought a farm outside of Leavenworth Kansas and to get needed physical
+exercise, began clearing it and converting it into a wildlife park. He hired
+an assistant, and continued software development.
+
+About a year ago, he dialed his old haunt at Bob Mahoney's EXEC-PC BBS, and
+there was his commercial software program listed in the download directory
+with BBS callers downloading it madly. Stunned, he called Bob Mahoney voice
+and asked him about. Mahoney immediately apologized and removed the file from
+the directory. In examining the file, they found a small file in it
+advertising that it came from Rusty & Edie's BBS. Mahoney explained that
+sometimes callers are confused by the difference between shareware software
+and commercial software and in an effort to contribute something, they upload
+commercial software to bulletin boards sometimes without realizing the
+impact. "Most BBS operators will remove it immediately if you call their
+attention to it," Mahoney assured him.
+
+So Fairburn dialed Rusty & Edie's BBS and did indeed find his program
+available for download there as well. He selected the editor and began
+drafting a message to the sysop explaining the situation and asking that the
+file be removed. According to Fairburn, while he was typing the message,
+Rusty broke into real-time chat and rather rudely told him that he wasn't
+responsible for every file that anybody uploaded to the BBS, that they
+received megabytes of file uploads each day, and that he would remove the
+file whenever he felt like it and got around to it.
+
+Despite the harsh tone, Fairburn accepted this explanation. But when he
+called a week later, the file was still there.
+
+"Understand," explains Fairburn, "I'm not Bill Gates. I only get fifty cents
+per copy sold, and my family depends on this for a living. This guy was
+running a giant bulletin board and taking in lots of subscriptions, and
+basically he was stealing my software. I just got mad about it."
+
+Fairburn called the FBI office in Kansas City and complained. They were quite
+nice but not very helpful during the call. But about a month later, Fairburn
+answered a knock on the door to find an FBI agent on the front porch - there
+to investigate his problem. Fairburn took the agent into the den and logged
+onto Rusty & Edie's BBS. They logged the session to disk and he showed him
+not only his own program in the directory, but copies of Borland's Software,
+Novell's LAN software, a number of Microsoft programs, Quicken, and according
+to Fairburn, "virtually every commercial game program made."
+
+Fairburn was discouraged to learn that the agent knew nothing about
+computers. But he gave him a disk with the logged session on it, some files
+they actually downloaded, and a copy of PKZIP so he could extract the files.
+He patiently explained what PKZIP did, and why it needed to be done. The
+agent thanked him and left - telling him they would turn it over to their
+Cleveland office.
+
+Last October, nearly six months after the initial contact, the FBI contacted
+Fairburn to ask if he would be willing to fly to Ohio at their expense to
+testify against the Hardenburgh's in the event they decided to prosecute the
+case. Fairburn agreed as long as they would cover his travel expenses.
+
+He had also notified the publishing company that distributed his software.
+And apparently they did contact the SPA. The FBI had apparently contacted
+several of the other software vendors whose programs were found in the log
+files, and they had in turn contacted the SPA - ergo the SPA involvement.
+
+On January 30th, the FBI served a search warrant on Rusty & Edie's BBS, and
+essentially trucked it away - an estimated $200,000 worth of computing
+equipment.
+
+The bust has evoked mixed reactions online. While the eternally concerned on
+the Internet were outraged by the Constitutional implications, competing BBS
+operators were not quite so adamant. According to Kevin Behrens of Aquila
+BBS, a 32-line PCBoard system in Chicago, "Rusty Edie's was the worst-kept
+secret in the industry. I don't know if it's a shame or about time."
+
+Bob Mahoney of EXEC-PC was a bit more direct. "In some ways, this is a
+competitive situation and every honest sysop is at a disadvantage. Imagine
+operating a car wash with a competing car wash across the street. The
+difference is that they give away a $20 gold piece with each car wash, but
+you aren't allowed to because it is against the law."
+
+Mahoney went on to note, "There's also something a bit annoying about
+computer people (BBS operators) ripping off other computer people (software
+authors). It's a bit like cannibalism within the family. I have a problem
+with that."
+
+Hardenburgh refused to comment on the situation noting the usual advice of
+his lawyer not to discuss the case. "I will say I never thought something
+like this could happen in America and I'm shocked and very disappointed."
+Hardenburgh vowed to have the system back up on new equipment by March 1 at
+the (216)726-1247 number, and expressed his hope that "his caller base would
+back him on this one."
+
+"When this is all over, I want to come out to that ONE BBSCON in Colorado and
+tell you all an earful. You're not going to believe what can happen to a
+BBS," vowed Hardenburgh.
+
+The situation may be further complicated by a recent change to the copyright
+law, ostensibly driven by the SPA. On October 28, 1992, the 102nd Congress
+passed Senate Bill 893 - which became Public Law 102-561 revising Title 18 of
+the United States Code. Under Section 2319(b) of title 18, the criminal
+penalties for copyright infringement were dramatically changed. Previously,
+anyone making 1000 copies or more of a copyrighted work were eligible for the
+maximum penalty. Under the revision, that is reduced to anyone making 10 or
+more copies with a retail value exceeding a total of $2500 or more within a
+180-day period. If found guilty, they may be subject to sentences of up to
+five years and fines of up to $250,000.
+
+As of this writing, Hardenburgh has not been charged with any crime. Thomas
+F. Jones, Cleveland special agent-in-charge noted in a statement that the
+Youngstown FBI did serve a search warrant on Hardenburgh's home January 30th.
+The warrant alleges the couple illegally distributed copyrighted computer
+software programs to bulletin board subscribers without permission of
+copyright owners. There was apparently no implication of pornography.
+
+And Fairburn? Well, he's exceeded his five year projected life span and seems
+to be doing reasonably will from a cardiac perspective. He did drop a piece
+of a tree on his arm with a loader in January and has a bit of a problem with
+his arm. But his Expert Home Designer was extremely well reviewed in the
+After Hours column of PC Magazine's August '92 issue, and while at $14.95
+it's not one of the big dollar generating software packages, numerically it
+is the 17th fastest selling software package in America. It's discounted to
+as little as $7.95 in grocery stores and apparently the country wants to
+rearrange their furniture on screen. The program is available from Expert
+Software, PO Box 143376, Coral Gables, FL 33134; (800)759-2562 voice;
+(305)443-3255 fax. Bob Fairburn can be reached at 1004 2nd Ave., Leavenworth
+KS, 66048; (913)651-3715 voice.
+
+Other BBS operators are concerned by the implications of the raids.
+Typically, any BBS is subject to receiving uploads of commercial software
+from callers. And while most do a very good job of screening out the obvious
+Microsoft Word or Lotus 123 program, there are tens of thousands of
+commercial programs like EXPERT HOME DESIGNER that aren't immediately obvious
+in an environment that also includes over 100,000 shareware titles that are
+perfectly acceptable to carry online.
+
+Most attempts by conscientious  system operators to automate the task of
+separating commercial software from shareware software have had very limited
+success. Typically, search software examines uploaded .ZIP files to detect
+content files with a certain 32-bit Cyclic Redundancy Check (CRC) signature.
+But these signatures have not proven to be reliable or unique. Andy Keeves of
+Executive Network BBS in Mount Vernon, New York, has devised what may be the
+beginnings of a solution. A database has been compiled using the FWKCS
+"Content Signature" system made available by Dr. F.W. Kantor of New York with
+the cooperation of several software manufacturers. Kantor's system uses a 64
+bit signature based on both a CRC of the file and the file length. This is
+proving significantly more reliable.
+
+The Executive Network supplies a diskette with instructions to any software
+manufacturer on request in order to help them identify critical components of
+their work. When the manufacturer submits the generated "signatures" to the
+Executive Network, they are incorporated into a database. A software program
+automatically deletes any uploads containing one of the registered
+signatures. Software manufacturers can request the identification software by
+contacting Mr. Black at Executive Network voice (914)667-2150 or by modem at
+(914)667-4567. There is no charge for either the diskette or the service. BBS
+operators will be able to download the database for their own use at no
+charge.  According to Keeves, the database already contains several thousand
+signatures.
+
+Executive Network is one of the largest bulletin boards in the country with
+over 12 GB of files online, international e-mail, and vendor support areas.
+The Executive Network Information System, 10 Fiske Place, Mount Vernon, NY
+10550; (914)667-2150 voice; (914)667-4567 BBS; (914)667-4817.
+
+
+ BUST TWO - OFFWORLD BBS SEIZED IN ST.LOUIS
+ ------------------------------------------
+
+Joey Jay operated one of the more popular bulletin board systems in the St.
+Louis area. Offworld BBS operated on 32 telephone lines at (314)579-0700
+using the DLX software popular among real-time chat systems. It gained quite
+a following as a local chat system. Jay, 28 years old, operated the system
+from the basement of his fathers home in Chesterfield Missouri. Some 4300
+local callers frequented the system.
+
+On Friday evening, January 15th, at about 8:52 PM CST, the FBI served a
+search warrant and seized six computer systems, modems, all tape backups, -
+some $40,000 worth of computer hardware and software in all - on suspicion of
+interstate distribution of child pornography and images containing
+bestiality.
+
+According to Jay, there were images occasionally uploaded to the board as
+file attachments on private e-mail between callers. When he would detect
+them, he did delete them as a matter of practice and kick the caller off the
+system. He routinely tossed them into a SHREDME directory for later deletion
+with Norton's WIPE utility. He acknowledges that there were some questionable
+images in the SHREDME directory when the computer equipment was seized and
+notes he's not certain what was on the BBS as he had just returned from a
+week of snowboarding in Colorado when the raid occurred. He did maintain a
+regular file directory containing images of bestiality and was unaware it was
+against the law to do so.
+
+In addition to the equipment seizure, the FBI alluded to the fact that if the
+system came back up, they could, under law, seize Jay's father's house. His
+father asked Jay to move out of the premises.
+
+About 100 angry Offworld users gathered the following Monday at a support
+rally. Jay is receiving contributions of equipment and money to get the
+system back online and plans to do so soon. He has a one line message system
+up at the old number now. Jay originally started Offworld in Los Angeles
+where it operated from February of 1984 until June of 1992, when he moved it
+to the St. Louis area. He has retained Arthur Margulas, an ex-FBI agent and
+federal crime attorney practicing in St. Louis to represent him, and has been
+in close contact with Mike Godwin of the Electronic Frontier Foundation.
+
+
+ STEVE JACKSON GAMES vs. U.S. SECRET SERVICE - TRIAL
+ ---------------------------------------------------
+
+On March 1, 1990, the United States Secret Service, participating in a
+nationwide sweep code named Operation SunDevil, launched an early morning
+raid on Steve Jackson Games, an Austin Texas publisher of role-playing games
+and books. They broke locks on doors, seized and carted away all personal
+computer equipment, business records, manuscripts of books being prepared for
+publication, and all hardware and software of the Illuminati bulletin board
+system run by SJG at (512)447-4449 to communicate with writers, customers,
+and fans of the game series published by Jackson. Steve Jackson arrived at
+work to find his business already loaded and ready to roll. Agents on the
+scene refused to answer any questions, and they presented a search warrant
+with essentially no information on it.
+
+With his business records, computers, and manuscripts gone, Jackson laid off
+workers in an effort to stave off bankruptcy. No charges were filed against
+Jackson, and months of appeals to have the equipment and records returned met
+with very limited success. In May, 1991, with the assistance of the
+Electronic Frontier Foundation, Steve Jackson and the EFF filed a civil suit
+against the United States Secret Service, Secret Service Agents Timothy Foley
+and Barbara Golden, Assistant United States Attorney William Cook, and Henry
+Kluepfel.
+
+The case finally came to trial on Tuesday, January 26, 1993 at about 1:00 PM
+in the U.S. District Court with Judge Sam Sparks presiding. Attorneys Jim
+George and Pete Kennedy represented the plaintiffs. Their first witness was
+agent Timothy Foley of the Secret Service. He acknowledged that he did know
+that e-mail was on the BBS menu system, and explained that he refused to give
+Jackson copies of anything that was on the BBS because he feared it might be
+"booby-trapped." Although it was widely reported that he had told Steve
+Jackson at the time that GURPS Cyberpunk, a fictional game published by SJG,
+was a "handbook for computer crime." When questioned under oath, he denied
+ever making such a statement. He also denied any knowledge that Congress had
+granted special protections to publishers during searches under the Privacy
+Protection Act.
+
+Larry Couterie, a University of Texas police officer was called to the stand
+next. An affidavit filed by Foley to support the search warrant application
+indicated that Coutorie had provided the Secret Service with the business
+address of one of Jackson's employees. Under questioning, Couterie denied
+knowing anything about the employee, or providing any such information to
+Foley.
+
+Steve Jackson demonstrated for the court the operation of a BBS,
+demonstrating a message conference with an old west theme. By all accounts,
+the demonstration was quite entertaining and the judge seemed to enjoy it.
+
+The next day, the plaintiff's continued their case with testimony by writers
+who submit manuscripts to SJG, and by e-mail users of the BBS. Apparently,
+over 160 electronic mail messages were never delivered due to the government
+seizure of the system, and of course much was made of the impact on the
+individuals lives due to messages they thought they had sent, but had never
+actually been received, etc.
+
+Wayne Bell, author of the WWIV software used on the Illuminati system,
+testified after examining the BBS. This testimony was used to show that
+Secret Service had indeed read all the mail on the BBS system with numerous
+files updated weeks after the raid.
+
+Much of the original warrant was based on information from Henry Kluepfel,
+Director of Network Security Technology at Belcore. His testimony at the
+trial did more to explain what actually happened to lead to the raid.
+Apparently, they suspected a BBS titled the Phoenix Project, operating in
+Austin, of having a copy of an E911 document stolen from a computer in
+Atlanta. Their information led them to believe the Phoenix Project was
+operating from the home of Loyd Blankenship, an employee of Steve Jackson
+Games. But after February 7, 1991, the Phoenix Project couldn't be located -
+it's telephone number didn't answer. Since Loyd Blankenship worked at Steve
+Jackson games, and since Steve Jackson Games ran a BBS titled Illuminati that
+used the same WWIV software, they decided that the Phoenix Project was
+actually hidden behind a "secret door" on the Illuminati BBS. A comparison of
+the userlogs of the two bulletin boards indicated there was only a single
+common user to both systems - Loyd Blankenship.
+
+William Cook, retired U.S. Attorney testified at the trial and made a couple
+of interesting comments. He indicated that no charges were ever filed against
+Loyd Blankenship. A good bit of this testimony revolved around SJG role as a
+publisher and the abrogation by the Secret Service of any observance of the
+Privacy Protection Act procedures for serving search warrants on publishers.
+One of the most interesting aspects of Cook's testimony involved the status
+of electronic mail. He asserted that e-mail messages that had been sent, but
+not received, were not in transit electronic mail but rather "stored"
+electronic mail. The judge questioned him on this point and he acknowledged
+he had based this interpretation on nothing beyond his own view of the
+subject.
+
+The government only made a half-hearted attempt at defending its position on
+the raid. Most of their activity centered on damage control - seeking to
+disqualify the $2 million in damages and $150,000 in lost royalties claimed
+by the plaintiff. They contended that Steve Jackson games had actually been
+in financial difficulties for several years before the raid and implied that
+the publicity caused by the raid actually helped his business. By Thursday,
+the judge had had enough. He interrupted testimony to deliver a 15-minute
+tirade directed at Secret Service agent Timothy Foley consisting of a series
+of "Didn't you know/Didn't you ask" questions that amounted to a public
+scolding.
+
+Shaken, the government rested their case without calling any of their
+scheduled remaining defense witnesses.
+
+While the trial was dramatically one sided on behalf of Steve Jackson Games
+and the EFF, and decidedly embarrassing for the Secret Service and the U.S.
+Attorney, the outcome is unsettled. The judge took the matter under
+advisement and at this writing, has not issued a ruling in the case. The EFF,
+with SJG, is seeking to establish several things. First, that the Electronic
+Communications Privacy Act ensures the privacy of electronic mail from
+government seizure without warrants served to each e-mail correspondent.
+Secondly, SJG as a publisher is entitled to special protection under search
+warrants under the Privacy Protection Act. And third, that SJG is deserving
+of monetary damages from the business disruption caused by the search. All of
+these are relatively dramatic goals that would alter how the government deals
+with bulletin boards in the future. And despite the one-sided appearance of
+the trial, Judge Sparks ultimate ruling could deal with any of these elements
+as he sees fit.
+
+
+                     B O A R D W A T C H   M A G A Z I N E
+                                 Announces the
+            Boardwatch 100 Reader's Choice Bulletin Board Contest
+                                  for 1993
+
+                    WIN A FREE HIGH SPEED MODEM
+
+  Boardwatch Magazine is sponsoring a contest to find the 100 most popular
+  bulletin board systems in North America - and the ONE BBS most popular
+  among callers.  The contest will run from January 1, 1993 through July 1,
+  1993.  Winners will be announced at the Online Networking Exposition and
+  BBS Convention (ONE BBSCON) held at the Broadmoor Hotel in Colorado Springs
+  Colorado, August 25-29, 1993. The Boardwatch 100 list will be published in
+  subsequent issues of Boardwatch Magazine and distributed in electronic
+  form world-wide.
+
+                    PRIZES FOR BULLETIN BOARD OPERATORS
+
+  1ST PRIZE: Air fare, hotel accommodations and registration at ONE BBSCON
+  for one is awarded to the system receiving the most votes.  Additionally,
+  the system will receive a free full-page black and white advertisement in
+  Boardwatch Magazine for a period of three months.  An award trophy will be
+  presented at the ONE BBSCON and a feature story on their BBS will appear 
+  in a subsequent issue of the magazine..
+
+  TOP TEN:  The ten most popular bulletin boards selected by the voters will
+  each receive an award trophy during a special presentation at the Online
+  Networking Exposition and BBS Convention (ONE BBSCON) August 25-29,
+  1993.  Additionally,  a story describing their system will appear in
+  Boardwatch Magazine, they will be included in a special TOP TEN BBS listing
+  in the magazine, and they will receive a free quarter-page black and white
+  advertisement in three successive issues.  Finally, they will be listed in
+  the Boardwatch 100 BBS list.
+
+  TOP ONE HUNDRED: The 100 bulletin boards receiving the most votes will
+  each be listed in the Boardwatch 100 readers choice BBS list.  This list
+  will be published in Boardwatch Magazine and freely distributed
+  electronically on thousands of bulletin boards world-wide.
+
+                          PRIZES FOR VOTERS
+
+  All valid ballots submitted by voters will be entered in a random
+  sweepstakes drawing.  As of the opening date of this contest, prizes
+  include TWO U.S. ROBOTICS COURIER DUAL STANDARD 16.8K MODEMS, two HAYES
+  OPTIMA 14400 + FAX 144 modems, and two ZyXEL U-1496 14,400 bps modems
+  - and more are on the way.  A minimum of six valid ballots will be
+  selected from all entries and each will receive a free modem - from the 
+  most popular modem manufacturers in the world.
+
+  RULES FOR CALLERS
+
+  Each voter can vote once, for a single bulletin board system.  Each ballot
+  must be fully completed, and individually mailed by each voter.  One vote
+  per address, and we will verify ballots as necessary.  There are three ways
+  to vote:
+
+  1. Printout and complete this ballot and mail to:
+
+                             BOARDWATCH MAGAZINE                             READERS CHOICE BBS CONTEST
+                             5970 South Vivian Street
+                             Littleton, CO 80127
+
+  2. Print out, complete this ballot and FAX to (303)973-3731.
+
+  3. Or, dial the Boardwatch BBS at (303)973-4222 and complete the online
+  ballot provided on the main menu.
+
+  Balloting closes at 23:59:59, June 30, 1993.
+
+  This contest is not limited to Boardwatch Magazine subscribers, and no 
+  purchase of any kind is required to participate in this contest.
+
+  NOTE: We held this contest during 1992 and it generated 11,152 votes by the 
+  close of balloting for some 1250 different bulletin boards.  The TOP system
+  received about 450 votes. Your individual vote can have a tremendous impact 
+  on the outcome of this contest.  Further, the odds of winning a modem in
+  last years contest, were 1 in 1394 (8 modems awarded).
+
+	RULES FOR BBS OPERATORS
+
+  Bulletin Board Operators may encourage callers to vote for their system 
+  by offering whatever inducements/encouragements they like.  There is one
+  rule to this contest for BBS operators.  YOU MAY NOT HANDLE ANY VOTE AFTER
+  THE CALLER HAS COMPLETED THE BALLOT.  YOU MAY NOT HANDLE IT IN ANY WAY.
+
+  You may provide callers with anything you like, including postage paid 
+  envelopes, printed matter, solicitations, etc.  But once they have 
+  completed a ballot, if you touch, handle, or otherwise deal with the ballot
+  in any way, your BBS will be disqualified from the contest without appeal 
+  or recourse.  
+
+  If you wish to post an electronic ballot on your BBS, you may post this file
+  IN ITS ENTIRETY.  You may post any additional information you feel is
+  appropriate, but this entire rules file must be available to all callers.
+
+  Despite the fact that this contest has a minimum of rules, this one rule 
+  does cause problems each year.  You cannot post online surveys or doors
+  to allow voters to vote online.  This is vote handling.  You cannot accept
+  ballots from callers and mail them for them.  You cannot accept ballots and
+  fax them in for callers.  The rule of thumb is pretty clear: You can provide
+  anything you like TO callers to induce them to vote.  There is NOTHING you
+  can accept FROM callers in any way pertaining to this ballot at all.  THEY
+  must complete the ballot and forward it to us themselves.  
+
+  We actually received FEDEX packages on the final day of the contest last
+  year from BBS operators who claimed to have collected a hundred or so 
+  votes.  Infractions are dealt with quite economically - the BBS is summarily
+  disqualified without recourse or appeal.
+
+  One new element introduced in the 1993 contest is date scoring.  All ballots
+  received from 1 January 1993 through 30 June 1993 will receive a date score
+  based on the date of receipt.  Date scores will range from 180 for votes 
+  received 1 January down to 1 for votes received on June 30.  These date
+  stamp values are cummulative for each BBS and will be used to eliminate ALL
+  ties in the TOP 100.  Since ties are quite common in this contest, it pays
+  to get your votes in early.
+
+  This contest is open to all bulletin boards worldwide with the sole 
+  exception of the Boardwatch Magazine BBS - which is ineligible.  
+  Commercial services such as Prodigy, America Online, CompuServe, are 
+  considered to be networks and not bulletin boards for the purposes of this
+  contest. HOWEVER, individual forums, roundtables, or special interest areas
+  moderated by a specific human  SYSOP on those services and allowing callers
+  to post messages in that specific area ARE considered to be bulletin boards
+  for the purposes of this contest and may participate.  
+
+  *************************************************************************
+          BOARDWATCH 100 READERS CHOICE BBS CONTEST
+                        1993 BALLOT FORM
+  **************************************************************************
+
+  BBS INFORMATION
+
+  TITLE OF BBS YOU NOMINATE AS BEST BBS:
+
+  -------------------------------------------------------------------------
+
+  PRIMARY BBS ACCESS TELEPHONE NUMBER:
+                                      -------------------------------------
+
+
+   VOTER VERIFICATION INFORMATION
+
+   Voter information will be used to verify a selected sampling of caller
+   ballots.  Responses to certain questions will be used to produce 
+   aggregate statistical information on BBS callers to be published in 
+   Boardwatch Magazine in future issues. All information required. 
+   Incomplete ballots will be discarded.
+
+       VOTER NAME:
+                  --------------------------------------------------------
+
+  STREET ADDRESS:
+                  ---------------------------------------------------------
+
+  CITY:                                     STATE/PROVINCE:
+       ------------------------------------                ----------------
+
+  ZIP OR POSTAL CODE:                               COUNTRY
+                     ------------------                    ----------------
+
+  VOTER VOICE TELEPHONE NUMBER:
+                               ------------------------
+
+  AGE:         SEX:        PROFESSION:
+      ------     M[ ]  F[ ]             ----------------------------------
+
+
+  COMMUNICATIONS SOFTWARE USED:
+                                 -------------------------------------
+
+  HIGHEST MODEM SPEED YOUR MODEM SUPPORTS?  [ ] 1200 bps   [ ] 2400 bps
+                                            [ ] 9600 bps   [ ] 14,400 bps
+
+  MODEM MANUFACTURER AND MODEL
+                               --------------------------------------------
+
+  PERSONAL COMPUTER ARCHITECTURE: 
+  MS-DOS -IBM PC/Compatible [ ]  Apple Macintosh [ ]  Other [ ] (specify)		
+
+  DO YOU REGULARLY USE MICROSOFT WINDOWS?  yes[ ]   no[ ]
+
+  HAVE YOU INSTALLED A SECOND TELEPHONE LINE FOR DATA USE? yes[ ]  no[ ]
+  
+  ESTIMATED TOTAL NUMBER OF CALLS YOU MAKE TO ALL BBSs PER MONTH
+                                                                  _______
+
+  ESTIMATED AVERAGE CALL DURATION: 
+                                     ---------------
+  
+  GUESTIMATE THE DATE OF YOUR FIRST MODEM CALL -------------
+
+SIGNATURE:                                       DATE:
+             -------------------------------            -------------------
+
+  For more information on ONE BBSCON '93 - call Peg Conniglio at 
+  (303)693-5253 voice or the ONE BBSCON BBS at (303)693-5432.
+
+  For more information about Boardwatch Magazine, dial (303)973-4222 by
+  modem - or to subscribe by voice using MC/Visa (800)933-6038.
+  Boardwatch Magazine is published monthly at $36 per year in U.S., Canada,
+  and Mexico - $99 overseas.
+
+
+

@@ -1,0 +1,193 @@
+Requiem for a Sysop
+
+SUBMITTED BY:  Jim Anderson - SysOp MSB - Billings, MT
+
+                   REQUIEM FOR A SYSOP
+                   -------------------
+
+    Excerpt from an article in "PC WEEK", Nov. 20, 1984:
+
+    There may be no such thing as a free lunch, but there is an ample supply
+of free software that's yours for the asking. All you have to do is dial up,
+make a connection, browse through a couple of menus, check over long lists of
+available software, make your choices and start downloading.
+
+                   - + - + - + -
+
+    Exchange of E-Mail between sysop and BBS user:
+
+    Well, John, the good news is that the  faulty  file has been fixed but the
+bad news is that your downloading privileges have been revoked. I just went
+through the last two months of logs and came up with some interesting
+statistics. During that time you have logged on 23 times, downloaded  66 files
+and uploaded NONE. You have called for chat twice, and left a total of two
+messages on the board, one requesting a specific program and the other
+informing me of a disk error in a download file. I can only draw the
+conclusion that you are interested in this board for ONE REASON ONLY -- to
+rape hell out of the download menus. I've left plenty of messages regarding
+PARTICIPATION in the BBS and the Message Base, but you either haven't read
+them or else you ignored them. Sorry, but one-way streets just don't hack it
+around here.         Jim.
+
+    Jim, I have been taking part in the BBS. Every time I log on I read all
+the new messages.    John.
+
+    John, I just can't help but feel that in all that time you could have at
+least said "Hi" or "Thanks for the downloads" or SOMETHING to acknowledge that
+there's a real live human being on this end.        Jim.
+
+                   - + - + - + -
+
+    Except for power failures, my computer has been continually running since
+Nov. 11, 1982, and has fielded over 12,000 telephone calls operating as a BBS.
+Back then, it was a joy to be a part of the realm of computer
+telecommunications -- now it's a drag. It seems to me that  a "GIMMEE"
+attitude has pervaded the whole arena of BBSing, with callers interested in
+nothing more than material gains in the way of software. My board is far from
+the busiest, being isolated in the "foreign country" of Montana, but an
+average day will see about 20 or 25 calls to the system. An average day will
+also see about three or four messages (of ALL types, including E-Mail) being
+posted. The typical log entry shows so-and-so logging on, going to the file
+transfer area, downloading several files and then ,ogging off. Thanks, that's
+why I started up a BBS, to supply people with free programs. Really makes my
+day to see that I've spent all this time and money just to watch pigs at the
+trough.
+
+    Whatever happened to the COMMUNICATIONS in telecommunications?  Is this
+the result of the Computer Age, that people don't talk or communicate with
+each other? Are we getting so totally in tune with our equipment that we're
+excluding PEOPLE? If so, then Orwell's predictions are tame in comparison with
+the reality. Who took the BULLETIN BOARD out of Bulletin Board System?  The
+file transfer section of my board is shiny from daily use, but the bulletin
+section is obscured by cobwebs. The thought has crossed my mind more than once
+just to load up a host program and let people grab whatever programs look
+interesting.
+
+    "Do you have a logon code for this system (Y/N) ==> Y <=="
+    "What is your account number? 775"
+    "What is your logon code? PASSWORD"
+    "INVALID LOGON CODE"
+    "Do you have a logon code for this system (Y/N) ==> Y <=="
+    "What is your account number? 305"
+    "What is your logon code? PASSWORD"
+
+    et cetera, ad infinitum et ad nauseam.
+
+    Hackers. Or so they'd like to believe. Vandals, pests, yes. Hackers? They
+should be so talented, devoted and lucky. Why do these computerized
+delinquents find such delight in trying to break into bulletin boards? Don't
+they realize that sysops are ordinary people just like themselves trying to
+find a little enjoyment in their hobby? Why pick on me? I'm spending a lot of
+time and money trying to provide people a service for free, and they want to
+go and spoil it for everyone. Heck, if they want onto the system, all they
+have to do is apply for a logon. Why make life difficult for everyone? Leave
+me alone. Go pick on CompuServe.
+
+    Caller logs on. Leaves E-Mail to a friend. Lines only fill half the
+screen, so he's probably using a Commodore 64. Goes to file transfer section,
+and selects UltraTerm protocol. Chooses a file that indicates it's a TRS-80
+program. BBS goes to send, he figures out that he's somewhere he doesn't want
+to be and drops carrier.
+
+    Another caller logs on four times in a row, but keeps losing carrier
+before he can do anything. Probably phreaking on a cheapie phone service.
+
+     Another caller successfully downloads a file. Sit. Wait. Wait some more.
+System eventually times out and drops him.
+
+     I'm not the most polite person in the world and I'm certainly not one to
+stand on ceremony, but I am old enough to remember what manners were. They
+also went down the tubes with "communications" and "bulletin boards." Whoops!
+Dropped carrier! So what? If it's a halfway decent system, it'll reboot. Well,
+I'll just go to bed while downloading this long file, the system will
+eventually throw me off and reboot. Never mind that there's other people
+wanting to call into the board. Who cares that the sysop climbs the walls when
+he sees someone drop carrier or time-out on the system? Lately I've gotten
+into the habit of dropping carrier ON MY END for the worst offenders. One good
+hang-up deserves another.
+
+     Along with all the other goodies that have bitten the dust, there's good
+old APPRECIATION. As I mentioned before, my BBS has fielded over 12,000 calls.
+Out of all of them, I have gotten maybe a dozen messages saying "Thanks for
+running your BBS." That's about one "Thank You" per THOUSAND calls!
+Unfortunately, it seems that people think they have all this automatically
+coming to them. It's their right! Sorry to disillusion anyone, but that just
+ain't so. The master switch for this system is two feet away, and I'm not so
+decrepit that I can't hit it in a flash. Alternatively, I can ban anyone I
+wish from my system. Callers use this BBS at my forbearance only, and it's not
+a God-given right. It's a sysop-given privilege! I sincerely feel that we
+should proclaim a "Sysop Appreciation Day." We certainly don't get any on a
+day-to-day basis!
+
+    Don't get me wrong. There ARE joys and benefits in running a BBS, although
+sometimes in my nether moods I'm hard pressed to enumerate them. But the fact
+is, there have been many occasions when I've rested my finger on the switch
+with the idea of going offline forever.
+
+    Now for the moral of the story. I'm only one sysop among many, and I'm not
+trying to evoke sympathy for myself through this article. The point is that
+almost every sysop around has these feelings to some extent or another. And
+further, most of these sysops (especially the best and most devoted ones) are
+going to reach a saturation point and wind up depriving the general public of
+their services. I foresee a day coming, and very soon at that, when the high
+quality BBS's will be all gone. So all this is really a plea for everyone to
+shape up their acts before it's too late. If nothing else, when you're on a
+bulletin board, leave a little message to the sysop. "Thanks for the use of
+your system" or "Fine BBS you have here." Let them know they're appreciated.
+When I see a message like that, I say to myself, "THAT's why I'm doing all
+this!"  Sysops are real, live human beings with feelings and emotions. Let's
+start treating them as such!
+
+                   - + - + - + -
+
+    EPILOGUE: Twelve hours after the above was written, I find out that one of
+my best friends (with higher than normal access to the system) has allowed a
+third party to use her logon. That's forbidden for anyone on my BBS to do, but
+it hurts even more because a valued and trusted friend who should have known
+better went and did it. That's the final straw. The Most Significant Byte BBS
+is no longer in existence.
+
+    Jim Anderson, Ex-Sysop
+    The Most Significant Byte BBS
+    Billings, Montana
+    January 13, 1985
+
+NOTE: I agree completely with Jim in his above comments, if not his action. I
+find it difficult to comprehend the mind of individuals, who take those of us
+who, through our generosity and good nature, are supplying them
+this service. Please note, this attitude of SysOps is spreading and
+BBS's around the country are disappearing or getting more difficult to access.
+I certainly hope this action in tiny Billings, Montana has some effect on the
+community of computerists. Don't abuse a good thing!
+
+    Dave Williams, still SysOp
+    Magic City RBBS
+    Billings, MT
+    January 13, 1985
+
+NOTE: Even we here in faroff New Zealand are not immune to the above problems.
+Most SysOps try hard to provide a good service. We're all human, though, so
+expect the occasional problem. Let's hear it for the things we do right, for
+a change. And PARTICIPATE. That's the key to making it work. The file may be
+old, but its still relevant.
+
+    Jeff Whiteside, Sysop
+    The PORTAL
+    Christchurch, New Zealand.
+
+NOTE: OK, so I'm not an experienced SysOp of a large BBS, but I second that.
+PARTICIPATION and COMMUNICATION are what it's all about. 
+
+    Bernadette Mooney, new SysOp
+    The Pinnacle Club
+    Auckland, New Zealand.
+    12 November 1989.
+
+rong. There ARE joys and benefits in running a BBS, although
+sometimes in my nether moods I'm hard pressed to enumerate them. But the fact
+is, there have been many occasions when I've rested my finger on the switch
+with the idea of going offline forever.
+
+    Now for the moral of the story. I'm only one sysop among many, and I'm not
+trying to evoke sympathy for myself through this article. The point is that
+almost every sysop around has these feelingsееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееееее

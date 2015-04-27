@@ -1,0 +1,81 @@
+The following is taken from a recent issue of Government Computer Week:
+
+    The House Judiciary Committee is considering a proposal that the Federal
+  Bureau of investigation and Secret Service report regularly to Congress on
+  the extent to which the two law-enforcement agencies monitor computer
+  bulletin boards.
+    A committee spokesman said law makers are considering ways to increase
+  oversight of the agencies' computer surveillance activities in proposed
+  amendments to the Computer Fraud and Abuse Statute of 1984.
+   "We're not so much interested in the privacy issue that such investigations
+  raise; we're bothered more by the lack of checks and balances that keep [the
+  FBI and Secret Service] from doing sting operations," said a spokesman for
+  the committee. "The staff has considered proposing that the FBI and Secret
+  Service report to Congress on a regular basis as to what they're doing in the
+  area."
+    The committee is particularly concerned with the amount of electronic
+  bulletin board monitoring conducted by the Secret Service. "The FBI monitors,
+  but not that much because it's not cost-effective," the spokesman said. "But
+  the Secret Service is doing a hell of a lot of monitoring."
+    The Secret Service "has primary jurisdiction in those cases which are
+  initiated outside a bank and do not involve organized crime, terrorism or
+  foreign counterintelligence," according to Secret Service Director John
+  Simpson in a letter responding to Judiciary Committee inquiries on the range
+  of the agency's computer investigations.
+    Top Secret Service officials and the rank and file deny they conduct
+  widespread or indiscriminate bulletin board surveillance, saying that they do
+  not have the time or the resources to do so. "If someone thinks we have the
+  resources to monitor all the bulletin boards on the area, they're wrong."
+  said Rich Adams, a special agent. "We have better things to do with our 4,300
+  employees."
+    The Service said its investigations are usually a direct response to tips
+  from informants or are started from other sources, such as a telephone
+  company. "In the investigations we do select, it is not our intention to
+  attempt to supplant local or state law enforcement," said Simpson in his
+  letter to the committee.
+    Much of the computer work done by the Secret Service is in investigating
+  access-device frauds that are discussed in pirate bulletin boards., Simpson
+  said in his letter. Access device frauds are those crimes in which an
+  "authorized" user gains illegal access to automatic teller machines, personal
+  identification numbers, long distance telephone access codes or computer
+  passwords.
+    This information is often placed on underground bulletin boards for other
+  computer users to exploit. "I've seen everything from smut to a recipe for
+  making a bomb," said Mike Focke, a private citizen who compiles and publishes
+  a list of IBM bulletin boards monthly. He added that he "would not be able to
+  penetrate that illegal network [but] would dial onto the board, and a message
+  would be posted that I suspected they were up to no good."
+    Earl Devany, special agent in charge of the Fraud Division of the Secret
+  Service, said the Service is not in the business of eavesdropping on computer
+  buffs. But he added that the Service does conduct surveillance on those
+  suspected of illegal activity.
+    The Secret Service said it reviews computer crimes much the same way it
+  does other crimes: by proceeding through the proper authorization channels.
+  "First, some probable cause must be proved before we can get a federal search
+  warrant and then a wire tap," Devany said.
+    But the Service had to adjust its methods to match the high-tech nature of
+  the crimes. "The primary difference is we had to develop resource to assist
+  in the collection and review of computer evidence," Simpson said. An effort
+  to cultivate such resources has been made by the Computer Diagnostics Center,
+  which is staffed by special agents and computer professionals who review
+  evidence submitted by informants or victims of computer crime.
+    Investigators at the center use "a variety of computers to review software
+  seized in cases." Devany said. "Say we have a criminal investigation of
+  trafficing credit card numbers. We get a federal search warrant and seize
+  software and hardware that we find in a person's house". Agents at the center
+  then manually review the disks and "download resonant evidence in the
+  hardware and software, looking for evidence of criminality," he said.
+
+Painfully typed at a late hour. As for the comment on the availability of smut
+and bomb recipes, I only post the best smut I can find, and I never could bake
+a proper bomb from those recipes. I must have needed to use the high altitide
+instructions. I typed this entire article because I saw a message posted on
+Fidonet where a sysop was worried about the activities of the CIA, NSA and FBI.
+He was worried about the wrong people. If the CIA or NSA were caught monitoring
+you, somebody could be prosecuted for illegally monitoring you (they are
+restricted to foreign collection). Is seems the ones to worry about are the
+Secret Service and the FBI. I also worry about the Bureau of Alcohol, Tobacco
+and Firearms, as they want my Second Amendment rights too ("...the right to
+keep and bare arms shall not be infringed.")
+
+                                 <JOKER>

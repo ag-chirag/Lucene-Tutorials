@@ -1,0 +1,110 @@
+The Rise and Fall of the Modem King
+International Herald Tribune
+By Victoria Shannon
+
+               The Rise and Fall of the Modem King
+
+      By Victoria Shannon     International Herald Tribune
+
+PARIS -  In a field in which everything is focused on the future,
+on how fast and smart and cool technology will be in just a
+couple of months or years - just you wait and see - sometimes we
+need to pause for a little history lesson.
+
+This one is about a modest-sized company based in the Atlanta
+suburb of Norcross, Georgia, a business called Hayes Corp. If
+you're on the Internet, you probably have this company to thank
+for it: Hayes - or rather, its founder, Dennis Hayes - invented
+both the personal-computer modem and some of the basic standards
+that all of today's modems still answer to, according to the
+company and on-line experts. Even if you've never bought anything
+from the company, you may know the Hayes name from two distinct
+places: on the box of the external modem you buy, describing it
+as "Hayes-compatible," or from the list of modem settings your
+communications software offers.
+
+On the surface, at least, Hayes's tale appears to debunk at least
+two clichés: that lightning doesn't strike the same place twice,
+and that we learn from our mistakes.
+
+But first, a look back. Dennis Hayes, the chronicles tell us,
+left the Georgia Institute of Technology in the mid-1970s to work
+at a company called National Data Corp. It was there that he
+realized the need to make modems that could be configured with
+software to respond to various orders, such as "answer on first
+ring." That would be a better way than building those different
+responses into the hardware, which would require that there be
+many different kinds of modems.
+
+He and a partner created the first circuit boards imbued with
+that ideal in 1977 - not in his garage, as legends dictate, but
+close: on the dining-room table in his home.
+
+-
+
+HAYES MICROCOMPUTER Products Inc. was founded with a $5,000
+investment in January 1978, and Mr. Hayes went on to become the
+modem king, far surpassing any rival in sales and having his
+name forever associated with any modem sold to the masses.
+
+The modem brands by which you may know him today are Optima,
+Accura, Practical Peripherals and Century. The commands by
+which you may know him begin with "AT" in your software's
+initialization string.
+
+Last autumn, the company marked 20 years as a pioneer in two
+ways: by selling special 20th-anniversary modems signed by
+Mr. Hayes himself and by filing for bankruptcy-court protection.
+
+Alas, it was the second time in three years that the first name
+in modems had had to seek refuge in bankruptcy court. The
+lightning bolt of financial and management troubles had struck
+again.
+
+But Hayes is also a case study in yet another maxim: Getting
+there first or best does not guarantee success. Just look at
+International Business Machines Corp. (first out with the
+personal computers that are today's "WinTel" standard). Or
+Apple Inc. (best, with its Macintosh line). Why does this happen?
+
+Some say the egos of pioneers subsume their better business
+judgments. Some blame unique intersections of events and
+circumstances.
+
+In Hayes's case, the company apparently had manufacturing
+problems and other production snafus that left it in the lurch
+the first time it filed for bankruptcy protection.
+
+-
+
+The second time, the company said it was a victim of a cash
+shortage caused by stagnant sales that had plagued all modem
+makers in the transition from 33,600 bits-per-second speeds to
+56k.
+
+Asia, too, before its recession, was a strong market for Hayes,
+and its economic collapse reverberated in the company. But Hayes
+was still the No. 2 seller of modems, behind - though far behind
+- 3Com's U.S. Robotics. In October, it even introduced a
+next-generation modem based on the "digital subscriber line"
+technology that really ramps up Internet transfer speeds.
+
+Can a technology visionary and legend fail and make a comeback
+- twice? Is there really such a thing as "revenge of the nerds?"
+
+Maybe. Just ask IBM, which is certainly a success despite its
+forfeiture of control of the PC business. Or ask Apple, which
+is now riding high after many predictions of its imminent demise.
+But don't ask Hayes. Its creditors ran out of patience and
+financing and pulled the plug this week. On Monday, the Hayes
+business shut down and prepared to liquidate.
+
+Victoria Shannon edits TribTech and can be e-mailed at:
+tribtech@iht.com.
+
+The organization that now sets modem standards is the
+International Telecommunication Union, found at www.itu.ch. The
+latest, and last, analog modem standard is called v.90, and
+everything you ever wanted to know about it is at www.v90.com.
+For more basic information, an on-line retailer has posted a
+simple modem dictionary at www.modemshop.com/mdic210.txt.

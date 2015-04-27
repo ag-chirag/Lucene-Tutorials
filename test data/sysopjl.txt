@@ -1,0 +1,258 @@
+ ==============
+ LEGALLY ONLINE
+ ==============
+
+ SYSOP JAILED IN GEORGIA
+ -----------------------
+ by Lance Rose
+
+Adult BBS' continue to spread across the country. Many of them openly carry
+industrial-strength hardcore materials, without much apparent concern for
+legal reprisals. One might wonder if the sysops of these BBS' are fools to
+proceed so fearlessly, or perhaps the vanguard of a new era of online sexual
+liberation. More likely, they simply assume the coast is clear. There is
+virtually no hard news about adult BBS' or their operators getting into
+trouble. Murky rumors abound (including some retold in this column several
+months ago), but they're easy to shrug off in their vagueness.
+
+The suspense is over. A man named Robert Houston is currently doing time in a
+jail in Jackson, Georgia, based on the presence of sexually oriented
+materials on the BBS he owned and operated. Ironically, he seems to be one of
+the guys who took all the right precautions. In the end, his prudent measures
+lost out to a repressive local cultural climate and petty personal vengeance.
+
+For over two years, Mr. Houston's quiet incarceration did not raise even a
+murmur. Then suddenly, he showed up briefly in a segment of the CNN news show
+Technology Week as an example of a sysop who got popped. An interview with
+Mr. Houston was hastily arranged afterward, just in time for this issue of
+Boardwatch. In a collect call from the Georgia Diagnostic Center, Robert
+Houston described how he went from sysop of an adult BBS to convicted felon:
+
+Houston owned and operated a video store and repair shop in Georgia. His BBS,
+a Wildcat system called the Stonewall BBS, was a hobby, and did not net him
+any money. There was a sister BBS called "Stonewall West" in California, but
+the two operations shared little but their names.
+
+The Stonewall BBS contained sexually-oriented adult materials, both straight
+and gay varieties. Different types of adult materials were separated from
+each other by security levels defined on the BBS. The materials were
+relatively mild by adult BBS standards. According to Houston, nothing on the
+BBS was racier than what one might find in Hustler, a popular magazine
+nationally distributed on newsstands. There were no files with extreme
+material such as child pornography or bestiality. There was also a popular
+chat area, which Houston describes as the BBS version of a 900 sex talk line.
+using computers to converse instead of our voices.
+
+These areas and materials were closed to casual visitors. Anyone wishing
+access to the adult materials on Stonewall BBS first had to pass through
+Houston's hair-raisingly exhaustive verification procedures. On the first
+call to Stonewall, each caller had to fill in a standard questionnaire of
+personal information - name, address, age, phone number, and so on. Upon
+completion, the caller was asked if he desired access to any of the adult
+areas of the BBS. If the answer was yes, the caller was asked which category
+of materials interested him, and what kind of lifestyle he led. Houston says
+he used this classification to try and group together people of similar
+interests within the system. Houston himself was gay, and had a fair amount
+of gay-oriented materials on the system.
+
+Next, all callers, regardless of whether they filled out both questionnaires
+or only the first one, were placed in the "new users romper room" area of
+Stonewall. Callers still wishing to proceed with registration were then led
+into an automated callback verification sequence, where the BBS software
+called back the number submitted by the caller. After callback verification,
+new callers were still restricted to the new users romper room. In this area,
+callers could sample limited, non-adult-oriented sections of the BBS, but
+could not upload or download any files.
+
+In the evenings, Houston read through all new applications for the day. He
+called back all applicants personally the next day, and verified their
+applications by voice. In certain cases, such as borderline-age applicants
+stating they were college students, he checked their references to make sure
+they were genuine. All callers who passed this verification step then had to
+send Houston photocopies of their driver's licenses, after which they were
+finally given access to the adult areas. Houston's verification process was
+quite an extended routine, but he says he fully verified over 600 callers
+using this method.
+
+Houston's troubles started when he fired a teenage employee of his video
+store business for basic laziness. According to Houston, directly upon being
+fired the ex-employee went to Sheriff Earle Lee of Douglas County, Georgia,
+the county in which Stonewall BBS operated. He told Sheriff Lee that Houston
+was running a nationwide network for the distribution of homosexual materials
+from the Stonewall BBS. The police moved like lightning on these charges. The
+employee was fired Saturday, September 8, 1990. Two days later, on Monday,
+September 10, Sheriff Lee and his deputies hauled Houston off to jail and
+confiscated his computer equipment.
+
+The arrest and seizure warrant, and the indictment that followed, contained
+four counts against Houston: 2 counts of distribution of obscene materials; 1
+count of solicitation of sodomy; and 1 count that Houston "provided a medium
+as to which sexually explicit materials containing children could be found".
+The counts in the indictment were based on the testimony of two of Houston's
+ex-employees: the one who started the legal process against Houston, and
+another who had been fired some months earlier.
+
+The second ex-employee, according to Houston, was a computer hacker whom
+Houston had suspected of stealing some money from his business, then altering
+his business computer records to cover it up. For the indictment, both
+ex-employees testified that Houston had created sex videos with them (another
+allegation he entirely denies), and that he had given them both access to the
+adult areas of his BBS while they were his employees, even though they were
+17- year-old minors. Houston thought they were 18 years old until then.
+Houston entirely denies all accusations.
+
+After sitting in jail for a couple of months, Houston went to trial and lost.
+The prosecuting attorney was D.A. David McDade of Douglas County. Houston
+paid his own lawyer $10,000, and had no money left to pay for an appeal after
+the trial.
+
+Houston says the trial against him was filled with misconduct. Perhaps his
+most shocking charge is that the State did not use a police expert or
+independent expert to evaluate the materials contained in his confiscated
+BBS. Instead, they put his own ex-employee, the computer hacker who testified
+against him for the indictment, in charge of investigating the computer to
+conduct the State's own inspection of the evidence! This amazing approach
+bore no resemblance to normal procedure, which was to send seized evidence
+requiring technical examination to the Georgia Crime Lab. If Houston's charge
+is true, this is fatal contamination of the evidence - placing key evidence
+against the accused in the hands of a hostile and complaining witness!
+
+Further, Houston says the hacker/ex-employee made the most of his
+opportunity, tampering with the BBS computer files to create damning evidence
+against Houston. Specifically, Houston says that computer files were altered
+before trial to make it look like he had been using his BBS to solicit two
+17-year-olds. There were indeed two 17-year-olds on Stonewall BBS, but
+Houston had given them access only to a special "teen board" area he set
+especially up for them. Houston believes his ex-employee, while he had
+control of BBS computer, raised the 17 year olds' security level to make it
+look like they had access to the adult materials, and added suggestive
+messages addressed from Houston to these callers.
+
+Houston moved for inspection of the computer prior to trial, but the judge
+denied his motion. Houston also lined up 3 different computer experts to
+check the BBS system for tampering using software tools for inspecting the
+computer's hard disk, and to testify to the tampering at trial. For reasons
+that are unclear, his lawyer refused to use the experts. Finally, Houston
+wanted to show the judge at trial how his BBS worked and how he maintained
+system security and age verification, but the judge would not permit the
+demonstration.
+
+In the end, Houston was convicted of a single count of sexual exploitation of
+children, under Georgia Statute 16-12-100-B6. This conviction classifies him
+as a craven sex offender, equivalent to a rapist. The only evidence
+supporting his conviction were the computer records regarding the
+17-year-olds submitted by the ex-employee hacker. As mentioned above,
+Houston's lawyer failed to offer expert testimony disputing the authenticity
+and accuracy of the computer records regarding the 17-year-olds' status on
+the system. Houston's lawyer further failed to obtain testimony from the
+17-year-olds themselves, which could have shown the computer evidence to be
+false. Houston seems bewildered at the approach taken by his lawyer. The only
+reasoning the lawyer seems to have given him for these seeming enormous
+strategic lapses is that such attempts to discredit the state's case would
+only make Houston look worse in the eyes of the judge.
+
+Houston says there is no law against precisely what he's been imprisoned for,
+and says the prosecuting D.A. said the same thing publicly after his
+conviction. Despite the unanimous confusion over whether Houston is actually
+guilty of any wrongdoing, he remains in jail for the time being. Houston is
+due to be released in September, 1993, and says he plans to head out of
+Georgia as soon as he is permitted to do so. Douglas County has not been very
+kind to Robert Houston. It is hard to say exactly what role local intolerance
+of his sexual preferences might have played in the insulting abridgement of
+personal rights Mr. Houston has suffered through, but it would explain the
+shocking manner in which his prosecution was carried out.
+
+The story above is based solely on the interview with Mr. Houston. Clearly
+there are some areas in which it would be useful to know the other side of
+the story. Nonetheless, we can make some useful observations looking at
+things just from his side of the cell bars.
+
+First, here is a sysop in jail for running an adult bulletin board. For those
+who refused caution up to now for lack of evidence that people are getting in
+trouble: here is your evidence. Take note that Houston was not convicted of
+having any obscene or child pornography materials on his BBS. Those carrying
+such materials could end up in hotter water than he did if they are ever
+exposed to the court process.
+
+Second, sysops reading this may be comforting themselves that the exact
+freakish course of events Houston suffered through will not likely be
+repeated. However, Houston's case is also illustrative of the way things can
+break down and land you in a heap of trouble. In his case, canning a lazy
+employee ended up landing him in jail, convicted of being a sleazy,
+child-molesting BBS sysop. Future sysop convictions, whenever and wherever
+they occur, can easily follow similarly tortuous paths from precipitating
+cause to miserable result. Those who think they are clever enough to stay out
+of trouble while running a hardcore porn board may see their whole scheme
+unravel due to one forgotten loose end.
+
+Third, Houston's situation provides yet another example of the institutional
+amnesia still inflicting far too many law enforcement authorities and agents:
+they forget all about the Constitution, especially the First Amendment, when
+they seize a BBS. Houston's BBS was not adjudged to have any illegal
+materials falling outside the First Amendment's protection of freedom of
+speech and of the press. His conviction, contrived though it may have been,
+was only for certain conduct. Yet his BBS was taken down, and likely will
+never be resurrected, at least in Georgia.
+
+There is a danger of reading too much into what happened to Robert Houston
+(except for sysops knowingly running hardcore porn boards, who should pay
+very careful attention to his plight). His peculiar treatment at the hands of
+the Douglas County legal system does not mean that all BBS' have suddenly
+become unsafe. Running a BBS carries about the same risk as it always has. If
+you are reasonable in how you run your BBS, and don't knowingly get involved
+with anything illegal, your chances of legal trouble are next to nothing.
+Think of Robert Houston as a sysop who tried very hard to be careful while
+running a BBS with contents that were riskier than average, and one day got
+hit by lightning.
+
+THAT'S ENTERTAINMENT!
+
+Just as this column was being readied for submission, WNBC's "News at Eleven"
+showed the first installment of a news series to be aired all week called
+"Software: Hard Porn." This astonishing piece of television journalism starts
+off with a surveillance film showing two men on a couch discussing a snuff
+movie they'd like to make using a little kid. The narrator's voice-over
+informs us that this time, the snuff guys are talking about procuring their
+dispensable prey using a computer bulletin board . . .
+
+The segment segues into much milder territory, next featuring the talking
+head of Bruce Fancher of MindVox (a NYC Unix-based BBS system and Internet
+access site) discussing the easy availability of adult GIF image files on
+BBS'. Several shots of files supposedly taken  from BBS' are shown, mostly
+just girlie pictures almost too tame for Playboy. Surprisingly, the
+voice-over informs us that such pictures are all quite legal. They are legal,
+of course. The surprising part is that the TV folks got it right.
+
+But don't relax yet. In the very next breath, we are told that the same BBS'
+carrying the adult image files also play host to pedophiles, who seek out
+youngsters and attempt to arrange illicit meetings for sexual purposes.
+Through the magic of TV sequencing, those cute girlie shots are instantly
+converted from admittedly protected free speech to cheesecake posters on the
+walls of dens of sin inhabited by sleazy, lecherous old men. The dens of sin,
+of course, are the BBS' in which they prowl.
+
+So ends the first short episode of "Software: Hard Porn", with the promise of
+more rating-boosting tidbits about the sleazy world of BBS' in tomorrow's
+news report.
+
+This is a good postscript to the Houston piece. It shows that not only did
+someone with an adult board get nailed, but the anti-BBS porn drumbeat is
+steadily swelling in the public consciousness. This is not the first news
+show covering the BBS porn angle. Last year, WOR in New York ran a story with
+a similar theme. But as Howard Stern likes to remind his listeners (after his
+show on WOR ended), no one watches WOR, while WNBC is one of the real TV
+stations in the New York market. Those who are committed to running hard core
+porn BBS' should watch their backs.
+
+[Lance Rose is an attorney practicing high-tech, computer and intellectual
+property law in Montclair New Jersey, and is available on the Internet at
+elrose@well.sf.ca.us and on CompuServe at 72230,2044. He works with shareware
+publishers, software authors, system operators, technology buyers,
+interactive media developers, on-line database services and others in the
+high technology area. He is also author of the book SYSLAW, a legal guide for
+bulletin board system operators, available from PC Information Group
+(800)321-8285. - Editor]
+
+
+
+                                                                       $3.95

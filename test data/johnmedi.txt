@@ -1,0 +1,69 @@
+
+                "HACKER'S STORY: Two days on long distance"
+
+
+SOURCE: Toronto Computes! June '91
+ENTERED BY: Anarchy Tech
+
+[ This is a typical example of someone that "became" (Hahahahaha) a "hacker"
+ (as he calls himself) for all the wrong reasons, and turned into an even lower
+ life-form when he was caught. It is this kind of moron that gives the REAL
+ hackers a bad name in society. ] -AT
+
+**NOTE** entries surrounded by square brackets "[]" are injection by me (AT).
+
+  John Medica has been cured [Hahahaha] of his addiction to hacking. He was
+cured by a police bust and a theft conviction that landed him two years'
+probation and 100 hours of community service.
+  Now the 22 year old Toronto man [mouse] wants to warn companies  that
+ hackers are out to get them. [ What a CROCK this is! Since when was HACKING
+(in it's most purest form) truely destructive!? ] And he wants to warn hackers
+that they can't always evade detection. [No shit, sherlock.]
+
+  "If you get into it you're taking a risk. I thought I might get away with
+murder. If they don't listen then it's not my fault. Down the road they'll
+be in the same situation as me."
+  He says many companies are very vulnerable to hacking.
+  "There's a problem out there. I know a lot of people hacking on UNIX."
+[whistle, whistle] UNIX is a high-end operating system used by many government
+departments.
+  "Down the road you could see federal systems going down," Medica warns.
+   Medica says he became a hacker for fun and for braggin rights on computer
+bulletin boards.
+  "You feel you have to try it. It's just like WarGames." [Ah Ha! There it is!]
+  Once he'd broken into a system, he'd spread the news to his computer buddies
+connected to a special bulletin board for hackers. He says participating on
+the bulletin board was just like hanging out with a crowd. "It was competition,
+braggin."
+  Last year Medica and some computer friends aquireda Bell Canada credit card
+from a hacker bulletin board. They used the number to embark on a long-distance
+phone binge that lasted two days. [Well, THERE'S A SMART MOVE.] They phoned
+British Columbia, California, London, and Sidney, Australia.
+  The call to Sidney lasted two hours and included ording an Australian pizza
+from Pizza Hut. Calls to Brian Mulroney's office in Ottawa and the KGB in
+Moscow were unsuccessful.
+  Medica says he also got access codes for a local company called Video 1,
+allowing him to call commercial party lines on the 976 exchange at the
+company's expense. He says that unlike other hackers, he never sold the access
+codes.
+  "I wasn't into it that seriously." [Obviously, you got caught, didn't you.]
+  The access codes were available to all participants of the hackers boards, he
+says. He found out about the hacker board through pirate boards which
+distribute illegally obtained software. He learned about pirate boards through
+friends. There are about 100 pirate boards in the Toronto area, says Medica.
+
+[ 100 eh? Hmmm, I wonder if that's as high as he can count? He forgot the
+  other 300+ that he couldn't get on.
+
+  BUT! I am being very critical. Personally, it could all be a front for the
+  press. It's what I might do.. Actually, I wouldn't talk to the press at all.
+
+  If this is not a front, which is highly likely, then this guy must be crazy.
+  Using codes that were made public on a Hacker (or any other type of) BBS is
+  totally insane. Never distribute your codes to anyone but your immediate
+  group members (or friends) and don't accept codes from anyone but them.
+
+  I stay away from codes all-together. They are easy to trace, and you don't
+  learn anything from using them. Hack your own codes, and crack your own
+  systems. Don't abuse someone else's efforts. ]
+

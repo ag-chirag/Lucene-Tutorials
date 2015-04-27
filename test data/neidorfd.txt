@@ -1,0 +1,67 @@
+
+                      CRAIG NEIDORF DEFENSE FUND
+
+  Most of you know about the PHRACK trial and Craig Neidorf, the
+  publisher of PHRACK. Craig put his neck on the line to provide
+  timely, interesting, and helpful information to the phreak/hacker
+  community. The government decided to put a stop to that flow of
+  information so last summer they arrested Craig for publishing a
+  PHRACK article on Bell South's Emergency 911 system, an article
+  which contained a document which was illegally downloaded from Bell
+  South's computer system.
+
+  The government's case fell apart after it was revealed that the
+  document, originally valued at $79,449 by Bell South, was
+  obtainable by dialing an 800 number and paying $13. This, and the
+  fact that Neidorf was not the one who accessed Bell South's
+  computer, caused the government to drop the charges and set Craig
+  Neidorf free.
+
+  Good news, right? Well it is and it isn't. While the government
+  lost its case, Craig Neidorf will no longer be publishing PHRACK,
+  so the government still wins. The fact is that although Craig won
+  in court, he must still pay his own attorney's fees. His original
+  bill reached over $200,000! The law firm that he had retained found
+  ways to reduce $100,000 off of that amount, but Craig and his
+  family have still paid $35,000 to one firm, $8,000 to another, and
+  have roughly $65,000 left to pay off. THIS IS AFTER "WINNING" IN
+  COURT!
+
+  No, he cannot sue the government for this money. He has to pay it
+  himself. A lot of people seem to think that the Electronic Frontier
+  Foundation (EFF) is going to help him with his legal bills. No way.
+  The EFF does not want to be perceived as a "hacker defense fund" so
+  they are trying to distance themselves from the case. Their only
+  help in the matter was to pay for court motions filed by the EFF's
+  law firm on Neidorf's behalf concerning the First Ammendment. THE
+  EFF HAS NO PLANS AT THIS TIME TO HELP PAY NEIDORF'S ATTORNEY FEES.
+
+  What this means is that Craig Neidorf, after being harrassed and
+  arrested by the government for PUBLISHING A MAGAZINE, will shut his
+  magazine down and pay approximately $100,000 in attorney fees EVEN
+  THOUGH HE WON HIS COURT BATTLE.
+
+  If you're as outraged by this as I am, I want you to know that you
+  can do something about it. You can show Neidorf how much you valued
+  PHRACK and how outraged you are about what happened to him by
+  sending money to the Neidorf Defense Fund. Every cent that you send
+  will be used to defray his attorney fees. The address is:
+
+                      NEIDORF DEFENSE FUND
+                      Attn: Sheldon Zenner
+                      Katten, Muchin & Zavis
+                      525 West Monroe Street #1600
+                      Chicago, Illinois  60606-3693
+
+  Checks *MUST* be payable to "Katten, Muchin & Zavis" and have 
+  "Neidorf Defense Fund" written in the memo field.
+
+  You can help even more by downloading this message and uploading it
+  to as many other BBSes as you possibly can. It's available on
+  &TOTSE, 415/935-5845, as NEIDORFD.ZIP. Also, if you're a caller on
+  &TOTSE and you send Neidorf a check for $25 or more, send me a
+  photocopy of the cancelled check and I'll give you 250 file
+  transfer credits. &TOTSE's mailing address is: Jeff Hunter, & the
+  Temple of the Screaming Electron, P.O. Box 5378, Walnut Creek, CA,
+  94596.
+

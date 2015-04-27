@@ -1,0 +1,130 @@
+The following article is from "Business Week" February 4, 1991.
+page 90
+
+****************************************************************
+
+Does Someone Have Your Company's Number?: Phone Hackers are
+Tapping PBXs, Running Up Millions in Charges
+
+by Mark Lewyn
+
+*****************************************************************
+
+     When Linda N. Paris opened the August, 1989, phone bill for
+Philadelphia Newspapers Inc., the telecommunications manager was
+stunned.  On a single day, more than 6,000 calls had been placed
+from the telephone switch that serves the company's two papers,
+the "Inquirer" and the "Daily News," to numbers in Pakistan,
+Egypt, and the Dominican Republic--places Philadelphia reporters
+rarely call.  During the month, such calls added up to about
+$90,000--nearly a quarter of the Knight-Ridder Inc. unit's entire
+phone bill.
+
+     Philadelphia Newspapers was a victim of a relatively new
+high-tech crime wave: PBX fraud.  By stealing numerical
+passwords, thieves can tap into corporate switchboards, known as
+private branch exchanges, or PBXs.  Once inside, they can dial
+anywhere-on the victim's tab.  Often, the culprits are drug
+dealers, who use PBXs to place hard-to-trace calls.  Others are
+shady entrepreneurs, who sell the access numbers on the streets,
+usually to immigrants who can't otherwise afford to call home. 
+By the time a PBX owner realizes what's going on, there's not
+much chance of tracking the criminals down.  "I doubt we'll ever
+find them," says Paris of the Philadelphia PBX hackers.
+
+     HEAVY TOLL.  Dozens of companies have been hit, including
+Procter & Gamble, Sumitomo Bank, and Christian Broadway Network. 
+The cost of companies could be as high as $500 million annually,
+estimates Rami Abuhamdeh, executive director of the
+Communications Fraud Control Assn., a group of phone companies
+and law-enforcement officials.  Abuhamdeh concedes that accurate
+loss estimates don't exist but says: "This is one of the fastest-
+growing problems in the communications business."
+
+     Toll-call fraud is nothing new.  Since the 1960's, for
+example, college students have circulated stolen calling-card
+numbers.  But computers at American Telephone & Telegraph, MCI
+and U.S. Spring now alert security officials to suspected card
+ripoffs in as little as two hours by spotting unusual usage.  And
+new technologies have rendered useless the "blue boxes" that
+"phone phreaks" once used to place free calls by mimicking the
+tone of network switches.
+
+     The corporate PBX is one of the last weak links.  Hackers
+start by finding the toll-free 800 number of a particular PBX. 
+Then, they determine the code that an employee away from the
+office uses to place a long distance call through the switch. 
+According to law-enforcement officials, some thieves obtain 800
+numbers and passwords by spying on executives using pay phones. 
+Others known as "dumpster divers," ransack garbage for numerical
+keys to the switching systems.  Some hackers use computer
+programs that try thousands of numbers until they hit working
+passwords.  For kicks, they sometimes post them on electronic
+bulletin boards.
+
+     EVASIVE MANEUVERS.  Thieves who sell the codes are a bigger
+problem.  "Call-sell" operations, run from pay phones or out of
+apartments, offer illegal toll calling for a cash payment. 
+Security officials at MCI Communications Corp. say that call-
+selling began in NYC but in the past year has spread to LA,
+Chicago, and other cities.  Last April, MCI led investigators to
+a man and a woman in upper Manhattan whose call-sell operation
+ran up more than $178,000 in charges to unwitting companies. 
+They pleaded guilty last fall to state grand larceny and
+computer-trespass charges.
+
+     More often, though, the lawbreakers disappear without a
+trace.  To evade detection, they use a technique known as
+"looping."  They break into one PBX, but instead of dialing the
+final destination from there, they tap into a second PBX and then
+complete the call.  That makes it harder to track the caller. 
+Even if they're caught, PBX hackers usually get off lightly
+because judges don't regard such fraud as a major crime.  The two
+operators in New York were sentenced to perform community
+service.
+     
+     Long-distance carriers are working with customers to keep
+PBX fraud from spreading.  MCI has sent security tips to 250,000
+corporate customers.  It suggests lengthening customers.  It
+suggests lengthening passwords, to make them harder to figure
+out, and blocking the PBX from making international calls if
+employees have little need to make them.  Another tip: Shut off
+remote access to the PBX during nonbusiness hours.
+
+     Customers have good reason to adopt preventive measures.  So
+far, courts have ruled that they're liable for the charges, even
+if their employees didn't make the calls.  However, some
+companies have persuaded carriers to forgo charges for the stolen
+calls.  Christian Broadcasting Network, which in 1987 was hit
+with $40,000 in fraudulent calls, "hasn't paid MCI anything,"
+says Paul D. Flannigan, CBN's vice-president for information
+services.  "I expect it to stay that way."
+
+     Still most customers have no idea how vulnerable they are to
+PBX fraud, carriers say.  That means there is a flock of
+corporate pigeons ready for phone thieves to pluck.
+
+*****************************************************************
+
+The Big Bills from PBX Fraud
+------------------------------
+A Sampling of Major Losses
+
+
+victim                             fraudulent charges
+------------------------------------------------------
+New York City Human                $704,000
+Resources Administration
+------------------------------------------------------
+Procter & Gamble                   300,000
+------------------------------------------------------
+Sumitomo Bank                      97,000
+------------------------------------------------------
+Philadelphia Newspapers            90,000
+------------------------------------------------------
+Tenessee Valley Authority          65,000
+-------------------------------------------------
+Christian Broadcasting Network     40,000
+-------------------------------------------------
+
+data: company reports, Los Angeles Police Dept.

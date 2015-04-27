@@ -1,0 +1,226 @@
+
+
+From Computerworld, 1 April 1991.        Typed in by The Bear...
+I have spoken with Randall Jackson of Computerworld's Wellington office, 
+this story is NOT a hoax.
+
+PM'S TEAM GETS SET TO MOVE ON ID CARDS
+
+by Clive Mathew-Wilson
+
+The Government plans to introduce a National Identity Number scheme for
+all New Zealanders by the end of next year, Computerworld sources say.
+
+The numbering system is likely to involve the use of a "smart" ID card.
+
+A team working on the project with the Prime Minister's office has yet
+to announce its findings to Parliament, but it is understood it is the
+format of the ID scheme, not the scheme itself, that is being debated.
+
+Usually reliable sources within Parliament suggest the ID scheme -
+originally proposed by the International Monetary Fund - was already
+part of Treasury's economic reform plans before the election, and that
+it is being implemented virtually without change by the new Government.
+
+The first stage of implementation - data sharing between the Social
+Welfare department and the IRD - is expected to take place shortly.
+
+It is understood that in place of any new common identity numbering
+scheme, the issuing and control of IRD numbers will be tightened, and an
+IRD number used in all relevant transactions throughout various
+government departments.
+
+More than 1.7 million ID numbers are currently allocated to wage and
+salary earners, and recent changes to tax laws require every bank
+account to be tagged with an IRD number by 1992.
+
+This would, in effect, give every New Zealander a unique, computerised
+serial number.
+
+It is believed the only real problems facing the ID card scheme are
+those of computer power.
+
+Doubts have been raised over the ability of existing systems to cope
+with the information-handling and storage needs of a National ID Card.
+
+The most likely scenario at present, entails a gradual phasing-in of
+both the card and the information-matching based around it, starting
+with data-matching between the huge Social Welfare and IRD computer
+systems, which operate out of the same GCS installation at Trentham.
+
+One key target of the ID card is understood to be the public health
+system. The computerised "smart" card, with its instant reference to a
+person's income details, is to be used to target healthcare as the
+public health system is wound down.
+
+If Computerworld's source is correct, a number of politicians and civil
+servants appear to have been economical with the truth.
+
+Prime Minister Jim Bolger, while he was in opposition, undertook not to
+introduce a common identification number system, despite a confirmation
+by the IRD at the time that the IRD number was, in fact, such a system
+already.
+
+Similarly, shortly before the elections last year Inland Revenue
+Commissioner Dave Henry denied the IRD had plans to link its computer
+systems with those of Customs, Births, Deaths and Marriages, Social
+Welfare, Housing Corporation and ACC. Shortly after the election, plans
+to link the Social Welfare and IRD computers were announced.
+
+The Australian Government, which failed dismally in its plans to launch
+a national ID card, is understood to be watching the New Zealand
+experiment with interest, pending a possible re-introduction of the
+scheme in Australia in a somewhat different form.
+
+Civil liberties spokesperson Barry Wilson attacks what he terms a
+"conspiracy of silence" over the issue.
+
+"When has there been any informed public debate over whether New
+Zealanders need or want ID cards? The public, by and large, has been
+completely ignored," he says.
+
+"New Zealanders voted against the ID card scheme when they dumped
+Labour."
+
+Computerworld sought ministerial and IRD response on the issues, but
+neither had answered our calls by press time.
+EOF
+
+                                KIWICARD AND YOU 
+                                ----------------
+    
+                         New Zealand Privacy Foundation
+                                  PO BOX 3385
+                                  AUCKLAND, NZ
+
+                    Phone (011649) 298-8651, (011649) 674-429
+
+                         MEMBERSHIP $10 WAGED, $5 UNWAGED
+
+
+KIWICARD AND YOU...
+
+In a pre-election speech Ruth Richardson said, "ID cards have got 
+all the trappings of Big Brother - I am a freedom loving New 
+Zealander."  Jim Bolger said "National absolutely rejected any 
+proposal for a common numbering system between the two departments 
+[Inland Revenue and Social Welfare] or for identity cards."
+
+BROKEN PROMISES!
+
+Soon the data matching between these departments is to commence, and 
+the first Kiwicards, or Community Services Cards, as we are supposed 
+to call them, are to be sent to beneficiaries.
+
+THE GOVERNMENT TELLS US THE CARDS ARE VOLUNTARY, yet they are 
+automatically to be sent out to beneficiaries and pensioners.  They 
+are needed to obtain free or subsidised health care and many 
+families are so hard pressed by job losses and benefit cuts that the 
+card will be a necessity.  Each card has the CARDHOLDER'S NAME AND 
+IDENTIFICATION NUMBER.  So much for that promise.
+
+THE CARDS HAVE A MAGNETIC STRIPE which Mrs Shipley states is never 
+to be read by a machine.  If that is the case, why is it on the card?
+
+THEY ESTABLISH ENTITLEMENT TO SUBSIDISED HEALTH CARE BUT ARE NOT 
+SUFFICIENTLY SOPHISTICATED TO DO THIS ON THEIR OWN.  The Minister of 
+Health has said that "up to five cards may be involved."  The 
+obvious next step is to make the card "smart".  How long do you 
+think it will take for the Government to break its promise not to 
+make it a "smart" card?  Maybe they will keep that promise and give 
+the "smart" card another name.  "Dumb" or "smart", and whatever it 
+is called, the Kiwicard still stinks.
+
+
+QUESTIONS WE NEED TO ASK
+
+- Why are new cards being devised for health care when we already 
+  have adequate existing systems?
+
+- Why was the legislation for the Kiwicard rushed through without 
+  consultation with the public or a Parliamentary Select Committee 
+  hearing?
+
+- Why are enormous amounts of money being spent on computer system 
+  when these funds could be targeted to health care users?
+
+- If the Kiwicard is not to be extended to other fields, why is the 
+  legislation authorising it worded to allow much more extensive use?
+
+- Why are there no safeguards against the misuse of the card by 
+  Government agencies, such as the police, or by private enterprise?
+
+- There has been no formal cost-benefit analysis to assess a need 
+  for data matching.  It is likely to cost well in excess of half a 
+  billion dollars and will bring unproven and unknown financial 
+  return.  How can this sort of expense be justified?
+
+- Although the card has been presented as a health entitlement card 
+  for low income earners, it has been stated to be inadequate for 
+  the task.  A member of the Government "Change Team" told TV3 that 
+  a "smart" national ID card is being planned for all New 
+  Zealanders.  The New Zealand Privacy Foundation believes that the 
+  Kiwicard is the thin end of the wedge, paving the way for the 
+  "smart" card.
+
+
+AIM AND OBJECTIVES OF THE NEW ZEALND PRIVACY FOUNDATION
+
+- To act as a watchdog on privacy issues.
+
+- To put a stop to the Kiwicard (now known as Community Services 
+  Card) and related erosions of personal privacy, including 
+  information swapping between Government departments and proposals 
+  to introduce "unique personal identifiers."
+
+- To oppose the development of surveillance systems that intrude 
+  upon the rights and privacy of the indiviual, especially systems 
+  of data matching, identification cards and unique numbering 
+  systems.
+
+- To campaign and lobby for the protection of the individual against 
+  privacy intrusion.
+
+- To educate New Zealanders and increase public awareness in 
+  relation to the right of personal privacy and privacy issues.
+
+- To conduct research into privacy related issues and technologies.
+
+
+JOIN THE NEW ZEALAND PRIVACY FOUNDATION:
+ 
+Send to : The Trustees
+          NEW ZEALAND PRIVACY FOUNDATION
+          PO BOX 3385
+          AUCKLAND
+
+CONTACT PHONE NUMBERS : (09) 298-8651, (09) 674-429
+
+
+...............................................................................
+
+MEMBERSHIP FORM
+
+Please enrol me as a member of the New Zealand Privacy Foundation.
+
+
+Name    ..........................................................
+
+
+Address ..........................................................
+        
+        ..........................................................
+
+        ..........................................................
+
+
+Phone   ...................................
+
+
+I enclose $ .......................... annual membership/donation
+
+                 (MEMBERSHIP $10 WAGED, $5 UNWAGED)
+
+
+
+

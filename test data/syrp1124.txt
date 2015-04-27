@@ -1,0 +1,219 @@
+8
+  ============================================================================
+
+                             THE SYNDICATE REPORT
+                       Bell Information Transmittal No. 8
+
+
+                           Released November 24, 1986
+                                  Featuring:
+
+                 Electronic Fraudulent Crackdowns (olt ccm 11\5)
+
+                       ISDN: A Primer Part III (eet 11\11)
+
+              PicTel's 56-kbps 'PicturePhones' / Nynex (eet 11\11)
+
+
+                                 by The Sensei
+
+  ============================================================================
+
+ELECTRONIC FRAUDULENT CRACKDOWNS:
+
+       In this article; brought forth will be assorted bits of electronic
+computer crime crackdowns, and other misc. fraudulent proceedings.  Actual
+identification of the criminal people will not be presented; initials will
+instead be used.  This is for sole protection of The Syndicate Report and
+the prosecuted people.  (I definitely don't need to be charged for some
+newly processed law.)
+
+  ----------------------------------------------------------------------------
+
+    DP, 22 year old man, of Fort Lauderdale, Fla., stands accused of American
+Express and MCI.  Authorities say the man is charged with theft, possession of
+stolen property, avoiding payment of telephone property, "offenses against
+intellectual property and offenses against computer users."  This is the
+second run-in with the law for the man from Fla.  Last October he was accused
+of using his home computer to break into confidential computer files of
+Southern Bell Telephone Co., police said.
+
+----------------------------------------
+
+    RW, A Silicon Valley businessman, has been sentenced to pay a 40,000$ fine
+and serve a five-year suspended prison sentence for his part in diverting a
+shipment of computer equipment to the Soviet bloc in 1985.  RW, and associate
+of a brokerage firm, pleaded guilty to conspiring to violate U.S. export laws
+by shipping a 196,000$ Digital Equipment Corp. computer and components from
+Haiti to Czechoslovakia in February 1985.
+
+----------------------------------------
+
+    JS, 43, of Encino, Calif., has told local polic he's received numerous
+death threats from alleged extortionists visiting his computer bulliten board.
+Forum administrator JS told LA authorities he received threats and demands for
+money in electronic messages posted posted on his BBS throughout August and
+early September.  "We can still make you life unfit for living," said one of
+the messages, according to a report by United Press International.
+
+----------------------------------------
+
+    Police have arrested seven youths in the South Plainfield, N.J., area on
+charges they used their home computer to exchange stolen credit card numbers,
+swap information on how to make free long distance phone calls, and call coded
+phone numbers at the Pentagon.  Middlex County Prosecutor AR also said the
+seven, all under the age of 18, had codes that would cause communications
+satellites to "change position," possibly interupting intercontinental
+communications, An AT&T spokesmans, however disputed that claim.  The arrest
+of the seven represented the seventh major presecution under a one-year-old
+state computer crime law in New Jersey.
+
+----------------------------------------
+
+    KG, a 19-year-old New Jersey pre-law student who said he was "addicted"
+to online computer games, was placed on probation and ordered to make
+restitution to CompuServe after pleading guilty to stealingcredit to continue
+playing.  Court officials said KG played MegaWars for free for about three
+months on illegally obtained credit card account numbers.  KG got the numbers
+from carbon copies of receipts he retrieved from trash bins at a local
+shopping center.
+
+----------------------------------------
+
+    Three teen-agers have been arrested in Jacksonville, Fla., on charges they
+used credit card information stolen during an invasion of a TRW Corp. system
+in Cleveland.  Eighteen-year-olds AP and MS (initials) could each face up to
+five years in prison and a 5,000$ fine if convicted.  They are alleged to
+have used credit information stolen online from TRW to buy atleast 800$ in
+computer equipment.
+    Florida State Sen. Edgar Dunn, in response to the events detailed in the
+previous story, has introduced a bill that would make credit card fraud via
+computer in that state subject to anti-racketeering laws.  The measure would
+also tighten  Florida's existing 1984 computer crime law to allow victems to
+recover three times their loss from computer crime as well as punitive damages,
+reports The Associated Press.
+
+----------------------------------------
+
+    Transcall America, an Atlanta-based discount long-distance telephone
+service, has uncovered crackers who ran up at least 12,000$ in illegal calls
+in five months.  According to company officials, no one has been charged, but
+the FBI is investigating the case and could bring state and federal charges.
+The crackers were caught when investigators allowed a stolen access code,
+which was posted on a CoCoa Beach bulletin board, to remain valid.  To bogus
+calls were traced to several homes in Brevard County, Fla.
+
+----------------------------------------
+
+    Crackers in at least three major cities have been blamed for a 60,000$
+phone bill that was sent to a California man whose stolen credit card number
+was apparently posted on an underground network of computer bulletin boards.
+Officials with GTE-Sprint Communications Corp. told the Associated Press that
+computer vandals in Atlantic, Blatimore and New York used the Sprint number of
+RB of Campbell, Calif., to charge more than 250,000 minutes of calls in two
+months, Sprint spokesman MF said "an investigation is under way" with law
+enforcment officials in the three East Coast cities and at least seven other
+cities.  RB's (owner of Sprint code) mid-July bill ran 722 pages and listed
+17,311 calls.  The total for 256,697 minutes on that bill came to 55,562.27$,
+non counting an 8,197$ "volume discount."
+
+----------------------------------------
+
+    Kaypro Inc.'s national director of sales and marketing, SE, has been
+sentenced to 30 months in prison for convictions related to a drug-smuggling
+conspiracy.  Previously, the 27-year-old SE had pleaded guilty to a charge of
+conspiring to travel in interstate and foreign commerce in aid of racketeering
+and to a count of subscribing to a false tax return.  Most of the things he
+has commited were done threw his personal computer.
+
+  ----------------------------------------------------------------------------
+
+       To summarize these crimes, The Syndicate Report would just like to
+advise computer criminals to reveiw the previous articles and make sure the
+same mistakes are not made.
+
+  ============================================================================
+
+ISDN: A PRIMER PART III
+
+       There has been so much  progress over the last couple of years on
+developing  standards for the various interfaces, that the transition to an
+all-ISDN network will take about  half the time originally predicted.
+       ISDN cautioned about many questions about technology,  costs and
+pricing has yet to be  resolved.  Even so, it will be the end of the century
+or later  before voice, data and images can be sent at the  high speeds
+standardized by the CCITT's ISDN committees.
+
+       Krueger, co-founder of Stanford Telecommunications Corp., spoke to more
+that 100  executives from Japanese electronics companies.  The impact of ISDN
+will  be positive for certain products and the death  knell for others, Data--
+Quest predict.  Once telecommunications lines are all digital, the now-booming
+modem  market will tail off.  Statistical multiplexors may also be a thing
+of the past, and data-only  BPXs probably will become extinct.  For packet
+switches, central digital switches and T-1 multiplexors, the future  will
+become brighter.  Terminal adapters, to transform non-ISDN telephones,
+connected to Centrex systems or PBXs, will provide market opportunities, 
+Krueger said.
+       One product which will quickly benefit in the Group IV facsimile.  The
+clarity, speed and low cost of facsimile transmissions via an all  digital
+network will  be a boon to the next generation of fax machines.  G-IV fax
+machines are  now readily available but sales are languishing because of low--
+bandwidth phone lines  and non-digital central switches.
+
+       About 17 percent of all phone lines are  serviced by digital  central
+switches.  Because nearly all new  switches in-stalled now are  digital--simply
+because that is the cheapest way to make a central switch--About half  of all
+phone lines will be served by  digital switches by 1990.  By then,  offices
+wired for digital transmissions will  be able to send G-IV  faxes to other
+offices with  digital networks.
+
+  ============================================================================
+
+PICTEL'S 56-KBPS 'PICTUREPHONES' - NYNEX:
+
+       A Massachusetts startup specializing in video-compression  technologies
+has scored big with its first  release of  "picturephones," and won a  vote
+of confidence from one of  the biggest network  operators, Nynex Corp.
+       For PicTel Corp. (Peabody, Mass.), the recent success  is part of a
+pattern that began two years  ago when two engineers developed a proprietary
+codec that allowed  the construction of a  videotelephone that didn't require
+the use  of extremely high transmission speeds.  For  the much antivipated
+videoconferencing  business, it was  the microcomputer.
+
+       Because of PicTel phones operate at speeds of 56 kbits per second
+(instead of traditional  1.544 Mbits per second known as  T-1 speeds), the
+devices can be plugged  into digital switches already installed by telephone
+companies in  a growing number of offices.  That's one  reason why Nynex
+Business Information Systems  is interested in the technology  and has started
+to market PicTel phones to business customers.
+       Since formally  releasing the system in October, PicTel  has reported
+500,000$ in orders  for the first telephone system, which costs as much as
+100,000$.  There's also a growing order backlog which could augur well for
+future company prospects.
+
+       With the shipment of its first products, the increasing digitalization
+of the  nation's telephone offices and the  expectations of the ISDN, PicTel's
+prospects should be favourable.  To date, its principal competitors, such as
+General Electric Co. plc of Britian and Compression Labs Inc.  (San Jose, CA)
+offer picture phones that require an expensive videoconferencing room  and T-1
+lines to handle  the breakdown, transmission and  reconstruction of video
+images.
+
+
+  ============================================================================
+
+     If there is any question to the information in this file, contact the
+     author.  Now can be found on the Private Sector 20 Meg, 3/1200 baud
+     system at (201) 366-4431 (2600 Magazine Bulliten Board).
+
+  ============================================================================
+
+               This concludes this transmittal No. 8 presented by:
+
+                       The Sensei  -  The Syndicate Report
+
+                           Released November 24, 1986
+
+  ============================================================================
+
+(>

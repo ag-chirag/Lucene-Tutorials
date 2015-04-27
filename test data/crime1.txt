@@ -1,0 +1,83 @@
+
+MAY 1990
+COMPUTERWORLD
+COMPUTER CRIME BECOMING "LESS SOPHISTICATED"
+by Margie Wylie
+
+MENLO PARK, Calif. - Despite all 
+the media attention surrounding his
+conviction, Robert Morris does not 
+present the profile of a basic computer
+criminal, nor is his crime typical
+throughout the industry.
+
+On the contrary, less computer
+crime is being committed by those
+who can be characterised as "hackers",
+and the crimes committed are far
+less sophisticated, says a report
+issued by the National Centre for
+Computer Crime Data (NCCCD) in the
+United States.
+
+In fact, it is becoming increasingly
+difficult to identiy the typical perpertrator
+as the bright, young white male, 
+said Buck Bloombecker, director of the
+NCCCD.  The report states that in 
+California, 32% of those arrested for
+computer crimes were women, and 43%
+were minorities.
+
+The study also revealed the changing
+nature of computer crimes.  A nationwide
+survey of 2500 prosecutors concluded that 34%
+of computer crimes in 1988 involved the
+theft of services.  That figure, up from
+10% in 1986, is indicative of the type
+of computer crime being committed today,
+Blombecker said.
+
+"More and more computer crime is of the
+garden variety," Bloombecker said.
+"What we are facing is the 'democratisation'
+of computer crime."
+
+Computer crime has taken a heavy toll on 
+US business.  In 1988, the cost of 
+computer crimes tallied to an astonishing
+$US555 million, 930 personnel hours, and
+16.3 years of computer service.  Further, 
+in 12% of cases, the victims were individuals,
+not corporations or networks.
+
+Still, Morris' conviction may play a 
+role in preventing computer crime because
+it demonstrates that existing computer
+crime laws are sufficient, Bloombecker
+said.  Passing more laws like the 
+antivirus bill introduced by Republican
+Wally Herger, is merely an academic 
+exercise, he said.  "What we need are
+more prosecutions under exisisting laws.
+That takes time and money."
+
+Marc Rotenburg, director of Computer 
+Professionals for Social Responsibility,
+suggested that Congress boost funding for
+computer security research rather than 
+pass more laws.
+
+Morris was recently convicted of violating
+the federal 1986 Computer Fraud and Abuse
+Act for sending a virus program into a 
+national email system.
+
+
+
+
+
+
+
+
+

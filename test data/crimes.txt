@@ -1,0 +1,198 @@
+
+ Going Undercover In The Computer Underworld      January 26, 1993
+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ by Ralph Blumenthal (The New York Times)(Page B1)
+
+He patrols the back alleys of cyberspace at the edge of the electronic
+frontier.  Traveling on beams of electrons, he is invisible, formless --
+the ultimate undercover agent.
+
+He's "Phrakr Trakr" of the Hi-Tech Crime Network.  But don't look for him
+in comic books or the video store.  He's real.
+
+His beat takes in the thousands of computer bulletin boards where anyone
+with a computer, a modem and a phone can dial up and exchange
+information, or even start a new bulletin board.  Usually, the subject is
+as innocuous as a computer game program, a recipe or pet grooming.  But
+increasingly, the authorities say, the bulletin boards have become
+underground marketplaces for stolen telephone access codes and credit
+card numbers, along with child pornography and other contraband.  Now,
+law-enforcement agencies have stepped up counterattacks, including
+computer-based stings.
+
+That's the passion of Phrakr Trakr, (pronounced FRACK-er TRACK-er), an
+organized-crime investigator, founder of a network of police computer
+buffs that now spans 28 states, and self-proclaimed scourge of "hackers"
+who break into computer networks, "phreakers" who steal telephone
+services, and "phrackers," who are a combination of both.
+
+In his newsletter called "FBI" ("Find 'em, Bust 'em, Incarcerate 'em"),
+he warned:
+
+"Every move you make, Every breath you take, We'll be watching you."
+
+Brazenly, he uploaded the taunt onto bulletin boards in June in an
+effort, as he wrote, to sow "anarchy, chaos, mistrust and fear" in the
+"phracker community."
+
+Boyish, with closely cropped hair and a penchant for suspenders and
+rakish double-breasted suits, the 36-year-old investigator works in the
+organized crime, racketeering and narcotics bureau of a large law-
+enforcement agency in the East.
+
+Like other undercover agents whose success and safety hinge on an ability
+to blend in with their targets even though they chafe at the anonymity of
+their work, he was eager to draw attention to his operations, provided
+his identity was withheld.
+
+
+An Electronic Wall
+
+While infiltrating electronic bulletin boards and investigating computer
+crime is part of his job, he said, the High-Tech Crime Network that he
+organized last year to educate other officers around the country is his
+own project, for which he has spent some $4,000 of his own money on
+computer equipment and telephone bills.
+
+Though his investigations have yet to yield arrests, he said he is
+studying nine boards and building cases with officers in three other
+states.
+
+"It takes time," he said.  "You don't just buy one thing and arrest them.
+They'd know you were a cop.  You buy things over time and make several
+arrests."  While the Secret Service and the Federal Bureau of
+Investigation are also conducting investigations, he said, local law
+enforcement also has jurisdiction.
+
+Others corroborated his account.  His information jibes, furthermore,
+with well-documented efforts by law-enforcement agencies nationwide to
+penetrate the perhaps 10 percent of the nation's estimated 30,000
+electronic bulletin boards where computer criminals traffic in stolen
+information, child pornography, poison recipes and bomb-making
+instructions.
+
+
+Computer-Literate Criminals
+
+"I want to make more cops aware of high-tech crime," he said as he typed
+at a home computer recently reading his electronic mail from other
+officers and leaving messages on bulletin boards that offered stolen
+credit card numbers and telephone calling codes.  These were not pranks
+of teen-age computer whizzes, he said, "This is an organized criminal
+activity."
+
+"The victims are everybody," he said.  "We all end up paying for it."
+
+Richard Petillo, manager of corporate security for AT&T, said such fraud
+now costs the industry, and thereby customers, an estimated $2 billion a
+year and continues to grow.  "It's an epidemic, let's face it," he said.
+"Criminals are constantly working at ways to get around our controls.  We
+liken it to a chess game."
+
+Bruce Sterling, a chronicler of the computer wars and author of "The
+Hacker Crackdown" (Bantam, 1992), concluded that while mischievous
+intrusions into computer networks were declining, "electronic fraud,
+especially telecommunications crime, is growing by leaps and bounds."
+This despite a crackdown by several agencies around the nation in 1990
+that resulted in the seizure of some 40 computers and 23,000 floppy
+disks.
+
+
+Threat to Phone Companies
+
+To telecommunications giants like AT&T, MCI and Sprint, the primary fraud
+is theft of long-distance calling-card numbers.  But they have the
+technology to detect sudden changes in customer calling patterns and can
+invalidate a card within hours.  More difficult to detect are break-ins
+to a company's phone system -- called a private branch exchange, or PBX.
+These thefts can afford free outside calling at the company's expense and
+can escape notice until the bill arrives.  Among recent victims was the
+financially struggling New York Post, which suffered a $40,000 loss.
+
+Toward the end of a month, as the likelihood of their detection rises,
+"phreakers" often post PBX access codes on electronic bulletin boards,
+allowing wider exploitation and muddying the trail for investigators.
+The techniques for such electronic break-ins are widely disseminated on
+the bulletin boards.
+
+In addition, many experts say, the more secretive boards have become
+forums for pedophiles and other sexual predators who also inhabit
+cyberspace, that unfixable geography where disembodied strangers known
+only by their pseudonyms, or "handles," chat by computer and phone lines.
+Pornography, even moving pictures from overseas, are stored as files that
+can be downloaded by minors into home computers at will.
+
+Chief Alfred O. Olsen of the Warwick Township Police Department in
+Lititz, Pennsylvania, who has worked with the police high-tech crime
+group and its founder, said in a recent report that he became aware of
+the nefarious uses of some of the bulletin boards as a result of a rape
+case in which the suspect met victims through a computer bulletin board.
+
+To get onto a bulletin board, a computer user needs only a communications
+program like Crosstalk and a modem that will send and receive signals
+over a phone line.  Each board has its own phone number and is usually
+maintained by its originator, a systems operator who sets the rules for
+access and coordinates the message traffic.  Each board commonly offers
+the phone numbers of many other boards, as well as programs for starting
+yet other boards. But so-called underground boards offering illicit
+services require secret passwords, usually granted only to those who
+attend face-to-face meetings intended to weed out the police.
+
+
+The Limits of Expression
+
+Computer civil-libertarians like the Electronic Frontier Foundation
+counter that the police typically have difficulty differentiating between
+criminal schemes and constitutionally protected free speech.
+
+But Phrakr Trakr said he understood the distinction.  "If you want to
+write how to kill your parents, that's OK," he said, citing a bulletin
+board "phile" on how to dispose of a murdered parent's body.  "But
+selling credit cards is something else."
+
+Learning the idioms was the first step in infiltrating a bulletin board
+system, he said.  He used a software program on an IBM clone and a
+telephone modem to log onto one of several clandestine boards; he did
+this by using false identification and access passwords he had acquired
+by satisfying a series of questions testing his authenticity.
+
+He was scanning the messages when the systems operator who policed the
+board broke in: "What's up need any help?"
+
+"Yo dude," he typed out, "looking fer ATT's got any?"
+
+The operator provided the handle, or nickname, of someone who might have
+credit-card calling numbers.
+
+Phrakr Trakr left a message for him and addressed the operator. "Thanks
+for the codez," he typed.
+
+If future transactions proved rewarding, he said, he would try to lure
+the supplier to a face-to-face meeting where he could be arrested by
+local authorities on other charges, safeguarding the confidentiality of
+the undercover exchange.
+
+
+A Hacker's Attitude
+
+He rummaged through other boards, finding files on how to turn household
+chemicals into deadly poisons, how to build an "Assassin Box" to send a
+supposedly lethal power surge through a telephone line, and how to use a
+tone dialer to make free calls from certain coin telephones.
+
+Then it was time to log onto his own bulletin board -- protected by his
+own high-security measures -- to check the mail from fellow members of
+the Hi-Tech Crime Network.
+
+Tim left a message saying he had found that a bulletin board he was
+investigating concealed an even more interesting underground board. "I'm
+in the process of getting elite access now," he wrote.  "Hope it works."
+
+But, Tim wanted to know, what if he was asked to provide card numbers in
+return?
+
+"Always put them on the defensive," counseled Phrakr Trakr.  "Let them
+know you're interested but come across as being cautious. They will
+understand that.  Upload some of the files you got from this board and
+that should give you some credibility.  Have an attitude.  Most
+hackers/phreakers do."

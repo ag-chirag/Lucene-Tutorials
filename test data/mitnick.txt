@@ -1,0 +1,176 @@
+Slippery cybervandal caught in his own electronic web
+-----------------------------------------------------
+
+(c) Copyright the News & Observer Publishing Co.
+How a computer sleuth traced a digital trail
+
+New York Times
+
+RALEIGH, N.C. (9:05 p.m.) -- After a search of more than two years, a team
+of FBI agents early Wednesday morning captured a 31-year-old computer
+expert accused of a long crime spree that includes the theft of thousands
+of data files and at least 20,000 credit card numbers from computer
+systems around the nation.
+
+The arrest of Kevin D. Mitnick, one of the most wanted computer criminals,
+followed a 24-hour stakeout of a Raleigh apartment building here.
+
+A convicted computer felon on the run from federal law enforcement
+officials since November 1992, Mitnick has used his sophisticated skills
+over the years to worm his way into many of the nation's telephone and
+cellular telephone networks and vandalize government, corporate and
+university computer systems. Most recently, he had become a suspect in a
+rash of break-ins on the global Internet computer network.
+
+"He was clearly the most wanted computer hacker in the world," said Kent
+Walker, an assistant U.S. attorney in San Francisco who helped coordinate
+the investigation. "He allegedly had access to corporate trade secrets
+worth billions of dollars. He was a very big threat."
+
+But federal officials say Mitnick's confidence in his hacking skills may
+have been his undoing. On Christmas Day, he broke into the home computer
+of a computer security expert, Tsutomu Shimomura, a researcher at the
+federally financed San Diego Supercomputer Center.
+
+Shimomura then made a crusade of tracking down the intruder, an obsession
+that led to Wednesday's arrest.
+
+It was Shimomura, working from a monitoring post in San Jose, Calif., who
+determined last Saturday that Mitnick was operating through a computer
+modem connected to a cellular telephone somewhere near Raleigh, N.C.
+
+Sunday morning, Shimomura flew to Raleigh, where he helped telephone
+company technicians and federal investigators use cellular-frequency
+scanners to home in on Mitnick.
+
+Mitnick was arrested at 2 o'clock Wednesday morning in his apartment in
+the Duraleigh Hills neighborhood of northwest Raleigh, after FBI agents used
+their scanners to determine that Mitnick, in keeping with his nocturnal
+habits, had connected once again to the Internet.
+
+Shimomura was present Wednesday at Mitnick's pre-arraignment hearing at
+the
+federal courthouse in Raleigh. At the end of the hearing, Mitnick, who now
+has shoulder-length brown hair and was wearing a black sweat suit and
+handcuffs, turned to Shimomura, whom he had never met face to face.
+
+"Hello, Tsutomu," Mitnick said. "I respect your skills."
+
+Shimomura, who is 30 and also has shoulder-length hair, nodded solemnly.
+
+
+Mitnick, already wanted in California for a federal parole violation, was
+charged Wednesday with two federal crimes. The first, illegal use of a
+telephone access device, is punishable by up to 15 years in prison and a
+$250,000 fine.
+
+The second charge, computer fraud, carries potential penalties of 20 years
+in prison and a $250,000 fine. Federal prosecutors said they were
+considering additional charges related to Mitnick's reported Internet
+spree.
+
+Federal officials say Mitnick's motives have always been murky. He was
+recently found to have stashed thousands of credit card numbers on
+computers in the San Francisco Bay area -- including the card numbers of
+some of the best-known millionaires in Silicon Valley. But there is no
+evidence yet that Mitnick had attempted to use those credit card accounts.
+
+Indeed, frequently ignoring the possibility of straightforward financial
+gain from the information he has stolen, Mitnick has often seemed more
+concerned with proving that his technical skills are better than those
+whose job it is to protect the computer networks he has attacked.
+
+Federal officials say the arrest of Mitnick does not necessarily solve all
+the recent Internet crimes, because his trail of electronic mail has
+indicated that he may have accomplices. One of them is an unknown computer
+operator, thought to be in Israel, with whom Mitnick has corresponded
+electronically and boasted of his Internet exploits, investigators said.
+
+Still, the capture of Mitnick gives the FBI custody of a notoriously
+persistent and elusive computer break-in expert. Raised in the San
+Fernando Valley near Los Angeles by his mother, Mitnick has been in and out of
+trouble with the law since 1981.
+
+It was then, as a 17-year-old, that he was placed on probation for
+stealing computer manuals from a Pacific Bell telephone switching center in Los
+Angeles.
+“     í'          0*0*0*ø ø    “ Those who know Mitnick paint a picture of a man obsessed with the power
+inherent in controlling the nation's computer and telephone networks.
+
+The recent break-ins he is accused of conducting include forays into
+computer systems at Apple Computer Inc. and Motorola Inc. and attacks on
+commercial services that provide computer users with access to the
+Internet, including the Well in Sausalito, Calif., Netcom in San Jose,
+Calif., and the Colorado Supernet, in Boulder, Colo.
+
+To make it difficult for investigators to determine where the attacks were
+coming from, Mitnick is said to have used his computer and modem to
+manipulate a local telephone company switch in Raleigh to disguise his
+whereabouts.
+
+In recent weeks, as an elite team of computer security experts tightened
+an invisible electronic net around the fugitive, Mitnick continued to taunt
+his pursuers, apparently unaware of how close they were to capturing him.
+
+About 10 days ago, for example, someone whom investigators believe to have
+been Mitnick left a voice-mail message for Shimomura, a Japanese citizen.
+The message reprimanded Shimomura for converting the intruder's earlier
+voice-mail messages into computer audio files and making them available on
+the Internet.
+
+"Ah Tsutomu, my learned disciple," the taunting voice said. "I see that
+you put my voice on the Net. I'm very disappointed, my son."
+
+But the continued attempts at one-upmanship simply gave the pursuers more
+electronic evidence.
+
+"He was a challenge for law enforcement, but in the end he was caught by
+his own obsession," said Kathleen Cunningham, a deputy marshal for the
+U.S.  Marshals Service who has pursued Mitnick for several years.
+
+Mitnick first came to national attention in 1982 when, as a teen-age
+prank, he used a computer and a modem to break into a North American Air Defense
+Command computer.
+
+He subsequently gained temporary control of three central offices of
+telephone companies in New York City and all the phone switching centers
+in California.
+
+This gave him the ability to listen in on calls and pull pranks like
+reprogramming the home phone of someone he did not like so that each time
+the phone was picked up, a recording asked for a deposit of a coin.
+
+But the break-ins escalated beyond sophomoric pranks. For months in 1988,
+Mitnick secretly read the electronic mail of computer security officials
+at MCI Communications and Digital Equipment Corp., learning how their
+computers and phone equipment were protected.
+Officials at Digital later accused him of causing $4 million in damage to
+computer operations at the company and stealing $1 million of software. He
+was convicted in July 1989 and sentenced to a year in a low-security
+federal prison in Lompoc, Calif.
+
+One of his lawyers convinced the court that Mitnick had an addiction to
+computers. In July 1989, after his release from prison, he was placed in a
+treatment program for compulsive disorders, the Beit T'Shuvah center in
+Los Angeles. During his six months there, he was prohibited from touching a
+computer or modem.
+
+That restriction was a condition of his probation when he was released in
+mid-1990, and it was for reportedly violating this condition that federal
+officials were pursuing him when he dropped out of sight in November 1992.
+
+In September 1993, the California Department of Motor Vehicles also issued
+a warrant for his arrest. The warrant stated that Mitnick had wiretapped
+calls from FBI agents. He then used law-enforcement access codes obtained
+by eavesdropping on the agents to illegally gain access the drivers'
+license data base in California.
+
+Federal law enforcement officials believe that Mitnick has conducted a
+long string of computer and phone telephone network break-ins during more than
+two years on the run.
+
+And they say his ability to remain at large until now illustrates the new
+challenges that law enforcement officials face in apprehending criminals
+who can cloak themselves behind a curtain of forged electronic data.
+
+

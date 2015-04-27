@@ -1,0 +1,225 @@
+
+Akron BBS trial update: Dangerous precedents in sysop prosecution
+
+You may already know about the BBS 'sting' six months ago in Munroe
+Falls, OH for "disseminating matter harmful to juveniles." Those
+charges were dropped for lack of evidence. Now a trial date of
+1/4/93 has been set after new felony charges were filed, although
+the pretrial hearing revealed no proof that *any* illegal content
+ever went out over the BBS, nor was *any* found on it.
+
+For those unfamiliar with the case, here's a brief summary to date.
+In May 1992 someone told Munroe Falls police they *thought* minors
+could have been getting access to adult materials over the AKRON
+ANOMALY BBS. Police began a 2-month investigation. They found a
+small number of adult files in the non-adult area.
+
+The sysop says he made a clerical error, causing those files to be
+overlooked. Normally adult files were moved to a limited-access
+area with proof of age required (i.e. photostat of a drivers
+license).
+
+Police had no proof that any minor had actually accessed those
+files so police logged onto the BBS using a fictitious account,
+started a download, and borrowed a 15-year old boy just long enough
+to press the return key. The boy had no knowledge of what was going
+on.
+
+Police then obtained a search warrant and seized Lehrer's BBS
+system. Eleven days later police arrested and charged sysop Mark
+Lehrer with "disseminating matter harmful to juveniles," a
+misdemeanor usually used on bookstore owners who sell the wrong
+book to a minor. However, since the case involved a computer,
+police added a *felony* charge of "possession of criminal tools"
+(i.e. "one computer system").
+
+Note that "criminal tool" statutes were originally intended for
+specialized tools such as burglar's tools or hacking paraphenalia
+used by criminal 'specialists'. The word "tool" implies deliberate
+use to commit a crime, whereas the evidence shows (at most) an
+oversight. This raises the Constitutional issue of equal protection
+under the law (14'th Amendment). Why should a computer hobbyist be
+charged  with a felony when anyone else would be charged with a
+misdemeanor?
+
+At the pretrial hearing, the judge warned the prosecutor that
+they'd need "a lot more evidence than this" to convict. However the
+judge allowed the case to be referred to a Summit County grand
+jury, though there was no proof the sysop had actually
+"disseminated", or even intended to disseminate any adult material 
+"recklessly, with knowledge of its character or content", as the
+statute requires. Indeed, the sysop had a long history of
+*removing* such content from the non-adult area whenever he became
+aware of it. This came out at the hearing.
+
+The prosecution then went on a fishing expedition. According to the
+Cleveland Plain Dealer (7/21/92)
+
+    "[Police chief] Stahl said computer experts with the Ohio
+Bureau of Criminal Identification and Investigation are reviewing
+the hundreds of computer files seized from Lehrer's home. Stahl 
+said it's possible that some of the games and movies are being
+accessed in violation of copyright laws."
+
+Obviously the police believe they have carte blanche to search
+unrelated personal files, simply by lumping all the floppies and
+files in with the computer as a "criminal tool." That raises
+Constitutional issues of whether the search and seizure was legal.
+That's a precedent which, if not challenged, has far-reaching
+implications for *every* computer owner.
+
+Also, BBS access was *not* sold for money, as the Cleveland Plain
+Dealer reports. The BBS wasn't a business, but rather a free
+community service, running on Lehrer's own computer, although extra
+time on the system could be had for a donation to help offset some
+of the operating costs. 98% of data on the BBS consists of
+shareware programs, utilities, E-mail, etc.
+
+The police chief also stated:
+
+    "I'm not saying it's obscene because I'm not getting into that
+battle, but it's certainly not appropriate for kids, especially
+without parental permission," Stahl said.
+
+Note the police chief's admission that obscenity wasn't an issue at
+the time the warrant was issued.
+
+
+Here the case *radically* changes direction. The charges above were
+dropped. However, while searching the 600 floppy disks seized along
+with the BBS, police found five picture files they think *could* be
+depictions of borderline underage women; although poor picture
+quality makes it difficult to tell.
+
+The sysop had *removed* these unsolicited files from the BBS hard
+drive after a user uploaded them. However the sysop didn't think to
+destroy the floppy disk backup, which was tossed into a cardboard
+box with hundreds of others. This backup was made before he erased
+the files off the hard drive.
+
+The prosecution, lacking any other charges that would stick, is
+using these several floppy disks to charge the sysop with two new
+second-degree felonies, "Pandering Obscenity Involving A Minor",
+and "Pandering Sexually Oriented Matter Involving A Minor" (i.e. 
+kiddie porn, prison sentence of up to 25 years).
+
+The prosecution produced no evidence the files were ever
+"pandered". There's no solid expert testimony that the pictures
+depict minors. All they've got is the opinion of a local
+pediatrician.
+All five pictures have such poor resolution that there's no way to
+tell for sure to what extent makeup or retouching was used. A
+digitized image doesn't have the fine shadings or dot density of a
+photograph, which means there's very little detail on which to base
+an expert opinion. The digitization process also modifies and
+distorts the image during compression.
+
+The prosecutor has offered to plea-bargain these charges down to
+"possession" of child porn, a 4'th degree felony sex crime
+punishable by one year in prison. The sysop refuses to plead guilty
+to a sex crime. Mark Lehrer had discarded the images for which the
+City of Munroe Falls adamantly demands a felony conviction. This
+means the first "pandering" case involving a BBS is going to trial
+in *one* month, Jan 4th.
+
+The child porn statutes named in the charges contain a special
+exemption for libraries, as does the original "dissemination to
+juveniles" statute (ORC # 2907.321 & 2). The exemption presumably
+includes public and privately owned libraries available to the
+public, and their disk collections. This protects library owners
+when an adult item is misplaced or loaned to a minor. (i.e. 8 year
+olds can rent R-rated movies from a public library).
+
+Yet although this sysop was running a file library larger than a
+small public library, he did not receive equal protection under the
+law, as guaranteed by the 14'th Amendment. Neither will any other
+BBS, if this becomes precedent. The 'library  defense' was allowed
+for large systems in Cubby versus CompuServe, based on a previous
+obscenity case (Smith vs. California), in which the Supreme Court
+ruled it generally unconstitutional to hold bookstore owners liable
+for content, because that would place an undue burden on bookstores
+to review every book they carry, thereby 'chilling' the
+distribution of books and infringing the First Amendment.
+
+If the sysop beats the bogus "pandering" charge, there's still
+"possession", even though he was *totally unaware* of what was on
+an old backup floppy, unsolicited in the first place, found unused
+in a cardboard box. "Possession" does not require knowledge that
+the person depicted is underage. The law presumes anyone in
+possession of such files must be a pedophile. The framers of the
+law never anticipated sysops,or that a sysop would routinely be
+receiving over 10,000 files from over 1,000 users.
+
+The case could set a far ranging statewide and nationwide precedent
+whether or not the sysop is innocent or guilty, since he and his
+family might lack the funds to fight this--after battling to get
+this far.
+
+These kinds of issues are normally resolved in the higher courts--
+and *need* to be resolved, lest this becomes commonplace anytime
+the police or a prosecutor want to intimidate a BBS, snoop through
+users' electronic mail, or "just appropriate someone's computer for
+their own use."
+
+You, the reader, probably know a sysop like Mark Lehrer. You and
+your family have probably enjoyed the benefits of BBS'ing. You may
+even have put one over on a busy sysop now and then.
+
+In this case; the sysop is a sober and responsible college student,
+studying computer science and working to put himself through
+school. He kept his board a lot cleaner than could be reasonably 
+expected, so much so that the prosecution can find very little to
+fault him for.
+
+
+*Important*  Please consider a small contribution to ensure a fair
+trial and precedent, with standards of evidence upheld, so that
+mere possession of a computer is not grounds for a witch hunt.
+
+These issues must not be decided by the tactics of a 'war of
+attrition'; *however far* in the court system this needs to go. For
+this reason, an independent, legal defense trust fund has been set
+up by concerned area computer users, CPA's, attorneys,etc.
+
+     Mark Lehrer First Amendment Legal Defense Fund
+                         (or just:  MLFALDF)
+     Lockbox No. 901287
+     Cleveland, OH  44190-1287
+
+*All* unused defense funds go to the Electronic Frontier
+Foundation, a nonprofit, 501c3 organization, to defend BBS's and
+First Amendment rights.
+
+Help get the word out. If you're not sure about all this, ask your
+local sysops what this precedent could mean, who the EFF is--and
+ask them to keep you informed of further developments in this case. 
+Please copy this file and send it to whoever may be interested. 
+This case *needs* to be watchdogged.
+
+Please send any questions, ideas or comments directly to the sysop:
+
+Mark Lehrer
+CompuServe: 71756,2116   InterNet: 71756.2116@compuserve.com
+Modem: (216) 688-6383    USPO: P.O. Box 275           
+                               Munroe Falls, OH  44262
+
+----------------------------------------------------------------------
+The Sysops' Sig received this letter from the Lehrer defense people,
+with a request that their side of the story be made available to
+Free-net users. DISCLAIMER: The Sysops' Sig takes no position on this
+case, since each Free-net sysop speaks for himself/herself.
+----------------------------------------------------------------------
+
+FOOTNOTE: The above says the framers of the Constitution weren't aware of BBSs
+          when drafting the Constitution....to this I say-THEN WHAT IS FREEDOM?
+          The Constitution's 1st Amendment and the 9th Amendment clearly
+          addresses this issue. This case is another case of the actual "police
+          power" against Americans.
+          There is NO crime here! There is NO property damaged and there is NO
+          human victim here. Then there should be NO crime but our present
+          system has the power to invent a crime which is exactly what is going
+          on here.
+          PLEASE contribute monetarily or at least in writing to Mark Lehrer at
+          the above address. Send proof of such contribution and a 3 months 
+          FREE access will be granted by "HOME" BBS at (909) 735-2573.
+          Can YOU PLEASE Help STOP more loss of our guaranteed FREEDOMS?

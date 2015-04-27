@@ -1,0 +1,463 @@
+                 Q&A with Emmanuel Goldstein of
+                 2600: The Hacker's Quarterly
+
+                 (CNN) -- Emmanuel Goldstein is the
+                 editor-in-chief of 2600: The Hacker Quarterly and
+                 hosts a weekly radio program in New York called
+                 "Off the Hook." 
+
+                 1. How do you define hacking? 
+
+                      Hacking is, very simply, asking a lot of
+                      questions and refusing to stop asking. This
+                      is why computers are perfect for inquisitive
+                      people -- they don't tell you to shut up
+                      when you keep asking questions or
+                      inputting commands over and over and
+                      over. But hacking doesn't have to confine
+                      itself to computers. Anyone with an
+                      inquisitive mind, a sense of adventure and
+                      strong beliefs in free speech and the right
+                      to know most definitely has a bit of the
+                      hacker spirit in them. 
+
+                 2. Are there legal or appropriate forms of
+                 hacking? 
+
+                      One of the common misconceptions is that
+                      anyone considered a hacker is doing
+                      something illegal. It's a sad commentary on
+                      the state of our society when someone who
+                      is basically seeking knowledge and the truth
+                      is assumed to be up to something nefarious.
+                      Nothing could be further from the truth. 
+
+                      Hackers, in their idealistic naiveté, reveal
+                      the facts that they discover, without
+                      regard for money, corporate secrets or
+                      government coverups. We have nothing to
+                      hide, which is why we're always relatively
+                      open with the things we do -- whether it's
+                      having meetings in a public place or running
+                      a system for everyone to participate in
+                      regardless of background. The fact that we
+                      don't "play the game" of secrets also makes
+                      hackers a tremendous threat in the eyes of
+                      many who want to keep things away from
+                      the public. 
+
+                      Secrets are all well and good, but if the
+                      only thing keeping them a secret is the fact
+                      that you say it's a secret, then it's not
+                      really a very good secret. We suggest using
+                      strong encryption for those really interested
+                      in keeping things out of the hands of
+                      outsiders. It's interesting also that hackers
+                      are the ones who are always pushing strong
+                      encryption -- if we were truly interested in
+                      getting into everyone's personal affairs, it's
+                      unlikely we'd try and show them how to
+                      stay secure. There are, however, entities
+                      who are trying to weaken encryption.
+                      People should look toward them with
+                      concern, as they are the true threat to
+                      privacy. 
+
+                 3. What in your mind is the purpose of
+                 hacking? 
+
+                      To seek knowledge, discover something
+                      new, be the first one to find a particular
+                      weakness in a computer system or the first
+                      to be able to get a certain result from a
+                      program. As mentioned above, this doesn't
+                      have to confine itself to the world of
+                      computers. Anyone who's an adventurer or
+                      explorer of some sort, or any good
+                      investigative journalist, knows the feeling of
+                      wanting to do something nobody has ever
+                      done before or find the answer despite
+                      being told that you can't. One thing that all
+                      of the people involved in these endeavors
+                      seem to share is the feeling from outsiders
+                      that they're wasting their time. 
+
+                 4. Are you a hacker? Why? Or why not? 
+
+                      Absolutely. It's not something you can just
+                      erase from your personality, nor should you
+                      want to. Once you lose the desire to mess
+                      around with things, tweak programs and
+                      systems, or just pursue an answer doggedly
+                      until you get a result, you've lost a very
+                      important part of yourself. It's quite
+                      possible that many "reformed" hackers will
+                      lose that special ingredient as they become
+                      more and more a part of some other entity
+                      that demands their very souls. But for
+                      those who can resist this, or figure out a
+                      way to incorporate "legitimacy" into their
+                      hacker personalities without compromising
+                      them, there are some very interesting and
+                      fun times ahead. 
+
+                 5. What kind of hacking do you do? 
+
+                      My main interest has always been phones
+                      and rarely does a day pass when I don't
+                      experiment in some way with a phone
+                      system, voice mail system, pay phone, or
+                      my own telephone. I've always been
+                      fascinated by the fact that we're only a
+                      few buttons away from virtually anyone on
+                      the planet and I hope that I never lose that
+                      sense of marvel. 
+
+                      One of the most amazing things I ever got
+                      involved in was routing phone calls within
+                      the network itself -- known as blue-boxing.
+                      You can't do that as easily any more, but it
+                      was a real fun way to learn how everything
+                      was connected -- operators, services,
+                      countries, you name it. And in the
+                      not-too-distant past, there were so many
+                      different sounds phones made depending on
+                      where you were calling. Now they tend to
+                      be standardized rings, busies, etc. But the
+                      magic hasn't disappeared, it's just moved
+                      on to new things ... satellite technology,
+                      new phone networks and voice recognition
+                      technologies. 
+
+                      Many times these new technologies are
+                      designed by the very people who were
+                      hacking the old technologies. The result is
+                      usually more security and systems that
+                      know what people will find useful. While I've
+                      spent a great deal of time playing with
+                      phones, I get the same sense of fun from
+                      computer systems and have invested lots
+                      of time exploring the Internet. It would fill a
+                      book to outline all of the hacker potential
+                      that exists out there. And, of course,
+                      there's radio hacking, which predates a lot
+                      of the current technology. It's gotten to
+                      the point where simply listening to a certain
+                      frequency has become a challenge. It's
+                      hard to believe that it's actually turned into
+                      a crime to listen to some of these
+                      non-scrambled radio waves. But this is the
+                      price we pay when people with no
+                      understanding of technology are the ones in
+                      charge of regulating it. 
+
+                 6. How much time do you spend at it a week? 
+
+                      That's like asking how much time you spend
+                      breathing. It's always with you, you do
+                      more of it at certain times, but it's always
+                      something that's going on in your head.
+                      Even when I sleep, I dream from a hacker
+                      perspective. 
+
+                 7. Do you have a certain kind of site or
+                 "target" sites that most attract you? 
+
+                      We don't sit around with a big map and a
+                      list of targets. In fact, we don't even sit
+                      around together. Most hacking is done by
+                      individuals who simply find things by
+                      messing around and making discoveries. We
+                      share that info and others add input. Then
+                      someone tells the press and the
+                      government that we're plotting to move
+                      satellites and all hell breaks loose. 
+
+                      I think most of us tend to be drawn to the
+                      sites and systems that are said to be
+                      impossible to access. This is a normal
+                      human reaction to being challenged. The
+                      very fact that we continue to do this after
+                      so many of us have suffered so greatly
+                      indicates that this is a very strong driving
+                      force. When this finally becomes recognized
+                      as a positive thing, perhaps we'll really be
+                      able to learn from each other. 
+
+                 8. What, in general, do you think attracts
+                 people to hacking? 
+
+                      People have always been attracted to
+                      adventure and exploration. Never before
+                      have you been able to get this without
+                      leaving your house and without regard to
+                      your skin color, religion, sex, or even the
+                      sound of your voice. On the Internet,
+                      everyone is an equal until they prove
+                      themselves to be a moron. And even then,
+                      you can always start over. It's the ability
+                      to go anywhere, talk to anyone, and not
+                      reveal your personal information unless you
+                      choose to -- or don't know enough not to
+                      -- that most attracts people to the hacker
+                      culture, which is slowly becoming the
+                      Internet culture. 
+
+                      We find that many "mainstream" people
+                      share the values of hackers -- the value of
+                      free speech, the power of the individual
+                      against the state or the corporation, and
+                      the overall sense of fun that we embrace.
+                      Look in any movie where an individual is
+                      fighting a huge entity, and who does the
+                      audience without exception identify with?
+                      Even if the character breaks the rules, most
+                      people want him/her to succeed because
+                      the individual is what it's all about. 
+
+                 9. Do you know enough hackers personally to
+                 know what personality traits they share, if
+                 any? 
+
+                      Hackers come from all different backgrounds
+                      and have all kinds of lifestyles. They aren't
+                      the geeks you see on television or the
+                      cyberterrorists you see in Janet Reno news
+                      conferences. They range in age from under
+                      10 to over 70. They exist in all parts of the
+                      world, and one of the most amazing and
+                      inspiring things is to see what happens
+                      when they come together. It's all about
+                      technology, the thrill of discovery, and
+                      sharing information. That supersedes any
+                      personality issues that might be an issue in
+                      other circumstances. 
+
+                 10. Do you think hackers are productive and
+                 serve a useful purpose? 
+
+                      I think hackers are necessary, and the
+                      future of technology and society itself
+                      (freedom, privacy, etc.) hinges on how we
+                      address the issues today that hackers are
+                      very much a part of. This can be the
+                      dawning of a great era. It can also be the
+                      beginning of true hell. 
+
+                 11. What percentage would you say are
+                 destructive as opposed to those in it out of
+                 intellectual curiosity or to test their skills? 
+
+                      This raises several points that I feel
+                      strongly about. For one thing, hacking is
+                      the only field where the media believes
+                      anyone who says they're a hacker. Would
+                      you believe someone who said they were a
+                      cop? Or a doctor? Or an airline pilot? Odds
+                      are they'd have to prove their ability at
+                      some point or say something that obviously
+                      makes some degree of sense. But you can
+                      walk up to any reporter and say you're a
+                      hacker and they will write a story about
+                      you telling the world that you're exactly
+                      what you say you are without any real
+                      proof. 
+
+                      So every time a movie like "Hackers" comes
+                      out, 10 million people from AOL send us
+                      e-mail saying they want to be hackers, too,
+                      and suddenly, every 12-year-old with this
+                      sentiment instantly becomes a hacker in
+                      the eyes of the media and hence, the rest
+                      of society. You don't become a hacker by
+                      snapping your fingers. It's not about getting
+                      easy answers or making free phone calls or
+                      logging into someone else's computer.
+                      Hackers "feel" what they do, and it excites
+                      them. 
+
+                      I find that if the people around you think
+                      you're wasting your time but you genuinely
+                      like what you're doing, you're driven by it,
+                      and you're relentless in your pursuit, you
+                      have a good part of a hacker in you. But if
+                      you're mobbed by people who are looking
+                      for free phone calls, software or exploits,
+                      you're just an opportunist, possibly even a
+                      criminal. We already have words for these
+                      people and it adequately defines what they
+                      do. While it's certainly possible to use
+                      hacking ability to commit a crime, once you
+                      do this you cease being a hacker and
+                      commence being a criminal. It's really not a
+                      hard distinction to make. 
+
+                      Now, we have a small but vocal group who
+                      insist on calling anyone they deem
+                      unacceptable in the hacker world a
+                      "cracker." This is an attempt to solve the
+                      problem of the misuse of the word "hacker"
+                      by simply misusing a new word. It's a very
+                      misguided, though well-intentioned, effort.
+                      The main problem is that when you make up
+                      such a word, no further definition is
+                      required. When you label someone with a
+                      word that says they're evil, you never really
+                      find out what the evil was to begin with.
+                      Murderer, that's easy. Burglar, embezzler,
+                      rapist, kidnapper, all pretty clear. Now
+                      along comes cracker and you don't even
+                      know what the crime was. It could be
+                      crashing every computer system in
+                      Botswana. Or it could be copying a single
+                      file. We need to avoid the labeling and start
+                      looking at what we're actually talking
+                      about. But at the same time, we have to
+                      remember that you don't become a hacker
+                      simply because you say you are. 
+
+                 12. Do people stay in hacking a long time, or
+                 is it the kind of thing that people do for a few
+                 years and then move on to something else? 
+
+                      It can be either. I tend to believe that it's
+                      more of a philosophy, a way of looking at
+                      something. When you have the hacker
+                      perspective, you see potential where others
+                      don't. Also, hackers think of things like
+                      phones, computers, pagers, etc., as toys
+                      and things to be enjoyed whereas others
+                      see work and responsibility and actually
+                      come to dread these things. That's why
+                      hackers like to hold onto their world and not
+                      become part of the mainstream. But it
+                      certainly can and does happen. 
+
+                 13. What is the future of hacking? 
+
+                      As long as the human spirit is alive, there
+                      will always be hackers. We may have a hell
+                      of a fight on our hands if we continue to be
+                      imprisoned and victimized for exploring, but
+                      that will do anything but stop us. 
+
+                 14. Given increased attention to corporate
+                 and government security, is it getting
+                 tougher to hack or not? 
+
+                      Hacking isn't really about success -- it's
+                      more the process of discovery. Even if real
+                      security is implemented, there will always
+                      be new systems, new developments, new
+                      vulnerabilities. Hackers are always going to
+                      be necessary to the process and we're not
+                      easily bored. 
+
+                 15. Is the possibility of being identified and
+                 even prosecuted an issue for most hackers? 
+
+                      Hackers make very bad criminals. This is
+                      why we always wind up being prosecuted.
+                      We don't hide very well or keep our mouths
+                      sealed shut to protect corporate or
+                      government interests. But the same
+                      security holes would exist even if we
+                      weren't around, so I think the hackers
+                      should be properly seen as messengers.
+                      That doesn't mean that you should expect
+                      them to just hand over all of their
+                      knowledge -- it's important to listen and
+                      interpret on your own, as any hacker
+                      would. 
+
+                 16. Are there hackers who are up for hire?
+                 What are they paid? Who hires them, and for
+                 what? 
+
+                      Just as you can use hacker ability to attain
+                      a life of crime, you can use that ability to
+                      become a corporate success. Some are
+                      able to hold onto their hacker ideals.
+                      Others, sadly, lose them. It's especially
+                      hard when young people who haven't
+                      worked it all out yet are approached and
+                      tempted with huge amounts of money by
+                      these entities. It can be very hard to resist
+                      and the cost is often greater than
+                      anticipated. 
+
+                 17. Have you had any contact with people
+                 you consider cyberterrorists? Do you endorse
+                 what they do? 
+
+                      In all of the time I've been in the scene,
+                      which is a pretty long time, I've never come
+                      across anyone I consider to be a
+                      "cyberterrorist," whatever that is. Most
+                      people who talk of such creatures either
+                      have something to sell or some bill to pass.
+                      This is not to say that such a concept is
+                      impossible. But I believe the current
+                      discussions aren't based in reality and have
+                      very suspicious ulterior motives. 
+
+                 18. What about the people who hack into
+                 Pentagon sites? Do you think they should be
+                 punished? 
+
+                      According to the Pentagon, there is no risk
+                      of anything classified being compromised
+                      because it's not on the Internet. If they
+                      were wrong, I would like to see someone
+                      prove that. If a non-classified site is
+                      hacked, I don't see the harm unless
+                      something is damaged in some way.
+                      Remember, the security hole was already
+                      there. If a hacker finds it, it's far more likely
+                      the people running the system will learn of
+                      the hole. If a criminal or someone with an
+                      ulterior motive (espionage, etc.) finds the
+                      hole first, it's likely to remain secret for
+                      much longer and the harm will be far
+                      greater. 
+
+                      While you may resent the fact that some
+                      14-year-old from Topeka proved your
+                      security sucks, think of what could have
+                      happened had you not learned of this and
+                      had someone else done it instead. I'm the
+                      first to say that people who cause damage
+                      should be punished, but I really don't think
+                      prison should be considered for something
+                      like this unless the offender is a true risk to
+                      society. The great majority of these cases
+                      do not involve damage or vandalism, a fact
+                      that largely goes unreported. What people
+                      have to remember is that most of the time,
+                      this is simply an example of kids being kids
+                      and playing games like they have always
+                      done. 
+
+                      Obviously, the tools have changed, but
+                      that's really not something the kids are
+                      responsible for. If some kid somewhere can
+                      access your medical records or your phone
+                      records, he or she is not the one who put
+                      them there. The true violator of your
+                      privacy is the person who made the
+                      decision to make them easily accessible. 
+
+                 19. Your real name is Eric Corley. Why do you
+                 use the name Emmanuel Goldstein? 
+
+                      I believe everyone should be given the
+                      opportunity to name themselves. That
+                      name should reflect something about who
+                      you are and what you believe in and stand
+                      for. Emmanuel Goldstein is that for me, and
+                      for those who want to learn why, get a
+                      copy of George Orwell's "1984" and see for
+                      yourself. Interestingly, our first issue of
+                      2600 was published in January 1984. A
+                      complete coincidence. 
+

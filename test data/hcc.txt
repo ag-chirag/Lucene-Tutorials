@@ -1,0 +1,271 @@
+                      HOW `CRACKERS' CRACK                                      
+                       by Rory J. O'Connor                                      
+                  Mercury News Computing Editor                                 
+                                                                                
+     Police, prosecutors and most of the press call them                        
+"hackers." Computer cognoscenti prefer the term "crackers."                     
+                                                                                
+     Both sides are talking about the same people, typically                    
+young men, whose fascination with computers leads them to gain                  
+access to computers where they don't belong.                                    
+                                                                                
+     A few crackers make headlines, like Robert T. Morris Jr.,                  
+son of a top computer security expert for the supersecret                       
+National Security Agency, who let loose a "worm" program on a                   
+national network of university, research and government computers               
+in 1988.                                                                        
+                                                                                
+     There are also notorious crackers like Kevin Mitnick, who                  
+was under investigation at the age of 13 for illegally obtaining                
+free long-distance phone calls and was sentenced to prison in                   
+1989 for computer break-ins.                                                    
+                                                                                
+     Then there are legions of far more ordinary crackers who                   
+simply use their knowledge of computers to "explore" intriguing                 
+corporate or government computers or simply to go for the                       
+electronic equivalent of a joy ride and impress their friends.                  
+                                                                                
+     But they all share something: an air of mystery. How do they               
+do it?                                                                          
+                                                                                
+     At a recent conference on computer freedom and privacy,                    
+computer expert Russell L. Brand gave a four-hour lecture on the                
+inner workings of computer cracking.                                            
+                                                                                
+     His basic message: Cracking is not as hard as it seems to an               
+outsider, and it often goes undetected by legitimate users of                   
+"cracked" computers.                                                            
+                                                                                
+     "Just because you don't see a problem is no reason to think                
+a problem hasn't occurred," Brand said. "Generally it's a month                 
+to six weeks before (operators) notice anything happened and                    
+usually because the cracker accidentally broke something."                      
+                                                                                
+     Home computers aren't in danger from crackers because they                 
+aren't accessible to outsiders--and because they aren't                         
+interesting to crackers. Instead, they target mainframes and                    
+minicomputers that support many users and are connected to                      
+telephone lines and large networks.                                             
+                                                                                
+     Understanding how crackers work and what security weaknesses               
+they exploit can help system managers prevent many break-ins,                   
+Brand said. And the biggest problem is carelessness.                            
+                                                                                
+     "When I started looking at break-ins, I had the assumption                 
+that technical problems were at fault," he said. "But the problem               
+is human beings."                                                               
+                                                                                
+     The "Cracker": Most crackers are not bent on stealing either               
+money or secrets but will target a particular computer for entry                
+because of the bragging rights they will enjoy with fellow                      
+crackers once they prove they broke in. Typically, the computer                 
+belongs to a corporation or the government and is considered in                 
+cracking circles to be hard to penetrate. Often, it is connected                
+to the nationwide NSFNet computer network.                                      
+                                                                                
+     The attack: Crackers can attack the target computer from                   
+home, using a modem and a telephone line. Or they can visit a                   
+publicly accessible terminal room, like one on a college campus,                
+using the school's computer to attack the target through a                      
+network. At home, the cracker works undisturbed and unseen for                  
+hours, but phone calls might be traced.                                         
+                                                                                
+     The resources: If the target computer is nearby, the cracker               
+may look through the owner's trash for valuable information, a                  
+practice called "dumpster diving." Discarded printouts, manuals                 
+or other paper may contain lists of accounts, some passwords, or                
+technical data more sophisticated crackers can exploit.                         
+                                                                                
+     The target: The easiest way to enter the target is with an                 
+account name and its password. Passwords are often the weakest                  
+link in a computer's security system: Many are easy to guess, and               
+some accounts have no password at all. Sophisticated crackers use               
+their personal computers to quickly try thousands of potential                  
+passwords for a match.                                                          
+                                                                                
+     The cover: To make calls from home harder to trace, crackers               
+might use stolen telephone credit-card numbers to place a series                
+of calls through different long-distance carriers or corporate                  
+switchboards before calling the target computer's modem.                        
+                                                                                
+     The way in: Many crackers take advantage of "holes" in the                 
+operating system, the software that controls the basic operations               
+of the machine. The holes are like secret doors that either let                 
+crackers make their own "super" accounts or just bypass accounts                
+and passwords altogether. Five holes in the Unix operating system               
+account for the bulk of computer break-ins--yet many                            
+installations have failed to patch them.                                        
+                                                                                
+     The network: Most large computers are connected to several                 
+others through networks, a chief point of attack. Computers erect               
+barriers to people but often completely trust other computers, so               
+attacking a computer through another computer on the network can                
+be easier than attacking it with a personal computer and a modem.               
+                                                                                
+     Ill-used passwords let many pass                                           
+                                                                                
+     Passwords are the security linchpin for most computer                      
+systems. But these supposedly secret keys to computer access are                
+easily obtained by a determined cracker.                                        
+                                                                                
+     The main reason: Users and system managers often are so                    
+careless with passwords that they are as easy to find as a door                 
+key left under the welcome mat.                                                 
+                                                                                
+     Part of the problem is the proliferation of computers and                  
+computerlike devices such as automated teller machines, all of                  
+which require passwords or personal identification numbers. Many                
+people must now remember half a dozen or more such secret codes,                
+encouraging them to make each one short and simple.                             
+                                                                                
+     Often, that means making their passwords the same as their                 
+account name, which in turn is often the user's own first or last               
+name. Such identical combinations are called "Joe" accounts, and                
+according to computer expert Russell L. Brand, they are "the                    
+single most common cause of password problems in the world."                    
+                                                                                
+     These `secret' keys to computer access are easily obtained                 
+by a determined cracker. The main reason: Users and system                      
+managers often are so careless with passwords that they are as                  
+easy to find as a key left under the welcome mat.                               
+                                                                                
+     Knowing there are Joes, a cracker can simply try a few dozen               
+common English names with a reasonable chance that one will work.               
+Armed with an easily obtained company directory of employees, the               
+task can be even easier.                                                        
+                                                                                
+     Joe accounts also crop up when the system manager creates an               
+account for a new employee, expecting that the user will                        
+immediately change the given password from his or her name to                   
+something else. But users often fail to make the change or aren't               
+told how. Sometimes, they never use the account at all, providing               
+not only easy access for the cracker but an account where the                   
+owner won't notice any illicit activity.                                        
+                                                                                
+     Even if crackers can't find a "Joe" on the computer they                   
+want to enter, there are several other common ways for them to                  
+find a password that will work:                                                 
+                                                                                
+     - Many systems have accounts with no passwords or have                     
+accounts for occasional visitors to use where the ID and password               
+are both GUEST.                                                                 
+                                                                                
+     - Outdated operator's manuals retrieved from the trash often               
+list the account name and standard password provided by the                     
+operating system for use by maintenance programmers. Although it                
+can and should be changed, the password seldom is.                              
+                                                                                
+     - "Social engineering"--in effect, persuading someone,                     
+usually by telephone, to divulge account names, passwords or                    
+both--is a common ploy used by crackers.                                        
+                                                                                
+     - Crackers are sometimes able to obtain an encrypted list of               
+passwords for a target computer, discarded by the owners who                    
+mistakenly believe the coded words aren't useful to crackers.                   
+While it's true they are difficult to decode, it is easy for a                  
+cracker to use a personal computer to take a potential password                 
+and encode it. Because most passwords are ordinary English words,               
+crackers can simply run a personal computer program to encode the               
+contents of an electronic dictionary and identify any entries                   
+that match passwords on the coded list.                                         
+                                                                                
+     - In another form of deception, crackers set up public                     
+bulletin board systems whose real purpose is to snag passwords.                 
+Because many people tend to use the same password for all their                 
+computer accounts, the cracker can simply wait until someone who                
+has an account on the target computer also sets up an account on                
+the bulletin board. The cracker then reads the password and tries               
+it on the target system.                                                        
+                                                                                
+     While individual users can't delete dormant accounts from                  
+their computers or keep an eye on the trash, they can be                        
+intelligent about what passwords they use. Brand suggests users                 
+choose a short phrase that's easy for them to remember and then                 
+use the first two letters of each word as the password. As added                
+protection, users who are able should mix uppercase and lowercase               
+letters in their passwords or use a punctuation mark in the                     
+middle of the word.--Rory J. O'Connor                                           
+                                                                                
+     The rights of bits                                                         
+                                                                                
+     Constitutional scholar Laurence H. Tribe, widely considered                
+the first choice for any Supreme Court vacancy that might arise                 
+under a Democratic administration, proposed a fairly radical idea               
+recently: a constitutional amendment covering computers.                        
+                                                                                
+     Tribe's proposal for a 27th Amendment would specifically                   
+extend First and Fourth Amendment protections to the rapidly                    
+growing and increasingly pervasive universe of computing. Those                 
+rights would be "construed as fully applicable without regard to                
+the technological method or medium through which information                    
+content is generated, stored, altered, transmitted or                           
+controlled," in the words of the proposed amendment.                            
+                                                                                
+     I am not a constitutional scholar, but I have to believe                   
+that what's needed is not a change in the Constitution, but                     
+instead a change in the thinking of judges in particular and the                
+public in general.                                                              
+                                                                                
+     Tribe acknowledges that he doesn't take amendments lightly,                
+pointing to the ridiculous brouhaha over a flag-burning amendment               
+as an example of what not to do to the basic law of the land. But               
+like many people who are more deeply involved in the world of                   
+computers, Tribe sees the issue of civil liberties in an                        
+information society as a crucial one.                                           
+                                                                                
+     The question is not whether the civil liberties issue is                   
+serious enough to be addressed by some fundamental legal change.                
+The question is really how to get people to see that                            
+communicating with a computer is speech, and that to search a                   
+computer and seize data is the same as searching a house and                    
+seizing the contents of my filing cabinet.                                      
+                                                                                
+     People seem to have trouble making these connections when                  
+computers are involved, even though they wouldn't have trouble                  
+recognizing a private telephone conversation as protected speech.               
+Yet most telephone calls in this country are, at some time in                   
+their transmission, nothing more than a stream of computer bits                 
+traveling between sophisticated computers.                                      
+                                                                                
+     Admittedly, computers do make for some complications where                 
+things like search and seizure are concerned.                                   
+                                                                                
+     Let's say the FBI gets a search warrant for a computer                     
+bulletin board, looking for a specific set of messages about an                 
+illegal drug business. Because a single hard disk drive on a                    
+bulletin board system can contain thousands of messages from                    
+different users, the normal method for police will be to take the               
+whole disk, and probably the computer as well, back to the lab to               
+look for the suspect messages.                                                  
+                                                                                
+     Of course, that exposes other, supposedly confidential                     
+messages to police scrutiny. It also interrupts the legitimate                  
+operation of what is, in effect, an electronic printing press.                  
+                                                                                
+     Certainly, in the case of a real printing press that used                  
+paper, such police activity would never be allowed. But a                       
+computer is involved here, which to some appears to make the                    
+existing rules inapplicable.                                                    
+                                                                                
+     But in a case like this, we don't need a new amendment, just               
+the proper application of the Bill of Rights.                                   
+                                                                                
+     As a more practical matter, the chances of amending the                    
+Constitution are slight. It was the intent of the framers to make               
+the task difficult, to prevent just such trivial things as                      
+flag-burning amendments from being tacked onto the document. Even               
+the far more substantial Equal Rights Amendment did not survive                 
+the rocky road from proposal to adoption. I doubt Tribe's                       
+amendment would fare any better.                                                
+                                                                                
+     Tribe says he hopes his proposal will spur serious                         
+discussion of civil rights in the information age, and I suspect                
+that is his real--and laudable--motive.                                         
+                                                                                
+     I'm not dead set against amending the Constitution if that's               
+what it takes to extend the Bill of Rights to computing. I just                 
+believe that Americans are capable of figuring out that we don't                
+need it.                                                                        
+                                                                                
+
+

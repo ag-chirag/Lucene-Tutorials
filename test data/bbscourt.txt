@@ -1,0 +1,364 @@
+About litigation involving BBSs in USA.
+
+On January 29th and 31st, a hearing will be held before an
+administrative law judge concerning the case of the Variety & Spice
+BBS (Gross Point, MI) and Michigan Bell.  In March, Michigan Bell
+informed the sysop that they would begin charging him business rates
+for his phone lines because they determined that his charging for
+access does not qualify him for residencial rates.
+
+Several cases of this nature have, or are currently being faught
+around the country.  These files are being circulated to inform those
+who use or run BBS's of pending legislation in Michigan and Indiana. 
+
+For more information, or if you would like to testify before the MPSC
+on the above date, please contact one of the following sources.
+
+Jerry Cross (voice)313-736-4544
+            (bbs)  313-736-3920
+
+Variety & Spice BBS
+                   313-885-8377
+
+or check out one of the many Michigan BBS's that carry the Michigan
+ECHO message system.  
+
+Please send comments or questions to 
+    G.Cross (Genie)
+    JERRYCROSS (DELPHI)
+    75046,467 (CompuServe)
+
+
+Thanks for your support!
+
+
+*** Now read this  ***
+
+GTE TAKES ON INDIANA SYSOPS
+
+  (April 5)
+  Unilateral imposition of business rates on Bulletin Board Systems
+continues to spread. BBS operators in Indiana complain that GTE is
+forcing them to accept extra-cost business rates rather than the
+residential rates they have been paying.
+  Derry Nelson, sysop of the 1149 BBS in Elkhart, Ind., says that the
+changes were a surprise.  The worst part of the surprise seems to be the
+large jump in monthly rates.  A typical BBS would find its monthly bill
+increased by almost 200 percent.
+  "To the best of my knowledge the BBS Community was not aware of the
+changes GTE requested in their [new] tariff," Nelson said.  "I know that
+I personally wasn't aware of anything until I received a letter from GTE
+stating that my rate classification was being changed from Residential to
+Business.  I honestly believe that this [tariff] was `slipped' through."
+  The Indiana Utility Regulatory Commission (IURC) told Nelson and other
+sysops that a tariff approving business rates for home computer lines was
+approved in January.  The consensus among ELkhart BBS operators seems to
+be that the tariff should have considered in open and publicized hearings.
+  The new tariff appears to give GTE wide-ranging control over its
+customers.  As an example, the company can limit the length of calls "when
+in [GTE's] judgement such action is necessary." GTE claims authority to
+change a BBS to business rates because the service is provided "for use
+[of] the general public."
+  Additional information is available from the Utility Consumer Counselor
+at 317/232-2494.  The 1149 BBS can be reached at 219/293-1149.
+  --James Moran
+
+----------
+FROM:    Mike Marotta                  Area # 9 (     Michigan     )
+TO:      Bbs Users                     MSG # 130, Apr-7-90 0:31am
+SUBJECT: Why Business Rates
+
+        These excerpts are from MPSC documents.  It is established in
+        regulatory commission administrative law that the PROVIDER files
+        a tariff.  For instance, it is a principle of regulatory law that
+        a tariff cannot be effective prior to its filing date.  A tariff
+        that allowed this would "jump out" at a regulator who read it.
+        Generally, however, the regulators ACCEPT the filing of the
+        carrier and leave it to competing carriers or clients to file a
+        complaint.
+        -----------------------------------------------------------------
+        Michigan Bell Telephone Company Tariff MPSC No. 7 was issued on
+        November 21, 1966.  Its age alone speaks volumes.
+
+        <quote> "Original Sheet 11.
+        GENERAL REGULATIONS
+        CLASSIFICATION AND USE OF TELEPHONE SERVICES
+
+        A. APPLICATION IS BUSINESS AND RESIDENCE RATES (Formerly Sheet
+        15)
+        1. The determination as to whether telephone service is Business
+        or Residence is based on the character of the Use to be made of
+        the service.  Service is classified as business service where the
+        use is primarily or substantially of a business, professional,
+        institutional, or otherwise occupational nature.  Where the
+        business use, if any, is incidental and where the major use is of
+        a social or domestic nature, service is classified as residence
+        service if installed in a residence.
+
+        "2. Business rates apply at the following locations, among
+        others:
+        a. In offices, stores and factories, and in quarters occupied by
+        clubs, lodges, fraternal societies, schools, colleges, libraries,
+        hospitals and other business establishments.
+        b. In residence locations where the place of residence is in the
+        immediate proximity to a place of business and it is evident that
+        the telephone in the residence is or will be used for business
+        purposes; and in the residence locations where an extension is
+        located at a place where business rates would apply.
+        c. In the residence of a practicing physician, dentist,
+        veterinary, surgeon or other medical practioner who has no
+        service at business rates at another location.
+        d. In any residence location where there is substantial business
+        use of the service and the customer has no service elsewhere at
+        business rates.
+
+        "B.1.a.(2). A customer engaged in furnishing services of a
+        secretarial nature may not use Telephone Company facilities to
+        receive messages for one party to be forwarded to another party,
+        unless such forwarding is of a temporary or occasional nature."
+        <end quote>
+
+---
+
+FROM:    Mike Marotta                  Area # 9 (     Michigan     )
+TO:      All Bbs users                 MSG # 131, Apr-7-90 0:32am
+SUBJECT: more on rates - 2
+
+        As a result of the "Variety and Spice BBS" incident of March
+        1990, the MPSC issued a statement. Excepts follow:
+        <quote>"FORM LETTER FOR COMPUTER BULLETIN BOARDS
+
+        "If bulletin boards or access to bulletin boards is provided to
+        calling parties at no charge other than that which may be
+        associated with the telephone call, and are not provided in
+        conjunction with a business, a profession, an institution or
+        other occupation, then it would appear that the service should
+        not be classified as a business.  If, however, there is a charge
+        associated with any level of access to the bulletin board,
+        whether the charge is rendered to cover costs or produce a
+        profit, then the service would be considered a business or
+        classification as such.  This would also apply if any of the
+        previous conditions mentioned were not met."  <END QUOTE>
+
+
+FROM:    Mike Marotta                  Area # 9 (     Michigan     )
+TO:      All Users                     MSG # 134, Apr-7-90 0:25am
+SUBJECT: Michigan Bell and You
+
+        04/06/1990  This statement was specially prepared by Michigan
+        Bell to explain to the bulletin board user community their
+        position on the question of business rates.  The statement was
+        given to me at my request by Michigan Bell's district manager for
+        state government. -- Mike Marotta.
+
+        <quote>"Telephone Service Classifications
+
+        "Recently the question has arisen whether Michigan Bell is
+        attempting to charge commercial rates to all computer bulletin
+        boards in the state.  Michigan Bell has not instituted a
+        "program" to impose a specific class of service on any group of
+        customers, i.e., computer bulletin boards.  In fact, the decision
+        on which class of service is required for computer bulletin
+        boards is no different than it is for any other service.  In
+        making the decision, Michigan Bell is required to comply with
+        tariffs approved by the Michigan Public Service Commission, which
+        cover the matter of appropriate classification of telephone
+        service.
+
+        "The applicable tariffs require Michigan Bell to classify service
+        primarily in accordance with the use that is to be made of the
+        service.  The tariffs specify the conditions under which a
+        service is classified, for rate purposes, as business or
+        residence service.  For example, service is classified as
+        business where the use is primarily that of a business.  In the
+        case of computer bulletin boards, for instance, is there is a
+        charge associated with any level of access to the board, or money
+        is solicited in conjunction with the board, that is considered
+        conducting a business within the meaning of Michigan Bell's
+        tariffs.  The service, therefore, would be classified as business
+        and business rates would apply.  On the other hand, service that
+        is used primarly for domestic purposes is classified as residence
+        service.  Again, using the example of computer bulletin boards,
+        if the board is not associated with a business and no charge is
+        assessed or solicited for access to the board, then service may
+        be classified as residence in accordance with the application
+        tariffs." <quote>
+
+
+*** And this ***
+
+                       STATE OF INDIANA
+
+           INDIANA UTILITY REGULATORY COMMISSION
+
+IN THE MATTER OF THE COMPLAINT OF     )
+TEN INDIVIDUALS AGAINST GTE NORTH     )     CAUSE NO. 39005
+INCORPORATED PERTINENT TO CERTAIN     )
+CHARGES FOR TELEPHONE SERVICE         )
+RENDERED BY GTE NORTH INCORPORATED    )
+
+BY THE COMMISSION:
+__________________
+
+James R. Monk, Chairman
+Mark W. Cooper, Chief Administrative Law Judge
+
+        On June4,  1990,  Randy Wilson, Derald A. Nelson, Clamies J.
+Lambright, David A. Reynolds,  Thomas Battler,  Don Billey,  Jeff
+Jacobs, Jean Ludwig, George Himebaugh, Jr., and Delmar Mineard, Jr.
+(Complainants") filed a complaint with the Commission pursuant to IC
+8-1-2-54 against GTE North Incorporated ("Respondent").  By their
+complaint, the Complainants state that certain of the provisions of the
+Respondent's tariffs on file with this Commission are unjustly
+discriminatory and unreasonable to the Complainants" detriment.
+
+        Pursuant to notice duly published as required by law, a
+Prehearing Conference was held in this Cause on July 27, 1990 at 1:30
+P.M., EST, in Room 908, State Office Building, Indianapolis, Indiana.
+At the Prehearing Conference, the parties informally agreed as to
+procedural and scheduling matters to be operative in this Cause.
+However,  counsel for the Respondent indicated that it would be
+subsequently submitting a motion to dismiss herein and the Commission
+withheld the issuance of the Prehearing Conference Order pending the
+submission and ruling upon Respondent's Motion to Dismiss.
+
+        On August 10, 1990, the Respondent filed its Answer and Motion
+to Dismiss, which filing appears in the following words and figures,
+to-wit:
+
+                          (H.I.)
+
+        Based upon the applicable law and the filings of the parties,
+the Commission now finds as follows:
+
+        1.  Commission Jurisdiction.  The Respondent is a "public
+utility" within the meaning of the Public Service Commission Act, as
+amended.  IC 8-1-2-54 provides the complaints may be filed against
+public utilities with the Commission pertinent to the practices and acts
+of those utilities.  The complaint initiating this Cause was filed under
+the provisions of IC 8-1-2-54 and appears to satisfy the requirements
+thereof.  The Prehearing Conference was conducted pursuant to notice
+duly published as required by law.  IC 8-1-2 et seq.  and the
+Commission's Rules and Regulations of Practice provide the Commission
+with the authority to appropriatley adjudicate and dispose of cases
+pending before it.  Therefore, the Commission has jurisdiction over the
+parties and subject matter herein.
+
+        2.  Commission Discussion and Findings.  The Complainants allege
+that certain provisions of Respondent's tariffs are unjustly
+discriminatory and unreasonable and the Complainants have been caused
+harm thereby.  The Complainants state that they are customers of the
+Respondent and are engaged in the hobby of operating a Computer Bulletin
+Board System ("BBS").  The Complainants allege that pursuant to these
+tariff provisions the Respondent is billing them at a business rate
+rather that a residential rate whic is inappropriate and to their
+detriment.  The Complainants contend that the operation of a BBS is a
+hobby and not a business venture.  The Complainants also contend that
+applying a business rate to them consititutes a rate change which must
+be subjected to public hearing prior to the application thereof.
+Respondent points out that the tariff complained of by the Complainants
+was approved by the Commission on January 31, 1990 pursuant to IC
+8-1-2-42.  Respondent also points out there is no dispute between the
+parties as to whether this is the appropriate tariff under which the
+Complaintant's service should be provided.  Complainant citees certain
+language set forth at Section 6.5 of the tariff which reads, as follows:
+
+        The Company shall determine if business or residence rates apply
+to a customer service.
+
+        Respondent goes on to set forth additional language from the
+tariif which set forth situations under which a business reate is
+properly applied.  Respondent concludes that BBS clearly fits the
+categories set forth by the tariff under which a business rate applies
+
+        Respondent goes on to set forth additional language from the
+tariif which set forth situations under which a business reate is
+properly applied.  Respondent concludes that BBS clearly fits the
+categories set forth by the tariff under which a business rate applies
+and the fact that Complainants allege that BBS is a hobby does not
+remove it from the categories as defined within the tariff.
+
+        Respondent's Motion to Dismis does not clearly set forth the
+authority or rule under which the Motion is brought.  Therefore, we must
+first determine the precise character of the Motion that we may know the
+criteria under which its propriety is to be considered.  Although
+Respondent's filing is denominated as a "Motion to Dismiss", a review of
+that Motion reveals that it does not clearly fall within the parameters
+of the familiar request for involuntary dimissal under T.R. 41 or
+matters properly raised under T.R. 12 (B).  It appears that Respondent's
+filing is most akin to a Motion for Judgement on the Pleadings as
+provided by T.R. 12(C) or a Motion for Summary Judgement pursuant to
+t.R. 56.  In any event, a review of T.R. 12(C) directs that a motion
+brought under that rule in circumstances such as these should be treated
+as one for summary judgement and be disposed of as provided by T.R. 56.
+T.R. 56(C) sets forth the standard under which a moving party may
+prevail on motion for summary judgement.  The Rule provides that the
+judgement sought shall be rendered if there is no genuine issue as to
+any material fact and that the moving party is entitled to a judgement
+as a matter of law.  This standard appears to be applicable in this
+situation.  A review of the Complaint and Respondent's filing indicates
+that the parties agree upn the operative facts and that there exist no
+genuine dispute as to any material fact.  The question remaining to the
+Commission is no then fact sensitive but whether Respondent's tariif
+provisions which allows the Respondent to bill the Complainants under a
+business rate constitutes the improper charging of a reate without prior
+Commission approval and/or whether that tariff provision is unjust and
+discriminatory.  Both of which are conclusions of law for the Commission
+as contemplated by T.R. 56 (C).
+
+        The Complainants allege that the Respondent's application of a
+business rate to the Complainants constitutes a rate change for which
+prior Commission approval must be obtained after holding a public
+hearing.  The cleand and unambiguous terminology of Respondent's tarriff
+which was approved by this Commission allows the Respondent to determine
+wheter a particular service is appropriatley billed under a residence
+rate or a business rate.  Clearly the tariff approved by the Commission
+authorizes the appropriate rate.  The Complainants have not alleged that
+Respondent acted in a fashion inconsistent with the tariff.  Therefore,
+when information comes to the Respondent that leads it to believe that a
+particular customer's situation has changed it is authorized under the
+tariff to impose a rate change consistent with the terms of the tariff.
+The Respondent's review of circumstances and decision to impose a
+different rate authorized under the tariff clearly does not constitute a
+rate change as contemplated by IC 8-1-2-42.  Therefore, considering the
+undisputed facts the Complainants would not be entitled to prevail on
+this issue.
+
+        The Complainants next allege, without specifically stating the
+reasons therefor, that Respondents tariff in question is unreasonably
+discriminatory.  This Commission has for many decades been charged with
+the duty to review utility tariffs under the mandate that utility
+services should not be discriminator and must serve puble interest.  A
+review of the official files of the Commission disclosed the provisions
+of Respondent's tariff in question are of a standard type and kind for
+local exchange telephone service.  Further, we note that such tariff
+provisons were reviewed by the Commission's Engineering Division which
+was properly delegated with the authority to consider the propriety of
+that tariff and make ultimate approval or rejection thereof.  Base upon
+a review of Respondent's tariff, we find that the tariff provisions are
+not unreasonable and discriminatory either as written or by their
+application.  Therefore, we find that the Complainants are not entitled
+to prevail upon this issue as a matter of law.
+
+        Based on forgoing, we find that Summary Judgement should be
+granted in favor of the Respondent and the Complaintants request to
+investigate the acts, practices and rates of the Respondent and for the
+holding of public hearing on the matter of the imposition of a business
+rate to the Complainants should be DENIED.
+
+        IT IS THEREFORE ORDERED BY THE INDIANA UTILITY REGULATORY
+COMMISSION THAT:
+
+        1. The Respondent shall be deemed to have prevailed on the
+matters at issue herein and that Complaintants request for an
+investigation into the acts, practices and rates of the Respondent and
+the holding of public hearing upon the Respondent's imposition of a
+business rate upon the Complainants shall be, and hereby DENIED.
+
+        2.  This Order shall be effective on and after the date of its
+approval.
+
+                        NOV 21, 1990
+
+
+

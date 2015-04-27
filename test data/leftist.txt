@@ -1,0 +1,278 @@
+        This article appeared in the August 22,1990 Wall Street Journal
+
+                                  Open Sesame
+                                --------------
+       In the Arcane Culture Of Computer Hackers, Few Doors Stay Closed
+                                --------------
+              Frank Darden Easily Broke Into BellSouth's Network
+                           Trading Tips With Others
+                                --------------
+                          Entering the Legion of Doom
+                                --------------
+          By John R. Wilke, staff reporter of The Wall Street Journal
+
+
+    ATLANTA- Frank Darden got his first  computer  at  the  age  of  16,  a
+    Christmas  present  from his parents. Sitting on a desk in his bedroom,
+    it opened a window on a world he found so consuming that he  quit  high
+    school and spent most days and nights at the keyboard.
+
+    His  parents  often  wondered what their son found so compelling in the
+    endless hours he spent alone in  his  room.  Then  one  afternoon  last
+    summer,  a dozen Secret Service agents burst into the family's suburban
+    home.  Agents held Edward and Lou Darden at gunpoint  as  they  swarmed
+    into  their  son's  room,  seizing  scores of disks mloads of files and
+    three computers.
+
+    When Frank got home an hour later, the terrified  young  man  confessed
+    that  he  had  used  his  home computer to break into BellSouth Corp.'s
+    telephone network.  In  February,  Mr.   Darden  and  two  others  were
+    indicted on felony charges of conspiracy and wire fraud.
+
+    "I  guess  now  my  parents  know  what I was doing in my room." says a
+    remorseful  Mr.   Darden,  a   bright,   impatient   24-year-old   with
+    shoulder-length hair and a tie-dyed T-shirt.
+
+                             Just Passing Through
+
+    Mr.   Darden  thus  became  another  of the growing number of "hackers"
+    nabbed by federal agents. For a long time, these high-tech  trespassers
+    operated  in  relative obscurity, using their computers and phone lines
+    to go where few people were meant to go. But lately,  in  a  string  of
+    highly  publicized  cases,  hacking  has moved towards the forefront of
+    white-collar crime. Increasingly, banks, businesses, credit bureaus and
+    telephone companies are discovering that someone, often in the dead  of
+    night, has wandered into their computer systems- and left his mark.
+
+    As  Mr.   Darden's  experience  reveals,  hacking has developed its own
+    subculture, rich with literature and legend and peopled  by  electronic
+    vandals,  voyeurs  and  explorers  known  by  fanciful code names. "Any
+    business that has a computer hooked to a phone  is  vulnerable,"  warns
+    Mr.   Darden,  who calls himself the "The Leftist." Before the bust, he
+    was one of the best.
+
+                                Starting Early
+
+    An early target in the crackdown was  the  Legion  of  Doom,  an  elite
+    clique  of  hackers  that  included  Mr. Darden and was targeted by the
+    Secret Service because of its members' notable skills. "The  Legion  of
+    Doom  had  the power to jeopardize the entire phonetwork," says Kent B.
+    Alexander, an assistant U.S. attorney prosecuting Mr. Darden's case  in
+    Atlanta.
+
+    In  a Secret Service affidavit filed in U.S. District Court in Atlanta,
+    BellSouth investigators call the Legion of Doom  "a  severe  threat  to
+    U.S.   financial  and  telecommunications  industries."  Federal agents
+    suspect the Legion  was  responsible  for  software  "  time  bombs"  -
+    destructive programs designed to shut down major switching hubs-planted
+    in  telephone  company  computers in Denver, Atlanta and New Jersy last
+    year.  The programs were defused before causing  damage,  investigators
+    say,   but  the  intrusions,  which  weren't  disclosed  by  the  phone
+    companies, could have knocked out service to hundreds of  thousands  of
+    customer phone lines.
+
+    The government sweep so far has bagged a motley band, mostly loners and
+    young  rebels  in their teens or early twenties. In past cases, many of
+    the hackers who have admitted breaking  into  computers  have  insisted
+    that  they  didn't  damage the systems they penetrated. They did it for
+    sport.
+
+    "There's no thrill quite the same as getting into your  first  system,"
+    says Phrack, an electronic magazine run out of a University of Missouri
+    dorm  and  accessed  by  computer. Before it was shutdown in the latest
+    sweep, Phrack (for phone-freak  hacking)  published  tips  on  cracking
+    computer  security. One issue offers a "hacker's code of ethics," which
+    advises, "Do not intentionally damage any system" or alter files "other
+    than the ones you need to ensure your escape." Another rule: "Don't  be
+    afraid  to be paranoid. Remember, you are braking the law." Mr.  Darden
+    says he strictly adhered to the code.
+
+    But the hackers' creed  means  nothing  in  court.  There,  hacking  is
+    treated  much  like  any  other  form  of criminal trespass under a law
+    Congress passed in 1988.  The law persuaded many hackers to  end  their
+    illicit forays. But it turned other hobbyists into criminals.
+
+    During  his  hacker days, Mr. Darden's world was an oddly solitary one.
+    For hours on end he sat in front of the computer  screen,  finding  his
+    only  human  contact  in  the  words  and  arcane code that arrived via
+    computer from other hackers.  "Once he got into ubject,  there  was  no
+    stopping,"   recalls  his  mother.   "he  was  always  studying  up  on
+    something. He read encyclopedias as a pastime."
+
+    Geography was meaningless; friends from around the world  were  just  a
+    few  keystrokes  away,  thanks to modems that connect computers through
+    the phone lines.  Mr.  Darden  says  he  has  struck  up  many  lasting
+    friendships on-line with people he has never met in person.
+
+    In  this silent, cerebral world, age is also irrelevant.  Only computer
+    skills count.  Once on-line, a hacker can be anyone he or she wants  to
+    be.  "No  one knows if you're fat, pimply, or scared to talk to girls,"
+    says Sheldon Zenner, a Chicago attorney w recently defended  an  editor
+    of  Phrack  on  felony  wire-fraud charges.  "Suddenly you're no longer
+    just the shy adolescent, but Knight Lightning or The Prophet."
+
+                                 Tough Choice
+
+    "It's a compulsion for some of these people," adds Mr.  Alexander,  the
+    Atlanta  prosecutor. "I'm convinced that if Lotus 1-2-3 was behind Door
+    No.  1, and Cheryl Tiegs was standing behind Door No. 2, a hacker would
+    go for the software.
+
+    Mr. Darden recounts his hacking days with disapproval- and just a touch
+    of pride.  He broke into his first system at the age of 17, dialing his
+    way into a big  computer  at  Hayes  Microcomputer  Products  Inc.,  in
+    Norcross,  Ga.,  and nosing around the system I didn't take anything, I
+    was just trying to see if  it  could  be  done,"  he  says  now.  Hayes
+    uncovered the breach and quickly tightened security, he says.
+
+    Hacking sessions often stretched into the early morning hours. He would
+    start  by  checking  lists  of  computer phone numbers collected by his
+    computer the night before through  an  automatic  process  called  "war
+    dialing."  That's  the  brute force approach to king, when the computer
+    runs  through  the  night,  methodically  dialing  every  number  in  a
+    telephone  exchange.  It records the number whenever it hits a "carrier
+    tone" signaling a computer is on the other end.
+
+    In a typical night of war dialing, in which the  computer  might  check
+    thousands  of  numbers,  perhaps  100  computer  carrier tones would be
+    unearthed, "each one a potential treasure chest," Mr. Darden  says.  He
+    would  then  begin  calling down the "hit list" with his computer, each
+    time trying to determine what kind of system was on the other end.  Fax
+    machines  were  a  problem, because they emit a tone that sounds like a
+    computer, so he wrote software that ignored them.
+
+                             Hello, Are You There?
+
+    Each kind of computer had a distinctive response to  his  call,  so  he
+    would  tailor  his  approach  to  the  type  of  system he encountered.
+    Computers that used the Unix software operating system were  especially
+    easy  to  break  into,  while  Digital Equipment Corp.'s VAX computers,
+    which have multiple levels of security, presented a  bigger  challenge.
+    But he says he was fond of the VAX because of its widely used software.
+    "For a hacker, the VAX is like putting on an old Jimi Hendrix record in
+    a  bar-  it's  a  real  clasic."  Using purloined telephone credit-card
+    numbers, which his computer generated through a trial and error, he got
+    into computers all over the world, including an encounter  with  a  VAX
+    that spoke Finnish.
+
+    He  devised  password-cracking  programs  that  automated  the  hacking
+    process. He also devised a program  that  let  him  capture  legitimate
+    users'  passwords  as  they  logged  onto  the  system. When he found a
+    password the  target  computer  recognized,  his  screen  wo  typically
+    respond  with a prompt, such as a sign. "Once you get that, you have an
+    open door," he says. Often he would play "cat-and-mouse games"  with  a
+    company's  computer  operators.   "I'd  send a little greeting to their
+    printer, to let them know I was there. It drove them crazy."
+
+    Credit bureaus were a favorite target. And,  despite  the  warnings  of
+    other  hackers  that it might give him away, his first move was to look
+    up his own credit report. "Naturally, I didn't have one," he says.   He
+    found his parents' report, and looked up ot s for friends.
+
+    To  make  the  process  more efficient, and to show off, Mr. Darden and
+    other hackers traded phone numbers and system-cracking tips  on  pirate
+    "bulletin  boards"-  computer  systems  that store and forward text and
+    electronic mail over phone  lines.  "Black  Ice"  is  one  such  board.
+    Access was tightly limited to an elite circle.
+
+                              No Busy Signal Here
+
+    Mr.  Darden's  biggest thrill as a hacker- and ultimately his downfall-
+    came when he broke into a big BellSouth computer  in  Atlanta  used  by
+    technicians to maintain and control the phone system. He learned how to
+    navigate  within  the  system  by  asking questions of BellSouth's own
+    on-line "help" program. Once inside, he found he  had  the  ability  to
+    reroute  telephone  calls  or  bring down switching centers, neither of
+    which he says he did. Mr. Darden did, however, listen in on a few phone
+    lines, but only those of other hackers, he insists, and only  to  prove
+    his prowess.
+
+    "If  we  wanted  to,  we  could  have  knocked  out  service across the
+    Southeastern U.S.," he says. "The  fact  that  I  could  get  into  the
+    system amazed me. But we were careful not to damage anything."
+
+    Not  surprisingly,  when  BellSouth  discovered  hackers were rummaging
+    through its computer, it reacted swiftly. It put  42  investigators  on
+    the  task of tracking the intruders down, and spent $1.5 million on the
+    effort. Once it found the source  of  the  intrusions,  it  called  the
+    Secret Service, which enforces computer-crime laws.
+
+    In  the  indictment, Mr. Darden and two co-defendants, Robert J. Riggs,
+    21, a.k.a. The Prophet, and Adam E. Grant, 22, a.k.a. The Urvile,  were
+    charged  with  taking  copies  of  proprietary software from BellSouth
+    during their ramblings in the system, and with unauthorized  intrusion,
+    possessing  illegal  phone  credit-card numbers with intent to defraud,
+    and conspiracy. Messrs. Darden and Riggs pleaded guilty  to  conspiracy
+    and  face  a  maximum  of five years in prison and a $250,000 fine. Mr.
+    Grant pleaded guilty to possessing BellSouth computer access codes with
+    the intent to defraud and faces a maximum of 10 years in prison  and  a
+    $250,000 fine. Sentencing is scheduled for Sept. 14.
+
+    The only good thing to come out of the  whole  experience,  Mr.  Darden
+    muses,  is that after he was indicted, his high-school sweetheart- whom
+    he often spurned in favor of his  computer-  saw  his  picture  on  the
+    front page of the local paper and got back in ch.
+
+    Mr.  Darden,  who  now  works  installing  systems for a local computer
+    company, views himself as a purist, hacking for the thrill of exploring
+    the forbidden. He looks down on those who use their  skills  simply  to
+    steal  phone and credit-card numbers. But in thi s game, information is
+    everything, and not even Mr. Darden  can  control  its  spread.  During
+    their sweep, federal agents have found some hackers using code-cracking
+    information  dug  up  by  the  Legion  of  Doom to perpetrate their own
+    practical jokes and fraud.
+
+    For  a  few  days  last  year,  for  example, phone calls to the Delray
+    Beach,  Fla.,  probation  office  were  mysteriously  rerouted   to   a
+    dial-a-porn  line  in New York. Secret Service agents say it's the kind
+    of thing the Legion might have done.
+
+    And in Elwood, Ind., a 15-year-old calling himself  Fry  Guy  allegedly
+    used  information  he  got  from  the  Legion to carry out an elaborate
+    fraud. Secret Service agents say he used his computer to break  into  a
+    credit  rating service in Maryland to pilfer VISA and MasterCard credit
+    information. He then entered BellSouth's control network and altered  a
+    pay  phone  on  a  street corner in nearby Paducah, Ky., to residential
+    status. Next, he called  Western  Union  and  had  cash  wired  out  of
+    credit-card accounts to the Pa ducah Western Union office. When Western
+    Union  called  the  credit-card holders to verify the transactions, the
+    calls were forwarded to the pay phone and  then  to  the  youth's  home
+    phone, where he posed as the credit-card holders and gave approval. The
+    cash  w  as  then  picked up at the Western Union window, investigators
+    say.
+
+    In  all,  Fry Guy siphoned more than $10,000 in cash and purchases from
+    credit-card accounts, alleges William M. Gleason,  the  Secret  Service
+    investigator.  He  also  found evidence that Fry Guy, whose name hasn't
+    been released, hacked his  way  into  a  payrol computer  for  a  local
+    McDonalds  Corp.  outlet,  giving  pay raises to his friends working at
+    the restaurant.
+
+    Fry  Guy's  case  is  being  handled  by  state  and  federal  juvenile
+    authorities  and,  because of his age, it is unclear what punishment he
+    might get. At the very least, his  parents  are  likely  to  watch  the
+    family  phone  bill  more  closely.  In  a  recent  meeting  w  federal
+    prosecutors, Fry Guy's exasperated father wore a baseball  cap  bearing
+    the legend "Kids: They'll drive you crazy."
+
+    Federal  agents  admit  that,  when  they  detect  an intruder inside a
+    computer, there isn't any way of telling if it's a precocious  teenager
+    or a crook out to commit fraud. So they simply execute the law.
+
+    "When  a  hacker  gets  into a system, it's no different from a burglar
+    breaking into your home or office," says  Secret  Service  agent  James
+    Cool.  If the door is open, the law treats a trespasser differently, he
+    adds. But if a hacker cracks a password to g into a system,  "it's  the
+    same as kicking in a locked door- and we're going to come after them."
+
+    Ed  Darden  wishes he had known all of this before he gave his son that
+    Apple II for Christmas eight years ago. "I'd have thought  twice  about
+    it," he says. "Maybe we should have given him a bicycle."
+
+
+
+                                 *end of file*
+
+
+
+

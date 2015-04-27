@@ -1,0 +1,117 @@
+                             Phile 1.6 of 1.14
+
+               THE HACKER MENACE AND ELECTRONIC BULLETIN BOARDS
+               ------------------------------------------------
+                         Typed by: {ode {racker
+ 
+This was taken out of the Network Security Magazine published by Datapro
+Research.  I found this article to be quite funny along with antinque
+news.  So I thought I share it with you for a laugh or whatever.
+ 
+Also this article was written by a EX-HACKER! How does one become a 
+EX-HACKER, please tell me!!!!
+ 
+ 
+ 
+HACKER GANGS
+------------>
+ 
+Early computer hackers tended to be college students.  With the advent
+of home computers, and the teaching of computer basics at the grade
+school level, the average age of the begininning (youth) hacker has
+dropped to only 14!!  The overwhelming majority of BBS owners and users
+are teenagers.  Teens tend to form cliques and peer groups, so the 
+formation of phone phreak and hacker gangs was inevitable.  The parents
+of these bright teens usually do not, themselves, understand the power
+of the computer.  This means that the teens are not subject to the same
+parental restrictions that would govern their using the family car.
+ 
+Many parents veiw the home computer as an excellent baby-sitting device.
+If their child spends an evening quietly in his/her room with the computer
+the parents feel that thier offspring is not getting into any trouble.
+In reality, these teens may be engaging in electronic gang activites
+that have very serious implications.  Losses to the software industry
+alone are staggering!!!
+ 
+Unfortunately, many of the gang leaders are older, more experienced
+teens, perhaps college students.  These people are interested in hacking 
+not for its intellectual challenge, for for its financial rewards.  A
+few gang leaders are adults who are politically or firal adults who are major figures behind the cracking and
+distribution of pirated software for resale to the public.  One
+adult gang leader openly solicited credit card numbers from the 
+juvenile members in exchange for fraudulently obtained hard disk drives
+and other equipment.  Some of the teenage leaders seek notoriety and
+acclaim from their peers.  They strive to be the biggest phreaker or 
+to have broken into the greatest number of computer systems.
+ 
+The gangs may be local in nature such as the infamous "Milwaukee 414
+gang"; they may be national in nature, like the "Inner Circle"; or
+even international.  One such international group is "NYSHII" or 
+"CHAOS" both cracking and pirating clubs with headquaters in both 
+West Germany and the United States.  All of these groups had a BBS
+that was their main base of operations and served supposedly as a
+sercure communications center.  The 414s had a private BBS that was 
+so sercet it didn't even have a namme.  The Inner Circle had a 
+Securityland BBS and Illegitimate accounts on GTE'S Telemail network.
+Chaos operates on a variety of BBS's in both the U.S. and West Germany.
+NYSHII (New York Safehouse II) to this date has baffled local and
+international law enforcement agencys as to it's true whereabouts.  
+The Sysop "The Line Breaker" has found a way of changing the BBS's
+location on a weekly basis without moving the master computer.
+ 
+ORGANIZED CRIME AND THE BBS
+--------------------------->
+ 
+Naturally, an underground BBS could be used by organized crime in
+much the same manner as the teen hacker gangs use them.  The author
+has good reason to believe thgat organized crime is controlling a
+number of BBS systems in the Midwest, the New York City area, and
+in Florida.  One informant claims there is a bbs that is located
+in an off-track betting parlor.  Teenagers are easily recruited to 
+act as information gathers for organized crime.  The young people
+work for little or nothing and, in most cases, do not even know
+that they are being used.  The author and other adult hackers have
+been approached and offered large sums of money tamper with
+banking and credit data computer systems.  Organized crime is 
+moving into this new area of crime.  There is a real and present
+danger if BBSs continue to be alloowed to operate unchecked.
+ 
+Underground BBSs may be creating a whole new generation of 
+criminals.  As the youthful hackers mature, their interest in hacking
+as an intellectual challenge and rebellion against authority
+may be replaced by profit motive.  College students always seem
+to need money and the teens who do not go to college may find it 
+difficult to obtain a job.  It is only natural that these individuals
+would graviate into hacking for personal gain.  For example, many
+bulletin boards cater to those who are involved in credit card fraud.
+There is also evidence that drug dealers use BBSs to arrange swaps
+of stolen property for drugs.  Hackers who have learned how to access
+credit bureau systems, such as TRWs, have discovered that making 
+unauthorized credit checks foe
+business.  
+ 
+Credit bureau computer penetrations are routine in the hacker under-
+ground.  The typical hacker gang obtains credit card numbers from
+discarded charge slip carbons.  As an alternative, one or more
+hackers who work in retail establishments may supply card numbers.
+Other gang members can then check the cards for credit limits and
+expiuration dates by using the telephone or illegally accessing 
+credit bureau computers.  Others in the gang set up mail drops 
+and safe houses for the deliverly of the merchandise ordered by mail
+and charged to the credit card numbers.  Since the gangs know no
+geographic boundaries, it is difficult to investigate these frauds.
+ 
+Some commerical time-sharing services, such as Comp-u-serve, allow
+merchandise to be ordered via computer and shipped to the user's
+address.  ime-sharing accounts are easily obtained with a stolen 
+credit card.  This allows the thief to order merchandise with little
+fear of being traced.  These new high tech thieves are replacing
+more traditional criminals.
+ 
+The hackers and phone phreaks have knowledge and skill to completly
+disrupt major communication and computer networks.  All that is lacking 
+is organization, planning and financing.  If enemy power should
+infiltrate and organize this underground, the consequences could
+be disastrous.
+ 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

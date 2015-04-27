@@ -1,0 +1,45 @@
+
+MISSOURI MAN PLEADS NOT GUILTY TO
+CHARGES OF CRACKING 911 SYSTEM
+
+  (Feb. 17)
+  A 19-year-old University of Missouri
+has pleaded not guilty to federal
+charges he invaded the 911 emergency
+phone network for nine states, then
+passed along stolen information in an
+electronic publication.
+  Craig Neidorf was indicted earlier
+this month along with Robert J. Riggs,
+20, of Decatur, Ga. They are charged
+with interstate transportation of stolen
+property, wire fraud and violations of
+the federal Computer Fraud and Abuse Act
+of 1986.
+  As reported earlier, prosecutors
+allege the two used computers to enter
+the 911 system of Atlanta's Bell South
+and copied the program that controls and
+maintains the system. The stolen
+material then allegedly was published on
+a computer bulletin board system
+operating in the Chicago suburb of
+Lockport. Authorities contend Neidorf
+edited the data for an electronic
+publication known as "Phrack."
+  Associated Press writer Sarah Nordgren
+reports that at a hearing Thursday,
+assistant US Attorney William Cook was
+granted a motion to prevent the 911
+program from becoming part of the public
+record during the trial. US District
+Judge Nicholas Bua set April 16 as the
+trial date.
+  The 911 system in question controls
+emergency calls to police, fire,
+ambulance and emergency services in
+cities in Alabama, Mississippi, Georgia,
+Tennessee, Kentucky, Louisiana, North
+Carolina, South Carolina and Florida.
+
+Downloaded From P-80 Systems 304-744-2253

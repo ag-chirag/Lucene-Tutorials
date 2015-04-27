@@ -1,0 +1,92 @@
+-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-
+
+                      POLICE SET UP BULLETIN BOARD STINGS
+
+
+By Jim Forbes
+Infoworld Staff
+
+AUSTIN, TX - Law enforcement officials here have joined a growing number of
+police agencies nationwide running "sting" operations to catch persons using
+bulletin boards for illegal purposes.
+
+   Based on information posted on a bulletin board it operated, the Austin
+Police Department said it has been able to turn off two pirate boards here and
+expects shortly to make a number of arrests for misdemeanor violations of
+Texas' newly enacted computer crime law.
+
+   For more than two years, the department secretly ran a board called the
+Underground Tunnel, which was set up to appear as a bulletin board run by a
+system operator called Pluto.  But late last month - to the surprise of the
+board's more than 1,000 users - Pluto was revealed as Sgt. Robert Ansley, a
+seven-year veteran of the police department.
+
+   "Most of the users were people interested primarily in several on-line
+fantasy games or in electronic messaging," Ansley said.  "To get to the levels
+where people posted information on how to crash corporate systems, the user had
+to ask for increased access.  We were very careful not to solicit or entrap
+anyone into leaving illegal information."
+
+   The Austin police department disclosure caught most of the board's users by
+surprise.  "I liked the board's electronic messaging capabilities," said user
+Michael Whalen, the managing editor of the Daily Texan, the student newspaper
+of the University of Texas here.  "I was really surprised at how the officer
+was able to pull this off."
+
+   What the police found, according to Ansley, included access codes belonging
+to the world's largest credit reporting organization, TRW Information Services
+Systems Division of Orange, California.  "Most offenders seem to be real big on
+TRW," said Ansley.
+
+   Sting and intelligence gathering bulletin board operations are on the rise
+throughout the country, according to law enforcement officials.  Several police
+departments nationwide have already used bulletin boards to track down and
+arrest microcomputer users who post illegally obtained calling card codes,
+mainframe access procedures and passwords, or other confidential information.
+According to one high-lvel West Coast law enforcement officer who declined to
+be identified, federal officials are now joining local authorities in running
+bulletin boards in several key metropolitan areas.
+
+   "You better believe law enforcement agencies are interested and, in some
+cases, running bulletin boards," said Dan Pasquale, a sergeant with the
+Fremont, California, police department.  Last month, police in Fremont capped
+three and a half months of bulletin board operations by arresting eight
+individuals for alleged credit card fraud, misuse of telephone credit card
+operations, and technical trespass.  Pasquale said most corporations whose
+passwords or calling card numbers were posted on Fremont's board were unaware
+that their information had been compromised.
+
+   Although police are pleased with their results, some users say they feel the
+sting bulletin boards are unfair to both innocent users and suspected criminals
+alike.  Whalen said students at the University of Texas used the board
+extensively, and he claimed that some people accused of posting access codes
+and other information on the board felt they had been entrapped when they
+discovered that the board was a police sting operation.
+
+   Whalen also said that some users where concerned about the privacy and
+sanctity of electronic mail left on the board.  "Ansley said users are foolish
+if they don't think a system operator reads the mail on the board," he added.
+
+   Indeed, as police turn increasingly to bulletin boards to catch suspected
+criminals, the issue of entrapment has also become a growing concern, one to
+which police are sensitive.
+
+   "At no time did the police department urge users to leave access codes,
+applications, or passwords for corporate computers on the Tunnel," Ansley said.
+
+   To prove entrapment, a suspect would have to cleary show that a government
+agent offered some type of inducement to promote criminal activity, said Jim
+Harrington, the legal director of the Texas Civil Liverties Union here.  "The
+whole are of police gaining information on [criminal activities] by reading
+electronic mail is very interesting."
+
+   Fremont police held a series of meetings with a district attorney before
+they started the board, according to Pasquale.  "We established a point where
+entrapment began and made sure we never crossed that point," he said.  "In
+fact, messages on the board were scripted in conjunction with the district
+attorney's office."
+
+-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-
+
+Downloaded From P-80 Systems 304-744-2253
+

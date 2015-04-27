@@ -1,0 +1,245 @@
+File: MERRY PRANKSTERS-WOZNIAK&JOBS
+ Read 11 times
+
+ -=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-
+ -			       MERRY  PRANKSTERS			     -
+ =			 InfoWorld -- October 1, 1984			     =
+ -		    By Allan Lundell & Geneen Marie Haugen		     -
+ =		   Word Processed for SF][ by BIOC Agent 003		     =
+ -=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-=*=-
+
+	    -------------------------------------------------------
+	    Jobs and Wozniak unearth the secrets of phone phreaking
+	    -------------------------------------------------------
+
+   The year was 1971.  Two silent figures were observing the entrances to SLAC,
+the complex that housed the Stanford Linear Accelerator.  With one of the
+newest, shiniest atom smashers in the world, the SLAC facility at Stanford
+University was a physicist's dream -- a center for investigation into the most
+basic elements of reality.
+
+   But the two observers were not interested in the nature of reality.	Racing
+to a side entrance, they snuck past the SLAC security patrols and entered the
+high-technology library.  They knew their way around, having visited the SLAC
+facility several times before.	It was always exciting to break in; there was
+no limit to the information they could absorb.
+
+   This time, however, they were on a specific mission.  Thumbing through a
+document on multifrequency telecommunications systems, Steve Wozniak whispered
+to his friend, Steve Jobs.
+
+   "This is it!  This matches the frequencies in Esquire exactly!  With this
+information, we can build one!"
+
+   The future creators of the Apple II computer pulled out their pens and
+notebooks, scribbling data almost faster than a high-speed line printer.  This
+was no minor treasure.	They had unearthed some of the secrets of the little
+blue box, topic of the infamous Esquire article on phone phreaks by Ron
+Rosenbaum.  [Esquire article on-line -- parts I - VI - SF Phreak L2 (9)]
+
+   The blue box was the magical device needed to enter and exercise control
+over the world's phone system -- the world's electronic nervous system.  And
+now the two Steves had the access codes.
+
+   Days of intensive effort followed, until they held their first model, with
+wires and coils spilling out, to the phone and punched the secret codes.  After
+many exasperating failures, the phone rang a long-distance number.  Someone
+answered....
+
+   Jobs yelled out to the person on the line:  "Hello!  We've got a blue box,
+and we are calling you from California!  Where are you located?"
+
+   A little confused, their first planetary contact yelled back:  "I'm in Los
+Angeles!"
+
+   The boys needed help.  Now that they knew the Esquire story was truth and
+not fiction, they imagined its hero, Cap'n Crunch, must be real, too.  The two
+Steves put out the word through the underground that they wanted to meet him.
+
+   It was some meeting.  The infamous Cap'n had named himself after Cap'n
+Crunch breakfast cereal when he'd discovered that their free bos'n whistle
+produced a fundamental tone for long-distance calls.  He also found out other
+phone intelligence information he needed from Bell System publications and by
+making himself obnoxious at the Bell switching offices.  Cap'n Crunch was
+charting the unkown seas of the phone system with the true "Star Trek" spirit
+of seeing what there was, going where no man has gone before, and having fun
+doing it.
+
+   Woz had imagined Crunch to be a superengineer, a consultant to the computer
+industry, an ultragenius driving a van equipped to do everything but fly -- a
+hybrid version of James Bond, the Man from U.N.C.L.E., and the professor on
+"Gilligan's Island."  but at this first meeting in the Berkeley dorms ol' Woz
+did a double take.  Standing before him was, well, a madman.  With long frizzy
+hair, the Crunch was wild-eyed and almost toothless, to boot, like a pirate
+from the seven seas.
+
+   Cap'n Crunch launched immediately into his discoveries.  After many hours
+had passed, Wozniak and Jobs knew how to access different countries, overseas
+information operators, satellites, and transoceanic cables.
+
+   Woz and Jobs were handed an opportunity to test out their newfound knowledge
+late that night.  On their way to Jobs' house in Silicon Valley, the car died
+out near a phone booth in the town of Hayward.	They tried to beep their way
+back to Berkeley with their trusty blue box, but Woz had trouble making the
+connection.  He was getting very nervous trying to "explain" to the operator
+what he was doing, when a police car pulled up and slammed on the brakes,
+lights flashing.  The office sauntered over to the phone booth, and the two
+Steves knew they had been tricked by the operator.  The officer, trained in the
+ways of criminals caught in the act, shifted his attention to some nearby
+bushes -- thinking the boys had thrown something in them.  In this instant,
+Jobs passed the blue box to Woz, who quickly shoved it in his coat pocket.
+
+   Brave move. But to no avail:  The officer routinely searched both and
+liberated them of their new tool.  The officer randomly pushed buttons, and the
+blue box responded:  bleep, bleep, blup, bloop!
+
+   "What's this?" he demanded.
+
+   Woz took a chance:  "I-it's a m-m-music synthesizer, officer."
+
+   Another police officer arrived and started trying to figure the thing out.
+He grilled them:  "What's the orange button?"
+
+   "That's for calibration,"  Jobs said.  "It's designed to interface with a
+computer."
+
+   The two boys were escorted into the back of the patrol cruiser.  Feeling
+doomed, they were beginning to realize that being a pioneer and a prankster had
+its risks.  Then the cop with the box turned around from the front seat and
+handed them the blue box, saying, "A good idea, but a guy named Moog beat you
+to it...."
+
+   There is probably no one in the computer industry who has not heard of Steve
+Wozniak and Steve Jobs.  A lot of people in the industry have heard of John
+Draper, alias Cap'n Crunch, and a lot of people haven't.  But probably everyone
+in the industry -- probably everyone in Western society -- knows someone like
+them:  The guy with the ham radio next door.  The kid down the street who
+crashed his school's computer from home.  The hacker in the office across the
+hall who's always tampering with everyone else's files.  They all seem to be
+propelled by some inborn drive to do what few -- if any -- can do or have done.
+
+   These are the brethren of the high-tech frontier, the would-be merry
+pranksters of computerdom.  The brethren break new ground, thinking the
+unthinkable, charting the unknown.  Wherever their minds go, we will all go --
+eventually.  No one holds the future so much in their hands as the pioneers of
+today's supertechnology.  Thank God, they've got a sense of humor.
+
+   In the formative years of the brethren, before they'd settled on a field of
+specialization, when they were young and unconsciously adventurous, they were
+unaware of the strength of the cultural rules.	for some of them, a
+prankstering spirit could mean disaster, but Woz and Jobs seemed to live an
+almost magical existence beyond the law and trouble.  After mastering the blue
+box, they organized blue-box parties at the Berkeley dorms.  Once a week, with
+an audience of 20 or 30 people, they held demonstrations.  They'd call
+operators in other countries and go around the world by switching from an
+operator in one country to an operator in another.  Finally a phone would ring
+in the dorm room next door.  Someone would pick up and hear Woz's voice coming
+from around the world.
+
+   They'd call Dial-A-Joke in New York (Woz subsequently started his own
+dial-a-joke service), weather numbers in Australia, phone booths in Cape Town,
+bars in Ireland, all amplified so the entire audience could hear.  Before the
+night was through, everyone in the room would talk to some friend or relative
+in another country -- all for free, all for fun.  Woz was always thinking
+up fantastic feats for the Berkeley Blue Box Show.  Everyone loved him, and he
+loved being the star.  Before long he was calling himself Berkeley Blue and had
+an almost professional routine.  When whe was finished blowing away the
+audience, Blue's partner Jobs, code-named "Oct Tobor," would step in and offer
+shiny new blue boxes for sale -- guaranteed at a low, low price of $80.  Shades
+of things to come....
+
+   Woz and Jobs didn't just hand-wire their boxes.  Woz created them with
+state-of-the-art technology and laid them out on personally designed printed
+circuit boards.  This was a professional operation, a miniature high-technology
+company, complete with product, sales, service, and support.  Woz immersed
+himself in the tech, Jobs collected the money.	Those boys sold more than two
+hundred boxes and lived off the revenues for an entire school year.
+
+   A charmed life, some might say.  But then the blue-box luck ran out.  One
+night Woz and Jobs stopped at a pizza parlor practically next door to Woz'a
+elementary school in the Silicon Valley town of Sunnyvale.  They were on their
+way to Berkeley to sell a blue box, but they need some money right away and
+thoght they might save themselves the trip by selling it in Sunnyvale.	Almost
+eeryone feels safe in a familiar haunt in his hometown, and Jobs and Woz were
+no exception.  Chewing their pizza, they surveyed the customers at the other
+tables.  The families were out of the question.  So were the tables full of
+teenagers.
+
+   But there were some really disreputable-looking characters at another table
+who looked as if they might be able to put the blue box to good use.  Feeling
+confident, Wozniak and Jobs approached the table and had a low conversation
+about the merits of the box.  Were they interested?  They were interested all
+right.	And they were hooked after they watched the demonstration.  They didn't
+have the money right then, so they took Woz and Jobs out to their car under the
+pretext of giving them their business card.
+
+   The only problem was that the business card was a gun.  That blue box
+changed ownership pretty fast, and the shady characters drove off.  They had
+the box -- but they didn't know how to use it, and Woz and Jobs never told
+them.  The secrets of Cap'n Crunch were safe.
+
+   In 1974, Cap'n Crunch, aka John Draper, was busted for blue-boxing.  For the
+second time.  By federal, state, and local authorities.  Fraud by wire was the
+charge.  He had already spent six months in a federal penitentiary in
+Pennsylvania.  The second time, he was sent to Lompoc -- a federal pen in
+California.
+
+   The likable yet unfortunate Cap'n.  How could he have know when he learned
+how to make free long-distance calls from blind kids who whistled their
+frequencies into the phone, that he'd do time?  How could he have know that the
+Cap'n Crunch cereal that inspired the blue box would lead to this?  How could
+he have know when he blue-boxed his way to Nixon's bedside to inform the
+president of the nation's toilet paper crisis that he might end up in the
+slammer?
+
+   In Lompoc an inside informer for the Mafia broke [the Cap'n's] back when he
+refused to impart the secrets of the blue box.	That was the end of Cap'n
+Crunch but not of John Draper -- a man described by Wozniak as being wanted by
+the FBI because he was "too intelligent."  If Draper hadn't been made such a
+folk hero by the press, it might not have gone badly for him.  Then again, his
+final stay in jail led him to computer fame and fortune.  It was while he was
+in a work program that he wrote Easy Writer, the first professional-style word
+processing program for the Apple.
+
+   A couple of years later, IBM was looking around for software to bundle with
+its PC.  By that time, there were better packages than Easy Writer, but someone
+at IBM had a sense of humor.  IBM asked Draper and his new software company,
+Cap'n Software, to design and program this now classic word processing package
+for its first entry into the personal computer market -- an irony not lost on
+those familiar with his bouts with AT&T.
+
+   After their brushes with the dark side of the force, John Draper, Stephen
+Wozniak, and Steve Jobs got a whole lot smarter.  They wised up to some of the
+mysterious workings of the power structures.  They lost their innocence, but
+they gained something else.
+
+   Wozniak and Jobs struck it rich early in the Silicon Rush.  They made
+history with their Volkswagen-like Apple II.  John Draper became wealthy enough
+to drive a Mercedes-Benz through the streets of Berkeley with his first release
+of Easy Writer for the Apple II.
+
+   New fortunes are still being made regularly in Silicon Valley, if not as
+often as they once were.  And empires that once were, already are no longer.
+A new crop of microcomputer genius-pranksters is making headlines.  Their
+exploits have inspired movies and a television show.  As technology's first
+wave of pranksters comes of age, they are shifting their curiosity to things
+that are, as Wozniak explains, "creative and useful."  But they're still doing
+things that few -- if any -- have done.  Wozniak sponsored live satellite
+linkups with the Soviet Union at his outdoor musical US Festivals.  Draper is
+masterminding a vast artificial intelligence network.  Some of the others early
+pioneers are funding private space programs.  Some are pursuing medical
+applications such as life extension.  Others are entering the arena of
+politics.
+
+   In the realm of genius-pranksters and supertechnology, just about anything
+is still possible.
+
+   Putting the most powerful tools into the hands of individuals with
+creativity, integrity, and courage is bound to have awesome consequences.  When
+the real whiz kids get together to conspire, they create not simply pranks, but
+miracles... <>
+
+[Courtesy of Sherwood Forest ][ -- (914) 359-1517]
+
+-----End of File
+                  

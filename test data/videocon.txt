@@ -1,0 +1,126 @@
+
+VIDEO CONFERENCING
+
+BEN & JERRY'S SAVES MONEY, ADVANCES OFF-BEAT 
+CORPORATE CULTURE
+
+Clear-channel T-1 video conferencing service links company 
+sites
+
+Where else but at Ben & Jerry's Ice Cream would you find a 
+"Communications Queen?" What other corporate headquarters
+features blue jeans as the style of choice? And where else 
+would you find people actually having -- brace yourself -- 
+fun with their video conferencing system? OK, where else 
+outside of California?
+
+The fact is, employees at Ben & Jerry's corporate 
+headquarters in Waterbury, Vermont and their colleagues at 
+the company's Springfield, Vermont manufacturing site some 
+74 miles away, have time for fun because their serious 
+video conferencing time is so productive.
+
+
+The system, which is based on PictureTel hardware and a 
+New England Telephone Superpathsm 1.5M bps T-1 line, provides 
+special advantages for a company based in such a rural and 
+rugged location.
+
+"Video conferencing allows us to meet more frequently
+without interrupting our schedules," says Communications 
+Coordinator (a.k.a."Communications Queen") Maureen Martin. 
+"And, as we get into winter, it will get used even more, 
+helping us avoid the drive between Waterbury and Springfield, 
+which is about an hour-and-a-half."
+
+LIVE, FROM "THE FOOTBALL FIELD"
+
+A typical Ben & Jerry's video conference includes between 10 
+and 13 people. However, sometimes high-ranking company 
+officials will use the system for one-on-one meetings. 
+Although two rooms at the Waterbury headquarters site are 
+wired for video conferencing, the conference room (referred 
+to affectionately as "The Football Field"), with its circular 
+tables and room-length "white board" is the site of choice.
+
+
+There are two cameras in the room. One is fixed on top of 
+one of the system's 32-inch monitors, and the other sits on
+a tripod that can be automatically moved to focus on fixed 
+settings such as the white board or speakers. The monitor has 
+a small "window" that allows the transmitting site to see 
+what's coming out at the other end. There are no special 
+
+unit's keyboard, from which it comfortably picks up commentary 
+from anyplace in the room.
+
+The system uses a clear-channel T-1 configuration, which 
+allocates 64K bps for each of the 12 channels dedicated to
+video transmission. Another 10 of the remaining 12 channels 
+are used as voice tie lines between the two locations.
+
+According to telecommunications specialist Melody Plante, 
+"Another channel is used to transmit data, eliminating the
+dedicated 56K bps line we had. We're leaving the last channel 
+open, anticipating future growth."
+
+
+THE VIRTUAL OFFICE IS CREATED
+
+On the voice side of this configuration, the Springfield 
+location is a virtual extension of the Waterbury site, 
+meaning there are no toll charges for calls made between 
+them. This also means anyone at the Waterbury site can be 
+paged from Springfield. This virtual extension also creates 
+a phone-mail system between the two sites.
+
+Plante says that an initial bandwidth problem was solved when 
+New England Telephone agreed to supply the clear-channel T-1 
+link. Beyond that, the major obstacles consisted of getting 
+all the participating vendors to decide on dip switch settings 
+and video parameters. Those vendors included New England 
+Telephone, PictureTel, GTE, the Southern Vermont Telephone 
+Company and Telesource, a muliplexer manufacturer.
+
+Plante lauds the role played by New England Telephone
+technicians, who acted as "testers." "All the vendors relied 
+heavily on New England Telephone," Plante states. "They were 
+great."
+
+
+Savings accumulated via reduced toll and private line charges 
+will enable the multiplexer unit, which was installed during 
+March of 1992, to pay for itself within 14 months. The 
+system's value increases even more when time and travel 
+expenses are factored in.
+
+POSSIBLE BOSTON CONNECTION
+
+Martin says the Ben & Jerry's video conference system will 
+reach out beyond Vermont. "Eventually, we will want to hook
+up with outside video conference users, such as our attorneys 
+in Boston," she notes.
+
+A visitor need not go beyond the reception area of the 
+Waterbury headquarters building to get, ahem, a flavor of 
+the Ben & Jerry's corporate culture.  Every wall is plastered 
+with some brightly colored piece of Ben & Jerry's bric-a-brac.
+
+
+
+
+The video conferencing system can be an inadvertent 
+purveyor of this color culture. "One time when we got done 
+with a conference, somebody in Springfield noticed that we 
+had a new promotional piece on the table," Martin remembers. 
+"It had just come out that morning, but they wanted to get it 
+as soon as possible."
+
+And just where does the fun, what is known within the company
+as "Ben & Jerry-izing" it, come in? Although such activitiies
+are not yet observed on a company-wide basis via video 
+conferencing, "We've done everything from Barry Manilow's 
+birthday to Elvis day,"  Martin observes. It seems only 
+fitting that the Queen of Telecommunications would commemorate 
+the King of Rock and Roll.  
+

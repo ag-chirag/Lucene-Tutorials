@@ -1,0 +1,301 @@
+/* All comments by Digital Derelict. */
+
+
+                     Hackers of the World, Unite!
+                     ============================
+
+                     From Newsweek, July 2, 1990
+
+                          By John Schwartz
+
+                         Typed by Mortimer
+
+                    A production of Hanford BBS.
+
+                 /* Comments by Digital Derelict */
+
+        It is not your average keynote speech.  It's more like a call to
+ arms.  A couple of hundred software developers sit entralled by Mitch
+ Kapor, who dropped by their recent Ann Arbor in his private jet - one of
+ the nifty things you can buy for yourself if you happen to be the guy who
+ wrote Lotus 1-2-3.  The once portly computer star has shed 25 pounds
+ lately through a determined combination of exercise and diet.  He's
+ doffed his jacket and slipped on a convention T shirt over his shirt and
+ tie.  While this fashion statement might be confused, his message is not:
+ There's a threat out there.  Not computer viruses.  Not nasty hackers.
+ It's the Feds.
+
+/* This is something that publications like PHRACK INC. (rest in peace),
+   LOD/H (also shut down), and any BBSers that have bothered to pull their
+   head(s) out have been saying for a decade.  Amazing how fast news travels,
+   huh?                                                                 */
+
+        Kapor first asks which members of the audience use electronic
+ "bulletin boards" and conference systems.  Almost all the hands go up.
+ Kapor then puts the scare into them with tales from the "hacker dragnet".
+ Law-enforcement agencies have stepped up efforts against computer crime
+ [fun timeline at the end].  Kapor believes that they have gone too far.
+ He cites police raids on teenagers' homes, with guns drawn and family
+ members forcibly restrained.  He tells of widespread equipment seizures,
+ and the raid that nearly shut down Steve Jackson Games, a small Austin,
+ Texas, producer of fantasy role-playing games - even though it was not a
+ target of the investigation.
+
+/* Actually, what happened was that an employee of SJ Games was formerly
+   affiliated with The Phoenix Project, a perfectly legal BBS that was shut
+   down by the Pigs -* er, the Feds the instant that the sysop (it is not
+   clear which, but The Mentor was one) announced that they were going to start
+   using an E-Mail encryption routine.  The Mentor had invited a few Feds to
+   come and join them in discussions on the board to prove that it wasn't
+   anything to be afraid of, thus the immediate response.  As far as this
+   author knows, the equipment was never returned, no charges were pressed, and
+   it had nothing to do with an investigation.  It was allegedly affiliated
+   with LoD (publishers of LoD/H Technical Journal), which is the current
+   target of this new McCarthyism.  LoD was allegedly connected with the E911
+   case, where The Prophet leaked the contents of the E911 document to Knight
+   Lightning, publisher of PHRACK. If this is a valid excuse for nearly
+   shutting down the publishers of the 'GURPS' RPG series, the Feds as
+   far gone as I suspected. The year '1984' comes to mind.              */
+
+        And he talks about a student indicted on charges stemming from
+ publishing a private telephone-company statement in  his electronic
+ newsletter; Kapor says that the prosecution may violate freedom of press.
+ "The first thing that happens is the government goes around busting a
+ bunch of teenagers," Kapor complains," and calls them criminals."  The
+ threat, he warns, extends to virtually anyone who links his computer
+ to others.
+
+        Law-enforcement officials accuse Kapor of romanticizing crooks who
+ are violating the rights of their victims, and most people still think
+ that hackers are a bigger threat than the cops.
+
+/* The same 'law-enforcement' (read: police-brutality) officials also hold
+   that a student fired first at the Kent State Massacre.               */
+
+        But the crackdown has spurred Kapor and such industry legends as
+ Apple Computer cofounder Steve Wozniak to band together behind the new
+ generation.  Their goal: to protect the flow of information and innovation
+ that helped bring about the personal-computer revolution.
+
+/* Unfortunately, Apple Computers' current top executives are working in the
+   opposite direction.  More to come on this.                           */
+
+        Within the next few weeks they will officially announce a new
+ foundation, yet unnamed, intended to combat computer phobia and provide
+ legal aid for some of those snared in the dragnet.  The computer-rights
+ movement has gained support on Capitol Hill, where Sen. Patrick Leahy,
+ Democrat of Vermont, has planned upcoming hearings on how far law
+ enforcement should go.  While advocating some punishment for lawbreakers,
+ Leahy adds, "We cannot unduly inhibit the inquisitive 13-year-old who, if
+ left to experiment today, may tomorrow develop the telecommunications or
+ computer technology to lead the United States into the 21st century.
+ He represents our future and our best hope to remain a technologically
+ competitive nation."
+
+/* Interestingly enough, Dr. Timothy Leary (correct me on the spelling) of
+   'turn on, tune in, drop out' fame holds the same position.           */
+
+        It's not that Kapor thinks he's defending choirboys.  Although
+ some hackers insist they should be able to traipse digitally wherever
+ they please, Kapor says that trespassers should be prosecuted - "I don't
+ want people breaking in where they don't belong."  But he says the
+ zealousness of the investigations is out for proportion to the threat.
+
+/* Somebody should tell this reporter what 'McCarthyism' and 'witch-hunts'
+   are.  There always must be an enemy.  Now that the commies aren't the
+   'evil empire,' the government is being forced to invent new threats. */
+
+        To Kapor, there is more at stake than keeping a bunch of teenagers
+ out of jail.  He cites the case of Craig Neidorf, the University of Missuori
+ student indicted after his electronic newsletter, Phrack, featured the
+ private telephone-company document.  If the government is right in
+ Neidorf's case, says Kapor attorney Terry Gross, The New York Times could
+ have had its printing presses confiscated for publishing the Pentagon
+ Papers.
+
+/* Read that sentence again.  Carefully.                                */
+
+        "Its very, very clear First Amendment implications should threaten
+ all traditional media," says Gross - whose firm, Rabinowitz, Boudin,
+ Standard, Krinsky and Lieberman, represented Pentagon Papers leaker Daniel
+ Ellsberg.
+
+        Not everyone is singing along with Mitch.  Software companies, long
+ angry over "piracy" (passing around bootleg copies of programs), are glad
+ to see the authorities cracking down.  Ken Wasch, executive director of
+ the Software Publishers Association, calls Kapor a friend, but says, "For
+ Mitch to believe that there is a government-sponsored witch hunt going on
+ is completely without foundation."
+
+/* I had to have three people pin me while one beat me senseless in order to
+   stop laughing after reading this!  This is the same person who (with help
+   from [Cr]Apple Computers) is advocating laws in Europe (and soon the USA)
+   to OUTLAW all hardware, software, and publications that could in ANY WAY
+   aid or instruct a person in breaking copy protection (which is a ridiculous
+   concept in the first place) or altering commercial software.  This means no
+   Central Points Option Boards. This means that a PC-Magazine article telling
+   you how to twiddle a bit would land you in jail.  This means that a copy of
+   'Gamemaster,' Copy-II [insert computer type here, e.g. Copy-II-PC], Option
+   Board control software, or character editors would be outlawed.      */
+
+        Gail Thackeray, an Arizona assistant attorney general who deals with
+ high-tech crime, insists the authorities are being mindful of civil rights.
+ She predicts that when the facts come out at the various trials, the cops
+ will be vindicated: "Some of these people who are loudest on the bandwagon
+ may just slink back into the background."
+
+/* After Men In Black show up with pistols pulled and threaten them.  It's
+   happened.                                                            */
+
+        Thackeray dismisses claims that prosecution will shut down legitamite
+ computer networks;...
+
+/* It already has.  Large, public, dial-up UNIX boxes have been seized as
+   'evidence' and never returned without being used in trials because 6K of
+   their 15-megs-a-night of Internet mail happened to be that rewritten E911
+   leak.  Interestingly enough, the document, supposedly valued at ~$79K,
+   contains mostly public information and certainly NOTHING that would enable
+   a so-called 'hacker' to gain access to the system.                   */
+
+ ...she speaks approvingly of one former hacker who told agents that he had
+ quit as word spread of the raids.  "That's not, to me, a constitutionally
+ suspect chilling effect," she says.  "That's what we in law enforcement
+ call a 'deterrent'."
+
+/* I suppose Kent State was a 'deterrent' against free thought. I suppose
+   McCarthyism was a 'deterrent' against proposing reform in our corrupt
+   government. How stupid does she take us to be?                       */
+
+        If Kapor's stance seems surprising, he's used to surprising
+ people.  His 1-2-3 bundle of business tools was an overnight hit, making
+ him a multimillionaire.  Once his Lotus Development Corp. became a giant,
+ he shocked the industry again by walking away; Lotus, he says, had
+ outgrown its innovative beginnings.  "Most of what you do in business is
+ business," he explains.  "I'm interested in business as a medium for
+ creating products."  He is now creating products again at his new firm,
+ Cambridge Mass.-based On Technology.
+
+        Kapor developed the idea for the computer foundation with John
+ Perry Barlow, a writer and self-described "professional techno-crank."
+ Barlow says hackers typically try to sound more dangerous than they
+ really are, a kind of digital vogueing.  He says most live by a "hacker
+ ethic" described by a Phrack essay.  The piece tells prospective hackers
+ to do no harm, because "The thrill of the hack is not in breaking the
+ law, it is in the pursuit of knowledge."  Barlow says if this weren't the
+ case, there would be even more damage to computers.
+
+/* This is very true.  If the people out there would use their knowledge for
+   'bad,' the Internet would go to pot.  Corporate systems would crash daily
+   and NOT because of a root spilling his coffee on a circuitboard.     */
+
+        With the outlines of the organization sketched out, Kapor began
+ calling on friends in the industry.  While some have been reluctant,
+ there was one instant convert: Apple cofounder Wozniak.  Like Kapor,
+ Wozniak walked away from his company when it grew too far past its funky
+ beginnings.  He has since put on rock concerts, gone back for his college
+ degree and taken stabs at high-tech ventures.  Wozniak says a little
+ mischief is important to the quest for knowledge.  He credits his college
+ experience building "blue boxes" (devices for making free phone calls)
+ with honing his hardware-design skills.  He compares electronic trespass
+ to driving a few miles over the speed limit.  There are people who never
+ break any such rules, he says, but adds "do you think I'd want my son to
+ turn out like that, or marry one?  I'd still support him... but I kinda
+ hope he has a a more fun life."  "Woz" pledged to match Kapor's
+ contribution, which helped put the initial funding over $150,000.
+
+        Kapor, captain of his high school math team, has thrown in his lot
+ with the nerds.  He and his allies are attempting nothing less than to
+ keep the ideals of the computer revolution alive.  They hope to turn
+ around a public increasingly resentful of computers and the people who
+ are adept at using them.  "You've got a lot of people who don't understand
+ the present," Barlow says, "and in the absence of understanding, /* and in
+ the face of intense government propaganda */ default to fear...The real
+ disease here is future shock."  Somebody has to stick up for the pencil-
+ necked and the pimply.  Luckily for them, the men who have chosen to do so
+ are filthy rich.
+
+
+                      Great Moments in Mischief
+                      =========================
+                   [The fun timeline, as promised!]
+
+        The word "hacker" once meant any dedicated programmer; lately it's
+ taken on a criminal tone.  Some events that got us from there to here:
+
+ September 1970: John Draper makes free calls with a cereal-box whistle
+        that matches AT&T's tones.  Hence his nom de hack: Captain
+        Crunch. [Wasn't it Cap'n Crunch?]
+
+1986: The Computer Fraud and Abuse Act passes, toughening police powers
+        against hackers.
+
+ February 1990: Four indictments in an alleged scheme authorities say
+        endangered 911 service.  They cite a group calling itself "Legion
+        of Doom." /* The Feds are trying to slap a ~$130000 fine and several
+        years in jail on each of them */
+/*
+ February 1990: Federal investigators confiscate Knight Lightning's (pub-
+        lisher of PHRACK) laser printer as evidence in the E911 trial.
+        Somehow I have a feeling that it's sitting on the desk of the local
+        sherriff, churning out smut textfiles.  Another item that was seized as
+        'evidence' was a story-in-progress that was due in less than a month.
+        They marked a Cyberpunk novel for confiscation as well, but overlooked
+        it.
+*/
+ May 1990: Robert T. Morris Jr. is found guilty of setting loose a "worm"
+        program that stilled thousands of linked computers in November
+        1988.  His sentence includes no jail time.
+/*                          ^^^^^^^^^^^^^^^^^^^^^^                      */
+ May 1990: Operation Sundevil, one of several antihacker investigations,
+        seizes 42 computers and 23,000 floppy disks in 14 cities with four
+        arrests.
+/*
+ June 1990: Government investigators have still refused to give back the systems
+        that they seized as [totally irrelevant] 'evidence' in cases that
+        never have and never will go to trial.  The few systems that _are_
+        returned are very seldom in working order.
+
+ June 1990: Steve Jackson Games is on the verge of going out of business.  When
+        the 'public slavedrivers-*, er, SERVANTS' seized their systems they
+        also seized work-in-progress (GURPS Cyberpunk RPG modules) and the
+        food from the fridge.  Definitely solid evidence there.
+*/
+
+                THIS HAS BEEN A PRODUCTION OF HANFORD BBS
+        CONSTANTLY STRIVING FOR PUBLIC AWARENESS AND ABOLITION OF
+                             AMERICAN APATHY
+-------------------------------------------------------------------------------
+
+ Call Hanford Biohazard Processing and Removal Facility - (503) 629-0209
+  Sysop: Digital Derelict
+   Running: WWIV v4.11
+    Over 500 text files online!
+
+--------------
+
+ 
+ 
+ 
+
+
+X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X
+
+ Another file downloaded from:                               NIRVANAnet(tm)
+
+ Burn This Flag         Zardoz               408-363-9766   V.42bis, 14.4K
+ 
+ &TOTSE                 Jeff Hunter          510-935-5845   9600 HST
+ The Salted Slug        Strange              408-454-9368   2400
+ realitycheck           Poindexter Fortran   510-527-1662   2400
+ Lies Unlimited         Mick Freen           415-583-4102   2400
+ My Dog Bit Jesus       Suzanne D'Fault      510-658-8078   2400
+ New Dork Sublime       Demented Pimiento    415-566-0126   2400
+
+   Specializing in conversations, obscure information, high explosives,
+        arcane knowledge, political extremism, diverse sexuality,
+       insane speculation, and wild rumours. ALL-TEXT BBS SYSTEMS.
+
+      No harassment of callers. We don't want to know who you are,
+   where you live, or what your phone number is. We are not Big Brother.
+
+X-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-X

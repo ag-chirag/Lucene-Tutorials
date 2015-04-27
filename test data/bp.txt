@@ -1,0 +1,444 @@
+this article is from the Boston Phoenix, September 7, 1990
+
+Hackers under attack
+-----------------------
+Crackdown raises questions about new forms of speech
+-----------------------
+by Mark Leccese
+
+	The First and Fourth Amendments (ensuring free speech and 
+protection against unreasonable search and seizure) became dust in 
+the wind on March 1, in Austin, Texas, when US Secret Service busted 
+Steve Jackson Games for no reason anyone can explain. The firm was 
+preparing to market a Dungeons and Dragons-type game called GURPS 
+Cyberpunk when the feds raided its headquarters, seized the 
+computers the company was using both to create the game and 
+maintain a computer-bulletin-board system (BBS) for dialog with its 
+customers. The feds also confiscated software, company records and 
+all available drafts of the book. Law enforcement officials even tried 
+to pry open locked file cabinets with letter openers they found on 
+employees' desks.
+
+	And yet, as Jackson told the Phoenix, "No one connected with 
+the business was ever arrested, charged, indicted or even questioned" 
+after the raid, which put the company temporarily out of business.
+
+	Steve Jackson Games appears to have been an early-year victim 
+of a federal war against "hackers" - persons who gain unauthorized 
+access to other people's computers - that began with a raid in Arizona 
+on May 8 and escalated into a nationwide sweep known as Operation 
+SunDevil covering 14 cities and involving more than 150 Secret 
+Service agents.
+
+	As John Perry Barlow, a Wyoming rancher, expert on computer 
+hackers, and long time lyricist for the Grateful Dead ("I Need a 
+Miracle," "Hell in a Bucket," "Mexicali Blues"), sees it, computer abuse 
+can be divided into three categories: crimes committed by insiders; 
+crimes committed by hackers who steal, say, credit card numbers and 
+long distance phone codes; and gaining of access - just for the purpose 
+of looking around and learning - by computer "phreaks."
+
+	Everyone agrees that the first two are crimes, including the 
+Electronic Frontier Foundation (EFF), an organization co-founded by 
+Barlow and Mitchell Kapor, the Cambridge-based wizard who designed 
+Lotus 1-2-3, to educate the public and the country's leaders about the 
+electronic world, lobby for change, and when necessary take legal 
+action such as filing friend-of-the-court briefs. The controversy 
+surrounds the third category of abuse, which many hackers 
+characterize as harmless high-tech fun. "The government is drawing 
+no distinction" between these kinds of activities, says Barlow.
+
+	The Secret Service held the confiscated material for three 
+months while Jackson tried, in vain, to find out why it had been seized 
+in the first place. According to attorney Sharon Beckman, of the Boston 
+law firm Silvergate & Good, which represents the company, the 
+government's application for a search warrant - which would describe 
+what its agents were after - has never been released. "So far, I haven't 
+heard anything to indicate probable cause," she says.
+
+	The only thing a search warrant authorizes government agents 
+to seize, Beckman contends, is information relating directly to a crime 
+or a criminal conspiracy. The kind of "fishing expedition" conducted at 
+Steve Jackson Games, she says, "is against the Forth Amendment" of 
+the US Constitution.
+
+	After Jackson wrote to his congressmen and, with his lawyers, 
+applied pressure on the feds, most, but not all, of the property was 
+returned - some of it badly damaged. "There's one computer I'm not 
+even going to turn on unless I have a fire extinguisher handy," he 
+says.
+
+	During the time the government was holding on to Steve 
+Jackson Games' equipment, the small business had to lay off eight of 
+its 25 employees, none of whom have been rehired. "They cost us an 
+awful lot of money with their little visit," Jackson says.
+
+	All this apparently for a fantasy game with imaginary futuristic 
+weapons - one Beckman describes as akin to "as James Bond movie. 
+James Bond has all kinds of special tools, too, but the government 
+doesn't close down James Bond movies because they could teach 
+people physical-trespass skills."
+
+	Says Jackson of the government gumshoes: "These people don't 
+have enough expertise to tell fantasy from reality."
+
+	The Jackson raid and the Operation SunDevil forays represent 
+the fed's opening gambit is what many worry could be a major civil-
+liberties debacle. The culprits in these Kafka-esque trials are the ever-
+proliferating digital electronic impulses carried across what is known 
+to computer aficionados as "the net," or, to sci-fi fans, "Cyberspace" or 
+the "virtual" world - a vast and complex web of computer networks 
+that make up the electronic frontier, where nothing exists in physical 
+form but the hardware used to translate the bleeps into information.
+
+	The frontier is unmapped, confusing, and infinitely expandable. 
+Like the 19th-century American frontier, it is populated mostly by 
+earnest settlers searching for new knowledge, but it also has its share 
+of fringe characters and desperados taking advantage of the wide-
+open spaces. With the advent of electronic mail, BBS's and publications 
+that never put ink on paper, technology has out-paced the law. Forty 
+years ago the government saw a Red under every bed; now it sees a 
+hacker behind each keyboard. Over the past two years, the lawmen, 
+led by the US Secret Service, have come crashing across the plains, 
+dispensing frontier justice. Some actual criminals have been arrested 
+and convicted, but the government, in its zealousness and ignorance of 
+this new land, has also rounded up many innocent computer users 
+and, in the process, trampled constitutional rights.
+
+	Notes Kapor, "We get into trouble when we blindly try to apply 
+the laws for physical media to digital media. We have to reinterpret 
+what data and speech and property are."
+
+	The Senate Judiciary Committee is now considering an 
+amendment to the 1986 Computer Fraud and Abuse Act that would 
+create a "recklessness" misdemeanor under which computer users who 
+gain illegal access to a system and accidentally cause damage would be 
+prosecuted. The EFF and the Washington based Computer Professionals 
+for Social Responsibility (CPSC) both back the amendment.
+
+	The most famous example of such "recklessness" is the case of 
+Cornell graduate student Robert Morris Jr., who designed a program to 
+break into the Internet system in an attempt, Barlow says, to map the 
+almost unbelievably complex network (no one knows how many 
+computers are hooked up to it or where they are). But the program 
+written by Morris had a bug in it, and rather than mapping the 
+system, it endlessly reproduced itself on computers around the 
+country, temporarily bringing the Internet system to a halt. No data 
+was destroyed, but valuable computing time was lost.
+
+	"You don't want to send somebody like that to jail for 30 years 
+because he wrote a bad program," Barlow says.
+
+	Barlow - who doesn't say how he'd feel if it were his data being 
+trashed - is not alone in his judgment. Surprisingly, even some in the 
+corporate world that so fears and loathes the new pioneers think that 
+there may be an alternative. (It is obviously in the corporate interest 
+to have information - and the free flow of communication - controlled 
+as tightly as possible; after all knowledge is power and power is 
+money).
+
+	Whatever else you can say about hacking, there is no question 
+that it requires a gifted intellect, cleverness and hard work - all 
+qualities prized and encouraged by American society. So if you can't 
+stop the hackers - and no matter how hard it tries, nor how many civil 
+liberties it steps on, the government doesn't seem able to - why not 
+put them to good use?
+
+	At least one expert from an unlikely quarter agrees. Dorothy E. 
+Denning, of Digital Equipment Corporation (DEC), has prepared a paper 
+to be presented to the National Computer Conference in Washington 
+next month in which she recommends that she and her fellow security 
+professionals "work closely with hackers."
+
+	Denning has a truly novel idea: systems managers who obtain 
+access to a supposedly secure system to leave a "calling card," 
+explaining how they broke in.
+
+	"This approach could have the advantages of not only letting the 
+hackers contribute to the security of the system, but of allowing the 
+managers to quickly recognize the malicious hackers, since they are 
+unlikely to leave their cards. Perhaps if hackers are given the 
+opportunity to make contributions outside the underground, this will 
+dampen their desire to pursue illegal activities," she writes.
+
+	It's hard to imagine the large corporations going along with this 
+clever but quirky idea. "Corporations that feel they've been affected 
+have voiced strong demands for government action," Kapor says. To 
+wit: at least 10 corporations aided the feds in Operation SunDevil.
+
+No sympathy for the Devil
+
+	During Operation SunDevil numerous BBS's were shut down and 
+40 computers and the equivalent of more than five million pages of 
+information were swept up. Since then, there have been many more 
+raids and seizures just as egregious, but they have received less 
+publicity. And the campaign shows no signs of abating.
+
+	With large corporations pressuring elected officials to take 
+action, the law has its work cut out for it. There are tens of thousands 
+of BBS's and national computer networks in this country, and most of 
+them can be interlinked. Log on to one network, and you can travel 
+the globe - and you won't be alone. According to the New York Times, 
+Internet carried the equivalent of about half a trillion keyboard 
+strokes in July alone.
+
+	Anyone with a home computer and a modem can log on to a BBS 
+and join discussions on, say, new computer projects and movies; copy 
+"freeware" and "shareware," software in the public domain; or 
+contribute to talks on topics such as ham radio, the Holocaust, good 
+dinners, or travel in Europe. You can either "post" a message for all to 
+read, or send private electronic mail ("e-mail") to a fellow BBS 
+member or to the BBS's system operator (generally the person who's 
+set up the board). If you've got some kind of computer question, just 
+post it on the BBS and you'll get a dozen good suggestions.
+
+	Or, for a fee, you can hook up to a national computer network. 
+Once connected to the GEnie network (operated by General Electric), 
+for example, you can, among other things, join roundtable discussions 
+on subjects ranging from investments to photography, send and 
+receive e-mail, play on-line games against other members, read up-to-
+the-minute wire-service reports, access an encyclopedia, copy one of 
+hundred of programs, get stock quotes, make airline reservations, and 
+buy jewelry from Tiffany.
+
+	In other words, you could spend the rest of your life wandering 
+around the net and never retrace your steps.
+
+	Of course, these days chances are you'll bump into some folks 
+who have no business joining the club. Following a Freedom of 
+Information Act request earlier this year from Representative Don 
+Edwards (D-California), the Secret Service admitted to Congress that its 
+agents, posing as legitimate users, were secretly monitoring BBS's. And 
+though reading messages posted to the public is not illegal, 
+government agents' reading and most likely making records of BBS 
+conversations is "a little bit like an agent who attends a political rally 
+to get information for a file," says CPSR president Marc Rotenberg.
+
+	Barlow likens a BBS to "a village with a continuous town 
+meeting in progress 24 hours a day." The US government, he says, is 
+"confiscating towns."
+
+	As federal agents scan the BBSs for criminal activity, what other 
+small fish might they catch in their nets? Well, for one, the Secret 
+Service, in response to Edward's FOIA request, admitted it has a new 
+Computer Diagnostics Center, about which Rotenburg paints this 
+frightening picture: the technology is readily available for a computer, 
+purring quietly in a corner 24 hours a day, to scan electronic BBSs for 
+key words like "hacking" or even key name - like yours - and dump 
+every communication it finds with that word into a database. A BBS 
+user, entirely unaware, could have a thousand page file on him at the 
+Secret Service's disposal in a matter of weeks.
+
+	For its part, the Secret Service denies that the agency is 
+undertaking such surveillance, or will. Special agent and Washington 
+Secret Service spokesman Richard Adams told the Phoenix, "The only 
+folks the Secret Service is targeting are those operators who are using 
+or encouraging others in the use of stolen phone-company numbers 
+and stolen credit-card numbers."
+
+	"I can assure you we're not randomly searching bulletin 
+boards," he said. "We're bound by the courts. You've got to have 
+probable cause, as you do in any case, to obtain a search warrant or an 
+arrest warrant."
+
+	But what constitutes probable cause? After all, hasn't the US 
+Supreme Court ruled repeatedly that speech - and even "encouraging 
+others," as agent Adams put it - is protected under the First 
+Amendment unless it is "likely" to lead to "imminent" criminal 
+activity?
+
+	Where, for instance, was probable cause in the case of the 
+much-publicized Phrack imbroglio? Which raises an even more 
+ominous consideration: does corporate status play a role in 
+determining it?
+
+	Say you are a publisher into whose system a stolen document 
+falls (a circumstance roughly equivalent to someone's dropping 
+purloined papers on a newspapers editor's desk). You publish it. What 
+happens to you and your publication?
+
+	If you are Arthur Sulzberger, publisher of the New York Times, 
+you publish the Pentagon Papers. The government tries to take action 
+against you, but the courts, citing First Amendment, stand foursquare 
+behind you.
+
+	If you are Craig Neirdorf, publisher of Phrack, an electronic 
+newsletter covering the hackers' world, you, too, publish a stolen 
+document. You are arrested by the Secret Service, hit with a seven-
+count grand-jury indictment, and the equipment you use to publish - 
+along with all your files - is seized. Your publication is out of business.
+
+	Phrack's document was an internal BellSouth memorandum 
+describing the company's 911 emergency system. In elegant 
+bureaucratese, the document was titled " A Bell South Standard 
+Practice (BSP) 660-225-104SV-Control Office Administration of 
+Enhanced 911 Services for Special Services and Major Account Centers, 
+March 1988." It was plucked from BellSouth's computers and dropped 
+into Neirdorf's system, among others, by a hacker named Robert Riggs, 
+who was indicted and pleaded guilty to this and other incidents of 
+illegal entry. In February 1989, Neidorf, a 20-year-old University of 
+Missouri student, included the three-page document in Phrack. 
+BellSouth claimed the document was worth exactly $79,449 and by 
+being made public could cause potentially fatal disruption of its 911 
+system. Neidorf was busted and indicted on felony charges that 
+included interstate transmission of stolen goods. Earlier this month, 
+the prosecuting US Attorney dropped the charges against Neidorf after 
+his attorney proved that all the information in the document was 
+already in the public domain and that contained much of the same 
+data as the stolen one - and that went into more detail - could be 
+obtained by calling an 800 number and paying $13. Neidorf's lawyers 
+are considering a civil suit against the government. Neidorf, now in his 
+senior year, has no plans to publish another issue of Phrack "in the 
+near future," says his attorney.
+
+	According to attorney Beckman, the government was "blaming 
+Phrack for what other people might do with the information it would 
+publish... It's like a newspaper publishing an article about home 
+security systems that someone would use to break into a house."
+
+	"I don't think the government even thought through the First 
+Amendment implications," she says.
+
+	Not to mention corporate fallout. As Steve Jackson sees it, "The 
+Times was only going up against the military-industrial complex. 
+Neidorf pulled the nose of the phone company."
+
+	Sheldon Zenner, the Chicago attorney who represented Neidorf, 
+says the legal issue raised by the Phrack case - an illegally obtained 
+document appearing on a BBS and the government then seizing the 
+BBS - is likely to recur. The Secret Service's press release announcing 
+the Operation SunDevil raid calls computer users who gain illegal 
+access "a frightening threat" and states that their actions have "serious 
+implications for the health and welfare of all individuals, corporations, 
+and United States Government agencies relying on computers and 
+telephones to communicate." To back up its assertions, the feds add 
+that the telephone companies put their losses to stolen phone service 
+"as high as 50 million dollars" and that hackers have had access to 
+hospital records and "could have added, deleted, or altered vital 
+patient information, possibly causing life-threatening situations." As 
+Barlow points out, that's a mighty big "could" - especially since no one 
+has ever proven that a single patient record has ever been altered by 
+a hacker.
+
+	Why do the powers-that-be so fear BBSs? Mark Worthington, of 
+Cambridge's MacEast BBS, posted a message saying it's out of 
+ignorance, "but I also think they fear them for a much more troubling 
+reason. They rightly perceive BBSs as a place where people can 
+congregate and communicate without physically meeting... A BBS 
+represents the electronic First Amendment right of free assembly, and 
+thus constitutes a political threat to the paranoid and powerful."
+
+	Perhaps the most troubling example of the government's blind 
+zeal concerns the Jolnet BBS, in Illinois. Its operator, Richard Andrews, 
+discovered in storage on his system (again, thanks to Riggs) the 
+infamous 911 document that Phrack later published. He suspected 
+something illegal and asked the advice of a friend, who notified the 
+phone company in an effort to set things right. Government agents 
+shut down the Jolnet BBS and seized Andrew's equipment last 
+December; they still have yet to return any equipment or to charge 
+Andrews.
+
+Ignorance of the law is no excuse
+
+	It was not only Operation SunDevil and the surrounding spate of 
+arrests that prompted Barlow to get in touch with Kapor and found 
+EFF. Barlow's visit from a technically illiterate FBI agent, which he 
+recounts in his article "Crime & Puzzlement" in the fall issue of The 
+Whole Earth Review, sealed in his mind the need to take action.
+
+	"It's not until you get your own visit from an FBI agent that you 
+realize this isn't an abstract problem," Barlow says. "I came to the 
+realization the government was now dealing with things it didn't 
+understand."
+
+	Barlow spent two hours with the FBI agent who'd come to 
+question him, most of it explaining how computers and networks 
+operate. "He took to rubbing his face with both hands, peering up over 
+his fingertips, and saying, 'It sure is something, isn't it?' or 'Whoooo-
+eee,'" Barlow writes in his story. "Or:'My eight-year-old knows more 
+about these things than I do.' He didn't say this with a father's pride 
+so much as an immigrant's fear of a strange new land into which he 
+will be forcibly moved and in which his own child is native. He looked 
+across my keyboard into Cyberspace and didn't like what he saw."
+
+	Kapor and Steve Wozniak, the iconoclastic co-founder of Apple 
+Computers, put up the seed money to establish EFF, which has already 
+issued its first grant: $275,000 to the Computing and Civil Liberties 
+Project of the CPSR. The EFF has filed a freind-of-the-court brief in the 
+Neidorf case, and has hired Silverglate & Good to clarify and articulate 
+the civil-liberties issue at stake on the electronic frontier.
+
+	Kapor is clear about what the EFF is not. "It's not a hacker-
+defense fund," he stresses. "Legally, the big thing now is to figure out 
+what we're going to do about these BBS seizures and the reading of 
+[electronic] mail" by the Secret Service.
+
+	The EFF's purpose, Kapor says, "is to try to ensure that in a new 
+scheme, the public networks will be universal and open, encouraging 
+informational entrepreneurship."
+
+	The "hacker ethic," as it was so brilliantly described by Stephen 
+Levy in his seminal 1984 book Hackers, is about learning, not stealing. 
+(Thus serious hackers' insistence on the term "crackers" for law-
+breakers.)
+
+	"When a hacker breaks into a system, the objective is to learn 
+and avoid causing damage," DEC's Denning wrote in her paper, 
+"Downloaded information [electronically transferred to the hacker's 
+computer] is copied, not stolen, and still exists on the original system. 
+Moreover, information has traditionally not been regarded as 
+property."
+
+Future Shock?
+
+	No matter what the corporations or the feds want, or what 
+restrictive steps they may take, Cyberspace isn't going to go away. If 
+anything, it will expand. One prominent Apple researcher recently 
+predicted that within a few years home computers "50 times more 
+powerful" than those now on the market will be available.
+
+	Moreover, the networks themselves are expected to become 
+more accessible to the general public. To those ends US Senator Albert 
+Gore (D-Tennessee) has proposed in Congress a $1.75 billion bill that 
+would fund a supernet to link the nation's universities and 
+supercomputers.
+
+	Gore's bill is considered a step toward a nascent high-speed 
+national computer network that could potentially reach every home in 
+the country. Such a network, the New York Times noted on September 
+2, could trigger a "technological transformation that will be every bit 
+as profound for America in the next century as the transcontinental 
+railroad was in the last." Such a network would cost an estimated $200 
+billion.
+
+	Surprisingly, sometimes there is encouraging news from the top 
+brass themselves. President George Bush last month removed 
+restrictions the previous administration had placed on computer 
+access to non-classified federal databases and information collected by 
+university researchers and private firms working with the 
+government.
+
+	Given this rapid expansion of boundaries, decisions about how 
+civil liberties will be protected in a world the Bill of Rights' authors 
+could never have foreseen must be made now, by the courts and the 
+government. The law-enforcement community and corporations have 
+so far shown no sign of letting up their technophobic campaign, and, 
+with a few exceptions, civil libertarians seem slow to wake up to the 
+issue. The American Civil Liberties Union, for example, has yet to be 
+heard from in the Operation SunDevil debate, though it has formed a 
+subcommittee on technology.
+
+	The EFF, in its mission statement, recognizes the lack of law and 
+legal precedent in the electronic frontier and warns that "in their 
+absence, law-enforcement agencies like the Secret Service and FBI, 
+acting at the disposal of large information corporations, are seeking to 
+create legal precedents which would radically limit Constitutional 
+application to digital media."
+
+	"The excesses of Operation SunDevil are only the beginning of 
+what threatens to become a long, difficult, and philosophically obscure 
+struggle between institutional control and individual liberty."
+
+*end of file
+
+

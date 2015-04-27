@@ -1,0 +1,186 @@
+Article from the Sunday Chicago Tribune, November 18, 1990
+
+CRACKDOWN ON CRIME IS RAISING QUESTION OF COMPUTER RIGHTS
+
+by Jim Sulski
+
+
+     At dawn on a spring morning, several Secret Service agents, armed with
+guns and a warrant, converged on a Northwest Side home and storefront.
+     When they left, they had seized - not drugs or firearms - but computer
+equipment, including several personal computers, modems, printers, and floppy
+disks.
+     Across the country, several similar raids were taking place as part of the
+federal government's recent crackdown on computer crimes.
+     The targets were not sophisticated, high-powered computers or foreign
+technology.  The government, instead, was aiming and computer bulletin boards,
+which are interactive computer systems that can be run on PCs/
+     Through the bulletin boards, agents were targeting people known as
+"hackers."  They use the boards for illegal purposes such as swapping stolen
+credit card or long distance numbers; posting instructional information, such
+as passwords for breaking into other computer systems; or distributing stolen
+software or electronic information.
+     In the last year or so, the government has stepped up action against
+hackers and their so-called "underground" activities, government officials
+said.
+     The definition of "underground" differs depending on whom you talk to. 
+The government considers  it a network of computer users who engage in illegal
+activities.  Computer industry experts, on the other hand, computer the
+underground to so-called underground theater and newspapers, defining
+participants as enthusiasts who like to explore new areas.
+     A two-year government investigation, called Operation Sun Devil,
+culminated in March with the seizure of several bulletin boards and indictments
+against some of their operators.
+     Sun Devil agents executed 27 search warrants across the country,
+government officials said.  Part of the investigation was spearheaded by
+Chicago-based federal agents.
+     But members of the computer industry and civil liberties experts have
+vehemently opposed the government's actions, saying that the governent has
+overreacted.  They also claim that the government isn't educated to the world
+of bulletin boards and the computer underground.
+     More importantly, they say, the government's actions infringe on 1st
+Amendment rights, and that freedom of the press and the right to publish has
+been granted to paper publications but not to electronic publications.
+     "The danger is that it threatens freedom of speech because it means the
+bullatin board operators or users have to be very careful what they post on a
+board," says Jim Thomas, a professor of sociology/criminal justice at Northern
+Illinois University, DeKalb, and a moderator of the Computer Underground
+Digest.
+     The digest is an electronic journal that was begin in March to serve as a
+vehicle for debate on issues related to the computer underground.
+     "There's a double standard here about what you can say in print or in
+public and what you can do on a bulletin board," Thomas said.  "If I send you a
+note through the U.S. mail, it's privileged.  People can't just walk into the
+post office and confiscate all the letters because I have sent you a letter.
+     "Yet if I send you a letter on E-mail [the federal government's] actions
+indicate they can go in and close down a bulletin board and take all the
+private mail out and read it." 
+     In addition, such action could discourage legitimate activities of law-
+abiding computer users, computer experts said.
+     "It has a chilling effect on speech as far as what people can say to each
+other, publicly or privately," Thomas said.  "It makes people paranoid out
+there."
+     U.S. Atty. William J. Cook maintained, however, that the government
+actually has a very favorable attitude toward bulletin boards.
+     "The federal government is not involved in an investigation of bulletin
+board operations," he said.  "As a matter of fact, the federal government
+operates more bulletin boards than any other single institution in the world,
+both inside various agencies and public service boards.  So we'd be shooting
+ourselves in the foot if we took a broad sweep at bulletin boards."
+     Instead, Cook said, they government is cracking down on the electronic
+vehicles hackers use to traffic and hide stolen information.  These happen to
+be primarily bulletin boards.
+     "For years, hackers hid stolen information on their home computers," he
+said.  "But now they've become more sophisticated and more clandestine in their
+operations.  They have taken to hiding information in other locations, such as
+bulletin boards, university computers and other facitilies where they're able
+to create accounts.  We've even seen hackers hide stolen information on the
+system they stole it from by taking it from one file location to another."
+     Equipment seizures are often the only way to track down stolen computer
+information, Cook added.
+     While acknowledging that some members of the so-called computer
+underground can be dangerous, computer rights supporters claim that most are
+curious but harmless.  Most of those who break into computer systems do it for
+the challenge and not to cause damage, they said.
+     "Generally, I think most of these kids were raised on getting to the next
+level on the Nintendo game and this is just a logical progression of that,"
+said attorney Sheldon T. Zenner of the Chicago firm, Katten, Muchin and Zavis.
+     "They are trying to see what's behind the locked doors," Zenner added. 
+"That doesn't make it right.  But the question is how do you deal with those
+wrongs if there is no harm and no malicious intent?"
+     He said he is concerned that punishment be appropriate to the crime.
+     Zenner was involved in one recent case that he considers a possible
+milestone in the rights of bulletin board operators and users.
+     He represented University of Missouri student Craig Niedorf, 20, who
+published an electronic computer underground magazine titled Phrack.  The
+magazine documented stories about hackers' adventures breaking into computer
+systems.
+     Niedorf was indicted earlier this year on federal charges of wire fraid
+and interstate transportation of stolen property.  His computer equipment was
+seized and, if convicted, he faced up to 31 years in prison and a fine of
+$122,000.
+     The government charged that Niedorf published a BellSouth Co. document
+about their 911 emergency phone service system.  Niedorf allegedly distributed
+copies of Phrack through computer bulletin boards.
+     Niedorf was accused of acquiring the information through a Lockport, Ill,
+bulletin board.  The information had been entered by one of three Georgia men
+who stole it from the BellSouth computer system.  The three men admitted taking
+the information from the BellSouth system and pleaded guilty to computer fraid
+in June.
+     Niedorf wasn't charged with hacking; instead the government centered on
+his role as a bulletin board operator.  However, four days into his trial in
+Chicago in late July, the government dropped all charges after learning that
+much of the information in the document already was available to the public,
+Cook said.
+     As a result of the case, Zenner said he believes the government will be
+"more careful" in charging bulletin board operators with computer crimes.
+     "In their haste to catch the computer criminals, [the government] also
+netted some innocent people," Zenner said.  "But they weren't able to figure
+that out until after innocent people had been indicted and had to bear the
+expense and time of taking it to trial.  And that's the problem of an area
+that's maybe not fully understood by law enforcement."
+     The computer rights supporters noted the following other cases in which
+they claim the government overreacted:
+     In May, Chicagoan Bruce Esquibel, 31, was awakened in his Albany Park home
+by federal agents who had a seizure warrant for the computer equipment that ran
+his bulletin board.
+     Esquibel, who works in the electronics repair business, operated the Ripco
+bulletin board sine December 1983, which, he said, catered to about 600 users. 
+Its subjects included poetry, tips for computer games, and underground computer
+newsletters.
+     The warrants didn't require the government to explain to Esquibel why they
+were seizing his equipment, he said.  "So I have no clue to what specific type
+of material from the bulletin board they were concerned about," he said.
+     Esquibel hasn't been charged with any crime.
+     Esquibel and Zenner, his attorney, however, can only speculate on why the
+government was interested in his bulletin board.
+     "The theory I have is that someone on my system may have been passing
+[though E-mail] credit cards or long distance access codes or some type of
+information that would be blatantly illegal," Esquibel said. "Personally, I
+have no interest in this whole hacking thing.  And the majority of people on my
+board were also never interested in that material."
+     Like other bulletin board operators, Esquibel said he routinely checked
+for information that may have seemed criminal in nature.  But even with regular
+maintenance, such information could remain on the board for a day.
+     In Texas earlier this year, the Secret Service raided the offices of
+computer games producer Steve Jackson and confiscated some of his equipment. 
+Again, the warrants kept the nature of the seizure secret, computer experts
+said.  Computer rights supporters believe the government thought Jackson was
+producing a manual for computer crime.  Jackson said he was creating a role-
+playing game about computer espionage called Gurps Cyberpunk.
+     Jackson also wasn't charged with any crime, and his computer equipment was
+returned to him.
+     Computer industry and civil liberties experts have begun to resist the
+government's actions.
+     Partially because of the Niedorf indictment, several computer executives
+in July formed the Electronic Frontier Foundation to lobby for 1st Amendment
+protections for computer bulletin boards and newsletters and to stop what they
+consider intrusive law-enforcement techniques.
+     Founders of the organization include Mitchell Kapor, creatore of software
+manfucaturer Lotus Development Corp., and Steven Wozniak, co-founder of Apple
+Computer Inc.
+    The establishment by NIU's Thomas and sevel others of the Computer
+Underground Digest was a more grass-roots movement.  "I became angry at the
+hyperbole," Thomas said.  "I was attracted to this by the sense of injustice. 
+Then the rights issues began to emerge."
+     Zenner said those groups are bringing attention to the question of rights
+for bulletin board operators and users. "But the courts have not really
+addressed that issue," he said.  "And that has made bulletin board operators
+very nervous."
+     Computer rights supporters believe that policies on seach and seizure and
+laws defining computer-related crimes and issues that need to be addressed.
+     In addition, they believe law enforcement agents need to become better
+educated about computers and how they work.  "That will make sure that not only
+innocent people like Niedorf won't get charged in the future but will also
+ensure that people who are committing the crimes and successfully investigated
+and prosecuted," Zenner said.
+     "The difficulty is that many times the [bulletin board] system
+administrator doesn't exercise the kind of discipline on the board that lets
+the investigators know with assurance that the information is limited solely to
+one area," Cook said.  "Often a hacker will dump things into other people's
+accounts.  In that case, the investigators, in order to seize the evidence, are
+going to have to seize the entire memory of that computer operation."
+     In contrast to a post office or printing plant, Cook said a personal
+computer "is infinitely more flexible.  With computers you can store
+information in numerous places, and there is a divergence of places where it
+can be stored and dumped."

@@ -1,0 +1,216 @@
+Multimedia - worse than Tomorrow's Schools?
+
+This is a column from an issue of Macworld, about the dangers of the
+upcoming multimedia 'revolution'. I think it's important to be aware of
+just what may lie behind the hype and marketing. Think.
+
+With thanks to Mark Norman, who typed it all in....
+------------------------------------------------------------------------------
+THE END OF LITERATURE
+Multimedia is Television's insidious offspring.
+
+By Steven Levy
+(C) 1990 Macworld Communications Inc.
+
+    Multimedia has become a certified buzzword in computerdom, so much 
+so that the only people who's heads don't drop to the table when that word is 
+intoned are those who have something to sell. At the heart of the instant 
+boredom concerning this presumably exciting concept is overhype. The 
+promise of multimedia is just a little too far ahead of what Macintoshes 
+(and other PC's, including those of IBM, a company also touting multimedia 
+as the platform of the future) can presently deliver. And besides, in the 
+mantra-like repetition of the word, its definition has fuzzed to the point of 
+near-meaningless. What is multimedia, anyway? Should we care?
+    We should care very much. Because despite its vague beginnings, 
+multimedia is just as potent as its myriad promoters say it is. The forces of 
+history almost dictate that it will succeed, and in the not-distant future, 
+multimedia will be so easy to produce that it will be pandemic as a means 
+of communication.
+    But no one, at least to my knowledge, has anticipated the potentially 
+disastrous effects of multimedia's success. So please say you read it here 
+first: multimedia will hasten the end of literacy. Despite the fact that its 
+promoters are almost universally well intentioned, multimedia's lasting 
+legacy will be the debasement of the remaining forms of communication in 
+this country that have not already been debased by the perpetually widening 
+gyre of television.
+
+Tale of the Tube
+    First of all, let's consider the nature of multimedia. Once you strip it 
+bare of its considerable pretensions, multimedia is essentially one thing: 
+computer applications that aspire to being television. Once you add video-
+quality images, high resolution animation, and high-fidelity sound to 
+computer files, you've got your MTV. That's why some folks are calling this 
+Desktop MTV. (Wimps call it Desktop Media - same difference.) Presumably, 
+these multimedia capabilities aid the user in communicating and learning.
+    But this is a different form of communication we're talking about, 
+something that, according to Business Week magazine, "could change the 
+way people work, learn and play." How is multimedia different? With colours 
+and pictures and noises and motion, it's oriented not to the mind, but to the 
+senses and the gut - like television. Multimedia disregards the previous 
+communications paradigm: the person as reporter, blending logic, language 
+and perhaps illustrative charts in order to inform or compel. The new 
+paradigm sees the user as a television director, most often one who works 
+in the advertising business.
+    The result is a debasement of content, because the language of 
+television, as convincingly argued by New York University professor Neil 
+Postman in his book "Amusing Ourselves to Death" (Penguin, 1985), is 
+inherently incapable of promoting complex discourse - style _always_ 
+overwhelms substance. Postman writes, "Television's conversations 
+promote incoherence and triviality...the phrase 'serious television' is a 
+contradiction in terms...and television speaks in only one persistent voice - 
+the voice of entertainment."
+    Entertainment, of course, is the bottom line of multimedia. Just 
+listen to its promoters. (Most of them are marketing men like John Sculley.) 
+Invariably they describe these innovative modes of expression as "exciting" 
+or - the most common description of all - "sexy". These adjectives are 
+applied regardless of the content of the concepts or facts to be processed 
+through the multimedia mill. Multimedia deals solely with the style in 
+which information is conveyed. Thoughts are permitted, but they can't look 
+like thoughts - you have to dress them up like showgirls. Sooner or later you 
+realise that you communicate more effectively in this medium if you ditch 
+complex thoughts altogether.
+    The ethos of multimedia was unwittingly expressed recently in a New 
+York Times op-ed piece written by Robert W. Pittman, the television 
+executive who created MTV. He argues, in essence, that the postwar 
+generation of so-called TV babies have grown accustomed to, indeed are 
+entitled to, the short-term, emotion-geared, nonintellectually engaging 
+forms of discourse exemplified by television news and music video clips. 
+Pittman suggested that politicians and educators should use even more of 
+this form of communication. He wasn't speaking of computers, but 
+multimedia fits right into his vision: it stretches the ability of computers 
+to cater to the short attention spans and nonlinear thinking processes of 
+nonliterate TV babies. Thus we face a future where our business reports and 
+school papers aspire to the communicative standards of a Def Leppard clip 
+in MTV heavy rotation.
+
+Will It Fly?
+    We  see a good example of this TV baby communication in the 
+justifiably excoriated Apple advertising campaign in which some would-be 
+geniuses in some corporation hatch the idea of a "helocar," and  proceed to 
+convince their bosses to give the project a thumbs-up. What bothers me 
+about the ads is that by using multimedia to illustrate the concept - making 
+a kinetic report chock-full of exploding charts and flying vehicles - the 
+main effort is spent not in doing the hard work of figuring out whether or 
+not the thing will literally fly, but in creating the sexy images that will get 
+their bosses all heated up about the concept. What makes the workers 
+successful is not the idea, but the flashy presentation. Who cares whether 
+the helocar makes financial sense? Look at it fly!
+    Essentially, the ad campaign views workers, even engineers, as 
+marketers whose job it is to sell ideas to their superiors. That may be a 
+valid interpretation of part of an engineer's job, but placing the heavy 
+artillery of Madison Avenue in the hands of an engineer will likely do much 
+more harm to the process than good. Those tools are effective precisely 
+because of their ability to bypass logic and access emotion. The victory goes 
+to the engineer who can make the best commercial - not the best vehicle.
+    This process almost guarantees that choices will be made on 
+irrelevant criteria. To quote Neil Postman again, "The commercial disdains 
+exposition, for that takes time and invites argument. It is a very bad 
+commercial indeed that engages the viewer in wondering about the validity 
+of the point being made...Moreover, commercials have the advantage of vivid 
+visual signals through which we may easily learn the lessons being taught. 
+Among those lessons are that short and simple messages are preferable to 
+long and complex ones; that drama is to be preferred over exposition; that 
+being sold solutions is better than being confronted with questions about 
+problems."
+    This is what we want to introduce as the standard means of 
+communicating? Obviously, yes. Catherine Nunes, in charge of multimedia in 
+Apple's publishing, presentation and audio visual markets, told me that it 
+was "very likely" that the writing tools of the future would be able to 
+process sound and video images as well as words.
+
+Lowering Higher Ed.
+    If multimedia in business isn't bad enough, consider the potential 
+effects of multimedia in education. Here again, this platform is being touted 
+as a beneficial revolution. No on has bothered to ask, "What are we 
+revolting against?" The answer, of course, is reading and writing. Implicit 
+in all the hype about multimedia is the premise that language alone just 
+doesn't cut it. Those still nourished by this antiquarian activity may argue 
+that the ability to express oneself in words, and to understand the words of 
+others, is essential to the process of thinking. But multimedia laughs at 
+that objection - because multimedia, like its progenitor, television, is 
+designed to entertain, at the cost of thinking.
+    Let's look at a multimedia project geared to the education market: the 
+ABC-TV products that utilise television news footage of important events, 
+such as the presidential elections, or the Middle East crisis. Presumably the 
+product's purpose is to amplify the failings of the written word. As Doug 
+Doyle, Apple's manager of multimedia solutions for higher education, puts 
+it, "Traditionally, we thought that information resides in the library - in 
+books. But that's not true any more." Multimedia is a way to capture that 
+information and, as Doyle says, "add value" to it by including it in the 
+learning process.
+    That seems to make some sense, but is the gain sufficient to 
+overcome the danger that the images will overwhelm everything else? Take 
+the ABC product dealing with the Middle East. Presumably, by interacting 
+with a multilinked set of video clips loaded with key images and sound bites 
+from the Holy Land, the student gets a deeper understanding of the situation. 
+Actually, since the language of television is the main form of 
+communication here, and the student is encouraged to browse the material 
+by accessing a subject here and a subject there, a lack of context is almost 
+guaranteed. Some of the clips are quite dramatic but lack a full explanation 
+of the circumstances under which they were taped.
+    In order to get full use of the system, each student needs to spend 
+unhurried time with a Macintosh, a video monitor, and a laser disc player. 
+(Apparently one advantage of multimedia over book learning is that the 
+former generates significantly higher revenues.) Once installed before a 
+machine, students are encouraged to create their own reports on the system. 
+Drawing on the culture of TV babies, these reports are not driven by 
+language or reasoning, but by the accumulation of vivid images. The students 
+are literally asked to perform the function of a television news producer, 
+splicing clips together for maximum impact. And clever students will soon 
+learn, as clever television producers understand all to well, the facts of 
+dealing in a visual medium: one dramatic image, even if misleading, 
+communicates more effectively than an interesting idea without a 
+compelling picture accompanying it. It's history by sound bite. Doug Doyle of 
+Apple insists that responsible teachers will prevent this from happening, 
+but in light of our national experience with television - which has 
+trivialised literature to sitcoms and transformed our politicians into 
+pitchmen - this seems rather optimistic.
+
+If Books Could Talk.
+    Recently I spent a session with Marc Canter and John Scull, the two 
+key executives of MacroMind. They guided me through an impressive tour of 
+their newest version of Director, a program designed to enliven information, 
+multimedia style. Canter was frank in admitting that, given the present 
+state of computer power, the only way Director and other powerful 
+multimedia tools can be implemented is in expensive machines with 
+relatively hard-to-use applications. Even so, those who do this type of work 
+anyway - art directors and advertising people and television graphics folks 
+- will currently find a Macintosh to be a cost-effective tool. I see no 
+problem at all with lowering the cost of tools to people already involved in 
+this form of show business, and MacroMind is doing honourable work in this 
+regard. Likewise I think that multimedia capabilities have real value when 
+used in areas such as scientific visualisation.
+    But Canter and Scull were both gushing about the not-too-distant day 
+when our Macintoshes will be more powerful, and their software will be as 
+simple to use as a Nintendo machine. At that time, they guess reasonably, 
+multimedia will be as accessible to ordinary users as, say, word processing 
+is to people today. That will be the day when multimedia will be utilised in 
+many instances where previously, logical communication sufficed quite 
+nicely - except for the fact that one had to be literate to participate. Marc 
+Canter believes that ultimately, multimedia will make significant inroads 
+in replacing the beleaguered holdouts of communication, those dinosaurs 
+that refuse to yield to pictures and sound...you know, books.
+    Earlier, Canter and I had been talking about my current book project. 
+As with the previous ones, I proceed with my research on the assumption 
+that any images I collect in addition to the the realms of written and spoken 
+material I gather will be conveyed only by my language. The finished project 
+will be a bound stack of pages consisting of words, accessed a page at a 
+time. Canter is convinced this process will be improved upon. "Steve," he 
+said, bursting with enthusiasm, "I really believe that ten years from now 
+you won't be writing a book in that traditional way. In ten years, books won't 
+be written only in text - they'll be done with sound and video and images, 
+and people will access it by links, not start to finish."
+    Multimedia fulfilled: a world where sensory input is king. Where 
+writing is replaced by "authoring." Where the techniques of sneaker ads "add 
+value" to charts and spreadsheets, and a thousand words die with every 
+picture. Words we could have used. Words that bind a reader and a writer, 
+words that bear rereading, words that when carefully unraveled detonate 
+fireworks inside the mind and change lives.
+    Canter couldn't have meant this, could he? Yet, he said it - within a 
+decade, books are going multimedia.
+    "What you don't understand, Mark," I said to him, "is that you're 
+describing my nightmare."
+________________________________________________________________________
+Steven Levy is a Macworld columnist and author of "The Unicorn's Secret: 
+Murder in the Age of Aquarius" (NAL, 1989).
+

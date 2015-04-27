@@ -1,0 +1,228 @@
+
+
+Printed in Popular Communications November 1992 issue.
+Page 4 
+By Tom Kneitel, K2AES
+
+
+You say that someone overheard your cordless telephone and
+learned your bank account number?  Ho boy!
+
+You claim that despite a federal privacy law your cellular
+phone was monitored but someone who told your boss you said he
+was  a skinflint?  Whoa, but who cares?
+
+You tell me that some 16 year old got your company computer's
+security password from a BBS, then used it to open a $5000
+credit line charge account for himself?  Hey, I'm all choked up.
+
+Every couple of years a few computer hackers get caught and
+are written up in the newspapers.  That triggers yet another round
+of astonished revelations on the tabloid TV shows. the indignant
+show hosts act mortified at learning some of the computer files
+that hackers have been able to invade.  This invariably includes
+financial and educational records, court
+and police information, scientific data, and national defense
+data.
+
+This ritual of hacker discovery takes place regularly every
+two or three years.  Each time it's as if none of these
+practices had ever before been made known to the public.
+We are asked to have limitless pity for those poor owners of
+those computers whose private and sacred data has been
+ruthlessly  violated at the hands of marauding cyberpunks
+with their evil computers.
+
+Another round of this drivel appears to be in progress now.  I
+recently saw a replay of the entire scenario right down to
+Geraldo Rivera on TV discussing computer hackers.  With a face
+of stony seriousness, it was as if he had personally
+discovered the first young hacker ever captured alive and
+forced to confess his many sins in front of a TV camera.
+Personally, I thought the hacker came across a lot better than
+did Geraldo.
+
+Despite this continuing negative public relations campaign to keep
+the world living in dread fear of hackers, I'm still not
+sold on the need to immediately sign up for the tar and
+feather brigade.  In fact, methinks I smell a red herring.
+I'm beginning to suspect that all of this medial coverage
+consists of nothing mote than the chintziest possible way of
+finding convenient scapegoats to blame for the failure of the
+nation's data security systems.
+
+Somewhere along the line someone forgot that it's the
+responsibility of those wanting security to sufficiently
+upgrade their own technology to the point where it works.  The
+Primary responsibility for providing computer security can't
+be relegated to third parties on the basis of expecting they
+will offer security simply by ignoring the tempting and easily
+accessible data because they are told it's "illegal" to
+access, and because they should realize that it's not nice to
+snoop.
+
+That logic doesn't wash.  That system of security can't work.
+Why should it work for those seeking security for their
+computerized data?
+
+In the July '92 issue of U.S. Naval Institute Proceedings,
+there was a feature on C4I by Robert David Steele, Assistant
+Chief of Staff (in charge of C4I- command , control,
+communications, computer, and intelligence) at Headquarters,
+U.S. Marine Corps.  He stated "The inherent danger in a
+necessary but risky strategy of reliance on commercial
+communications and computer equipment-to transmit much of our
+operational logistics, personnel, and even intelligence
+information. around the globe- exacerbates the targeting-data
+and mapping shortfalls.  The Marine Corps is off the limb and
+out in free fall when it comes to vulnerability to our C4I
+links...Our reliance on commercial satellites and ground
+switching stations leaves us wide open to total shutdown of
+our communications, and complete penetration of our
+administrative and logistics computer systems by any skilled
+hacker."  He noted that this was the weakest and most
+neglected, C4I link in the Marine Corps.
+
+The man spelled it out very well.  If commercial
+telecommunications landlines, satellites and other facilities
+are to be relied upon, then they can be penetrated by skilled
+hackers.
+
+And have you noticed that the majority of skilled hackers you
+learn about from the media are young adults or even teen age
+hobbyists using home computers?  Some of these hackers are
+benign  and merely curious, others just like the challenge of
+seeing how many systems they can invade.  Sure, there are also
+pranksters, plus a sprinkling of those who are truly
+malicious.  The media seldom mentions the really dangerous
+professional computer security violators-those involved in
+industrial espionage , or who work for foreign governments,
+international drug cartels, terrorist groups, and organized
+crime.  Nevertheless, benign or malevolent, hobbyist or
+professional, all who snoop through presumed secure computers
+have the potential to steal, modify, or destroy all kinds of
+data.  That this can still so easily be accomplished seems rather
+astonishing at this point.
+
+Underground BBS's offering information on these techniques are
+popular and known to all who wish to seek out the information.
+
+The data in the computers that hackers are accused of
+accessing is just sitting there.  It's tempting, tantalizing,
+juicy, ripe and practically crying out to be called up.  To
+some amateurs and computer hobbyists, this is what amounts
+to an "attractive nuisance", similar to a swimming pool of a
+high tension electric tower.  Attractive nuisances are
+potentially dangerous, but desirable and easily accessible
+things that require a fence or other security measures, lest
+the owner be declared negligent.  Every individual, industry,
+and government entity is responsible when they create and
+maintain an attractive nuisance.  They can post all of the "No
+Trespassing" signs they want, but they still must have
+safeguards such as fences.  If their safeguards are violated,
+the owner of the attractive nuisance can still be considered
+to have been less than diligent in keeping out intruders.  The
+intruder may be only minimally held responsible for getting
+through.
+
+Somehow, though, the communications industry is unique in that
+it gets off the hook with being responsible for its many
+attractive nuisances.  A "No Trespassing" sign is hung up, and
+intruders are considered to be in the wrong after that.
+
+Common sense dictates that those wanting or needing real
+security have no right to fall back upon low tech public
+access telecommunications systems, then cry "foul" when the
+security systems don't work for them.  This includes all
+categories of governmental users, including the military.
+Maybe they'll have to hang up and use circuits closed to the
+public.
+
+Those business firms, universities, government entities, and
+others who demand tight security but need to or elect to
+remain connected to the public access telecommunications
+system are going to have to get better security advice, and
+more efficient programs.  Don't want to?  Then they can and
+will continue to have their data exploited by outsiders.  They
+must tolerate it without complaining.
+
+It's hard for me to have very much pity for multi-million
+dollar companies, or the federal government when I hear about
+their broached computer security.  Not when I learn that it
+can be zapped by a hobbyist with a personal computer and a
+program that was downloaded from a BBS.  I don't quite go so
+far as those hackers who claim that they're performing a
+public service by pointing out the security loopholes in
+computer security systems.  The main service they are
+performing is in embarrassing those folks in charge of
+computer security.  This is a service that is hardly
+appreciated, and is undoubtedly what has sparked their
+hilarious and hysterical media diversionary blitz and
+smokescreen on the evils of hackers
+
+My own policy on cellular and other comms has been that if you
+want privacy, it's solely your responsibility to assure that
+you take whatever steps are required to cause your system to
+be secure from outside interception.  The responsibility can't
+be effectively dumped onto third parties either by
+legislation or by appeals to public ethics and good-will.  So
+let it also be with the data stored in computers.
+
+I'm not an advocate for computer hackers, or for hacking-
+quite obviously some of it has resulted in damage to and theft
+of data.  But let's be at least a little fair bout this
+ridiculous media overkill relating to amateur hackers.  How
+about sharing some of the blame by shifting the complete focus
+off the hackers?  Let's also see groups of these inept and
+impotent computer security experts dragged out in front of the
+tabloid TV cameras to own up to the public about their total
+inability to protect data about you and I, and on national
+defense, stored in and exchanged between public access
+computers.
+
+How about asking financial institutions, business, and
+governmental agencies to explain why the data they are
+supposed to be holding in trust?  And, forgetting about the
+hobbyists, let them admit to the potential threat to their
+stored data from terrorist groups, foreign governments,
+organized crime, and other high powered professional operations.
+Nobody wants to talk about any of these things.  If the public
+ever learned the real threats to stored data, they would no
+longer be too worried about amateur and hobbyist hackers.
+
+Hobbyist hackers have been around for more than a decade.
+It's really time now to stop the crocodile tears for the
+government and big companies that get their data rifled by an
+image of *Billy Whizbang* and his souped up *Commodore 64*.
+If companies and agencies are so stupid and lazy that they
+still can't protect important and vital data, then what they
+deserve is our anger and derision, not public pity.  The
+public, in turn, needs some real answers instead a of a lot of
+garbage blaming it all on teenage hackers.
+
+Fifty years ago, young people reacted to attractive nuisances
+by swimming in a neighbors's pool while the people were on
+vacation.  Or they stole the bell from the town church.
+Today, maybe they are into computer hacking instead.  These
+are bright and creative people-let's not forget that.  One the
+one hand, people complain young people wrecking their brains
+on drugs and loud rock music.  Hobbyist hackers are young
+people who aren't spending money on drugs and rock CD's
+(typist's note...I have a LOT of rock CD's).  Take your choice.
+
+We aren't condoning computer hacking.  Certainly the practice
+must be monitored and discouraged until the computer industry
+can find some people intelligent enough to devise valid
+security systems.  But we should be mindful that in a few
+years, these young hackers are the bright people who will be
+on the cutting edge of developing future technologies.
+Instead of getting bent all out of shape about their
+undirected curiosity, let's think about trying to channel
+their talents and interests into more constructive
+directions!  In all fairness, we can't allow the inept
+computer  security industry make them sound too evil when,
+after all, hackers are (at worst) no more than a small part of
+the computer security problem. 
+ 
+Retyped for your pleasure by BMO (scanners?  BAH!)
+

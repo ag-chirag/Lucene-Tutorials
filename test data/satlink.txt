@@ -1,0 +1,99 @@
+
+Historians and politicians continue to debate who
+won the Gulf War, but anyone glued round-the-
+clock to their TV set will tell you the v-inner vvas
+CNN. With its live, raw, and riveting coverage, Ted
+Turner's 24-hour Cable News Network became the
+information source for an international audience that
+included everyone from competing news organizations
+to Saddam Hussein.
+For many of its live visual reports, CNN relied on on~
+of its four mobile satellite communications systems,
+also called transportable earth stations, or "flyaways."
+The flyaways accept signals from standard video cam-
+eras and include video and audio processing equip-
+ment, a dish antenna for transmitting the signals via
+satellite, alld amplifiers for powering the system.
+~lobile satellite technology has been in use at CNN
+
+since 1984, according to Dick Tauber,
+director of satellites and circuits for
+CNN. But the recent de~Telopment of
+more compact earth stations, with
+smaller antennas that broadcast on th~
+higher-frequency Ku-band rather than
+C-band, has increased the systems'
+mobility and has cut the amount of
+time it takes news crews to set up and
+link up with a satellite. What once too]
+nearly a day now takes a few hours,
+he said.
+"The C-band transportable earth sta-
+tions took up a lot of cargo space - you
+needed a large truck, an 18-wheeler,
+
+because of the great big antenna," Tauber said.
+With Ku-band flyaway systems, antenna sizes have
+shrunk to about six to eight feet, compared with the
+more than 100 feet needed for C-band communications.
+The 13 components of the S-l Flyaway weigh less than
+100 pounds each and fit into crates approved by the
+Federal Aviation Administration.
+FAA approval is a major selling point for the technol-
+ogy - instead of sending the flyaways as freight using
+cargo services, "we can ship the vv-hole thing as excess
+baggage on a commercial flight," Tauber said. "NOVV
+everything hits the ground at the same time: crew,
+reporters and a dozen or two boxes."
+The flyaways sell for between $200,000 to $340,000
+and are approved by the Washington, D.C.-based
+International Telecommunications Organization
+
+(Intelsat), a 25-year-old cooperative of more than 120
+member countries who ovvn and operate a global com-
+munications satellite system. "It's the concept of the
+global village," said Arnold .~leyers, manager of broad-
+cast services for Intelsat. "If anything happens in a
+country, there's more interest in seeing pictures live. "
+During the Gulf War and the tense period preceding
+it, CNN found itself competing with news organizations
+that also had deployed earth stations for live broadcasts.
+It had to move quickly to contract for satellite access
+time with the Iraqi, E~uwaiti and Saudi Arabian govern-
+ment ministries responsible for handling Intelsat com-
+munications services - a logistical nightmare Tauber
+described in one word: "Maalox."
+Today, three of CNN's flyaways are based in Atlanta
+and a fourth is stationed in London. "Before the war,
+
+there vvere 30 to 40 licensed transportable flyaways
+around the world," Tauber said. "But by the time the
+vvar was over, there were 130."
+Along with the flyaways, CNN has been issuing
+portable satellite phones to its news teams, Tauber said.
+With these phones, CNN reporters and crews in the
+field are virtually guaranteed an open channel of com-
+munication with more than l 5 foreign bureaus and
+CNN's Atlanta headquarters.
+But no matter how successful its satellite communi-
+cations solutions have been, CNN continues to explore
+even better ways to provide live coverage from news
+scenes around the vvorld. Tauber's group is watching
+the development of new digital video technologies,
+including video compression, that will make it possible
+to send live video over the telephone.
+One of the most promising of these technologies is
+Motion Picture Experts Group (MPEG), a video and
+audio compression standard expected to be finalized
+later this year. C-Cube Microsystems, a San Jose, Calif.-
+based compression systems developer, and Bell Atlantic
+have already demonstrated a prototype MPEG-based
+system capable of transmitting high-quality video from
+a central video file server to subscriber homes via stan-
+dard copper telephone lines.
+Tauber believes it will be three to five years before
+digital video technology will be cost-effective and
+capable of handling the netv--ork's broadcast-quality
+requirements. But he's not worried about the wait.
+"Time flies when you're doing bench tests," he
+said with a laugh. - - -

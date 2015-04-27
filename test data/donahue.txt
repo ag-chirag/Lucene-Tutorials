@@ -1,0 +1,464 @@
+THIS TRANSCRIPT SURROUNDS AN INCIDENT WHERE AS ONE OF P-80'S MEMBERS ACCESSED
+TRW AND GOT THE CC NUMBER OF A NEWSWEEK REPORTER AND POSTED IT HERE AFTER
+RICHARD SANDZA (NESWEEK REPORTER) HAD WRITTEN A NASTY ARTICLE ON THE SUBJ
+OF HACKERS. A SPECIAL WAS ALSO DONE BY W57TH ST SHOW (CBS), A TRANSCRIPT OF
+THAT SHOW IS ALSO AVAILABLE ON P-80.
+
+
+
+
+TRANSCRIPT: PHIL DONAHUE SHOW
+       Aired March 15, 1985
+
+     EDITOR'S NOTES: This is an annotated transcript of the
+highlights of "The Phil Donahue Show," which dealt with
+computer communications and its ramifications. The New
+York-based syndicated television show aired this morning in
+many parts of the country.
+     Donahue's guests for the discussion were Richard Louv,
+author of a book called "America II: The Book that Captures
+Americans in the Act of Creating the Future" and Newsweek
+journalist Richard Sandza, who has reported on the exploits of
+computer "crackers." 
+     Also on the show were demonstrations of the CompuServe and
+Source networks and regulars of the networking community,
+including Chris and Pam Dunn of the CB forum and subscriber
+Bill Steinberg.
+     This file is quite long -- about 20K. For best results,
+we'd suggest that you "scroll" it by entering S at the next
+prompt. CONTROL S will freeze the display; CONTROL Q will
+resume it.)
+     Now, the show begins. The transcript...
+
+     PHIL DONAHUE (to the audience): Do you know who can access
+a computer to find out how much is in your checking account?
+How many times you've been divorced? Whether or not you watch
+dirty movies? I'm telling you.
+     UNIDENTIFIED WOMAN IN THE AUDIENCE: Not true. Not true.
+     DONAHUE: Whether you're bankrupt?
+     THE WOMAN: Yes...
+     DONAHUE: Who you owe money to. You know what else they can
+do? They can get your credit card.
+     THE WOMAN: Yes, but not if you're careful.
+     DONAHUE: I don't know if it matters about being careful...
+(turns to the stage to introduce guests)
+     DONAHUE: This is Richard Louv. He's written a book
+entitled "America II" ... This whole Orewellean thing is not
+funny. You know that people are falling in love with computers.
+I mean, with each other. There's X-rated computers. (Laughter)
+I'm telling you and you're laughing.
+     LOUV: (When) I got interested in this whole thing, I
+(visited some bulletin boards and)...it's a good thing my
+computer has a fan on it. I was up late one night and all this
+X-rated stuff started coming up on my screen, I mean really
+hardcore.
+     DONAHUE: You're talking about dirty language. Not
+pictures?
+     LOUV: No, but it's a form of mating. (Laughter) There's a
+lot of computer sex out there.
+     DONAHUE (to the audience): You know what they do? They
+have hot tub parties...Everybody's got a nickname and then if
+you connect with somebody during this party, you and that other
+person can go off by yourself onto this private channel, have a
+little more X-rated conversation, and then if you want, go back
+to the hot tub party. (Laughter) I'm telling you.
+     LOUV: And there are hundreds of these computer bulletin
+boards that are sexually oriented...
+     DONAHUE: The problem is: 14-year-olds are doing it....
+     DONAHUE (introducing second guest) Let me tell you what
+happened to a Newsweek reporter. This is a real live computer
+victim here. Richard Sandza was doing a piece for the
+magazine...
+     SANDZA: Yes, I did a piece talking about these bulletin
+boards ... (to say) "Here's what's going on. There are these
+bulletin boards and kids are using them to exchange illegal
+information (such as) how to get your credit card." ...And they
+came after me because they felt I had broken some sort of
+pledge and told too much about their underground.
+     DONAHUE: And you had a 'teletrial,' didn't you?
+     SANDZA: I was put on teletrial, which is somewhat like the
+hot tub parties, only I think I was going to be boiled in oil
+in this one.
+     DONAHUE: A jury and testimony and everything?
+     SANDZA: Yes, they set up a bulletin board and people would
+call in and place charges against me and say why I should be
+punished. I was allowed to defend myself.
+     DONAHUE: You were also getting hostile phone calls at
+home? They got your phone number?
+     SANDZA: They got my telephone number and began calling me
+at home at all hours of the day and night. The worst thing they
+did was they dialed into (a credit card company) and got the
+whole list of my credit card accounts. They passed the credit
+card numbers around the country and then they started using the
+credit cards.
+     DONAHUE: Your wife... you both must have been very, very
+frightened by all of this.
+     SANDZA: Well, this started on the day my wife went into
+labor with our first child and I called the phone company from
+the maturity ward to make sure my telephone wouldn't be
+disconnected, as they had been threatened. They threatened to
+blow up my house. I didn't know whether to take this seriously,
+but I had seen messages (on bulletin boards) on how to make
+letter bombs, nitroglycerin, pick locks, all these other
+things, all the things necessary to blow up my house in San
+Francisco.
+     DONAHUE: Neo-Nazis have computers.
+     SANDZA: They keep track of their hit lists and pass around
+information so they can keep track of their enemies.
+     LOUV: Yes, that's a national network. Any one of you can
+call into the Neo-Nazi's bulletin board, if you have a
+computer.
+     SANDZA: Yes, if you want some hate mail, just dial in.
+     DONAHUE: The KKK is talking to each other on bulletin
+boards. A 14-year-old ... was apparently able to transmit how
+to make nitroglycerin.
+     UNIDENTIFIED SPECTATOR: How do you protect yourself from
+this.
+     SANDZA: I'm not sure you can protect yourself from this.
+Credit bureau computers are kept so all of us can have credit
+cards and they have information on just about...every adult in
+the United States. The security's not (even) good enough to
+keep these kids out.
+     LOUV: I talked to one guy who gets into these (systems)
+and he says that the TWR computer system is incredibly user
+friendly.... I asked TRW about this, "How do you get these
+numbers?" TRW has 30,000 customers -- banks, savings and loans
+-- who call in every day to ask for a credit... They print
+these numbers out. That's 30,000 leak points for your number.
+     SANDZA: The kid who got my number, they found ... the
+password and the number (in a) garbage can behind a bank in
+Massachusetts.
+     UNIDENTIFIED SPECTATOR: I think what you have to consider
+is, we're blaming the computer in this. It's not the computer.
+It's the people using it. (Applause.)
+     SANDZA: You're absolutely right.
+     ...
+     (Donahue introduces Bill Steinberg at a computer terminal.
+There's a demonstration of The Source's electronic conferencing
+system, PARTICIPATION. The messages shown on the screen from an
+online conferences about "sexual gadgets" and devices.)
+
+     DONAHUE (to the audience): ... While we're watching this,
+let's consider some of the legal questions. Can I insult your
+mother on this thing? And if I do, can you sue me? How do you
+find me? And who's responsible for that libel? Is it the
+computer agency? The bulletin board iself? And who'
+respsible... does the law oblige the peron running the
+bulletin board to be responsible? ... You cannot send neo-Nazi
+mail, hate mail, to Canada, for instance. It's illegal...but
+you can transmit...
+     SANDZA: Well, that's why they set up the bulletin board.
+One of them is in northern Idaho... so that their followers in
+Canada could dial in and get this information. It's very
+effective, as I understand.
+     ...
+     DONAHUE: (Looking back at the computer screen. To
+Steinberg:) What have you got there. Oh, it's another sex
+thing. We'd better get off this thing...
+     LOUV: This may be the only safe form of sex left.
+(Laughter)
+     DONAHUE: That's right. No diseases.
+
+     (Steinberg then logs on to CompuServe Service's CB)
+
+     DONAHUE: You know what would be fun? Let's get the
+checking account of somebody in the audience... I bet you we
+could.
+     UNIDENTIFIED SPECTATOR: Use yours...
+     (Laughter)
+     ...
+     
+     (Donahue looks at the computer screen again, and notes
+that one of the CB'ers said he was logged on from Montreal)
+
+     DONAHUE: So we have an international communications. Now,
+one of the things that obviously should concern us is that this
+appears to get around laws that government international
+(communications.) That could include information that might
+hurt somebody. Racist information that might place somebody at
+risk. Remember the CB craze. Wherever there ar people
+communicating, there is going to be conflict. It's another
+flag.
+     LOUV: But it's also another opportunity for social
+activism. Greenpeace now has its own computer bulletin board
+network. So does the anti-nuclear movement and I think we're
+entering a period ... of strange forms of social activism, and
+this is going to be one of those forms.
+     SANDZA: It replaces the telephone in a lot of cases...The
+difference here is that you're completely anonymous and you
+don't need somebody's telephone number... Maybe there shouldn't
+be any laws that govern what you say back and forth. There
+certainly aren't on the telephone. The difference here is that
+you could keep an actual record (of what was said) on paper and
+then you could rebroadcast that somewhere else.
+     LOUV: In a sense, this is a return to Tom Paine who
+printed off cheap pamphlets and handed them out in Boston.
+These political groups have instant access to information. For
+instance, how to set up a protest against (a nuclear plant).
+They can find out in San Francisco immediately how it was done
+on the East Coast...That has enormous power for the future and
+I'm not sure many of us have fully realized that.
+
+     (Donahue introduces Chris and Pamela Dunn in the audience)
+
+     DONAHUE: They look happy, don't they? Well, they are. Very
+happy. (To the Dunns) You're married, aren't you? They met via
+computer terminals. How did this happen, and were you alone, or
+at work, or...?
+     PAM DUNN: I was alone at home and I was using a terminal
+to access CompuServe, utilizing the CB network. That was a few
+years ago now, when it was young and there weren't that many
+people around. Chris and I started talking to each other. At
+first, I didn't even know he was male, because we were both
+using handles to have that anonymity.
+     DONAHUE: What were your handles?
+     PAM DUNN: Zerbra3
+     CHRIS DUNN: ChrisDos, which is a computer term.
+     PAM DUNN: We got to talk to each other quite frequently
+and we started having parties. That was the thing to do in CB
+was to have actual parties so people could meet each other. And
+I came from Chicago to New York and met and (laughs) made
+history.
+     ...
+     CHRIS DUNN: (The parties became national parties
+eventually). I flew to San Francisco to meet some people, just
+to have a nice time. They didn't have anything to do with sex
+or any of this other stuff. We were just enjoying each other's
+company and talking to each other. The thing about computers
+is, they're just a tool. People are doing the same thing with
+them that they've done for ages...It's not the computer; it's
+the people running them.
+     DONAHUE: Pamela, you're a shy person. You're not the kind
+to be found in a singles bar.
+     PAM DUNN: Absolutely not, and I've found this is an
+incredible way to meet, not just a potential spouse, but
+friends, people you have things in common with, people that you
+don't have things in common with but ways to broaden your
+horizons by encountering them.
+     CHRIS DUNN: And you don't have to be a technie type. She's
+a zookeeper...
+     DONAHUE: And I assume you can tell a jerk on the screen
+maybe even easier than you can ...
+     PAM DUNN: It takes practice. You get suckered in a few
+times...(Laughter)
+     DONAHUE: Well, there's no guarantees when you meet them
+(away from the computer systems.)...
+     ...
+     DONAHUE: (Addressing a portion of the audience) Now am I
+to understand that all you people refer to yourselves as
+'users'? You know, 'user' has become a bad word in our culture,
+but we won't (laughs) suggest that you're doing anything
+wrong...
+
+     (While walking through the audience, Donahue talks with a
+woman who says she used to call a number of bulletin boards,
+but after receiving big phone bills, restricted her BBS-hopping
+to local New York boards.)
+
+     DONAHUE: But there are people who can use this equipment
+without paying the phone company?
+     SANDZA: Sure. That's one of the things they exchange on
+these illegal bulletin boards. Most of these people (in the
+audience) probably haven't been on illegal bulletin boards and
+aren't interested in being on them. But (the bulletin board
+will) spread information on ... how to beat the phone
+company... so you don't have to worry about those big phone
+bills...
+     ...
+
+     (Donahue returns the the CompuServe CB demonstration. He
+notes that many users of CB and other "real-time" conferences
+send messages such as "<waving>" and "<hugs!>," noting this is
+"really a warm medium.")
+
+     LOUV: You know what? One thing they've found about this,
+though, is that you'd think that you'd be kind of cold and
+technical using this, with the language? The opposite is true.
+There's a term, "flaming" (for) when people use electronic mail
+(and) exaggerate everything. You see exclamation points across
+the screens. Everything's exaggerated. People lose their
+tempers. Executives will swear on these things, when you'd
+never see them swear in the board room... So everything is hot
+on this medium. It's not a cold medium.
+     DONAHUE: (looking at the CB demonstration.) Can you see
+this? We've already got a wise guy. "Hi Phil. I always liked
+Marlo Thomas better." (from a CB'er with the handle of "MOM")
+     (Laughter and applause)...
+     LOUV: You need to put this into the context, or culture
+we're in. I've described it as "America II." It's a culture in
+which many of us are drawn into condos with high-security
+systems. More and more things are done in the home. We're more
+and more isolated. But just when you think that (we've) created
+an America II where everybody stays inside and (doesn't) touch
+or anything, this kind of communications comes along. That hot
+medium that I find very fascinating. We're finding new ways to
+communicate...
+     SANDZA: The flipside of this is the misuse of these
+bulletin boards that pass out information about how to break
+the law, how to invade your privacy, how to make bombs...These
+boards are completely anonymous. I can say anything I want
+about you. You can say anything you want about me. This
+information moves around at the speed of light and if you
+wanted to spread my credit card around the country, you could
+do it in a flash...
+     LOUV: This lady back here who said it's not the computer,
+it's how we use it is exactly right. It's part of the new
+American culture and we can't get around it...
+     
+     <COMMERCIAL BREAK>
+     
+     (A woman in the audience comments to Donahue that the
+computer's seem like "adult toys" to her).
+
+     LOUV: Phil, there's something very ominous that doesn't
+really have to do with the privacy issue and that's the split
+between America I and America II. The America of poor blacks
+and chicanos and people who have no access to this stuff. This
+stuff is rich kids' toys for the most part....
+
+     (Another woman says her child saved up to buy his own
+computer.)
+
+     LOUV: Increasingly, it's available to those people...but
+even when it's available, studies have shown, often times they
+haven't been prepared by their education to use it...They use
+it by rote memory. They don't use it in the intutive kinds of
+ways that middle class are using them.
+     DONAHUE: It's another vehicle to widen what we have
+already been told by a national commision is a gap between the
+two Americas.
+     LOUV: There's a study in Silicon Valley ... of kid who use
+computers.The kids of the engineers and computer
+designers....40 percent of (them) had computers. Ten miles
+away, the kids of the parents who... put those computers
+together, 1 percent of those kids have computers...
+
+     (A woman comments she feels "shut out" by not knowing
+about computers.)
+
+     LOUV: These are the people of America I -- not shut out of
+the world so much as left before... The people of America II
+are going to be talking internationally... There's a computer
+bulletin board in Japan (with which) you can make a local call
+and talk to anyone in the world. What about the people of
+America I who are being left behind?
+
+     (A woman spectator asks: are these people spending too
+much time with computers?)
+
+     DONAHUE: Good question.
+     SANDZA: Perhaps they are. But we ask ourselves what's
+going to happen in the '80s, as we move from an industrial
+society to a service society when computers will do the high
+tech jobs of the future. These kids...are the ones who are
+going to be ready for those jobs.
+
+     <COMMERCIAL BREAK)
+     
+     (Donahue talks with a man in the audience who says he
+operates a local computer bulletin board and is proud of the
+fact that its a "clear board." The man notes that his board
+deals primarily with sharing computer information.)
+
+     DONAHUE (to the audience): You know you can get electronic
+graffiti. It's another opportunity to display your idiocy, so
+how are you going to police that? Who's going to take it off?
+And if somebody's libeled...
+
+     (Woman asks if it should be illegal to have x-rated
+bulletin boards.)
+
+     SANDZA: How are you going to enforce that law? The only
+way you can enforce that law is to have the people who are the
+guardians of these young people...(interrupted)
+
+     (Woman says there's room for both America I and America
+II, that she hopes some people are still "writing poetry and
+kids going out sailing.")
+
+     LOUV: One of the things I discuss in the book is
+that....America II doesn't have to end up where it looks like
+it's heading. Look -- how many of your communities have spent
+money on parks lately?...This (computing) is the new
+recreation, the new outdoors and we've got to start looking at
+these things if...we really want to balance society...
+     UNIDENTIFIED SPECTATOR: Are we saying that even though
+there are a lot of people doing things that are illegal,
+there's no way to police it so it's all right?
+     SANDZA: It's virtually impossible to police it...the law's
+beginning to emerge. The federal goverment passed a law last
+year making it illegal to trespass in a computer, but it
+applies only to government computers. The section (dealing
+with) private computers was deleted as it went through
+Congress.
+     ...
+     DONAHUE: It's a nightmare when you think about it. Can
+they access an (aviation computer)? Can they send your plane to
+the wrong city? Can they send your plane to the wrong runway?
+
+     (Sandza notes that crackers were "into the computer" that
+kept time on the Olympic races.)
+
+     <COMMERCIAL BREAK>
+
+     (Donahue looks at the computer screen again. It's now
+displaying The Source's PARTICIPATE this time with an
+electronic conference on "Single Parenting.")
+
+     LOUV: The point isn't the law...the law has to be changed,
+obviously. But that isn't the point. The point is what kind of
+alternatives do we provide for kids? This is not a negative
+technology. It's neutral. Kids have to have an alternative. We
+have to start looking at our cities and countryside and our
+small towns and figure out how to make them more humane for
+children.
+     
+
+     (Man in the audience said he'd like to hear more about
+Chris and Pam Dunn.)
+     
+     DONAHUE: I would too... And they're still married even
+though the show's almost over. (Laughter) How long did you
+communication through the computers before you actually met?
+     PAM DUNN: About six months before we actually met.
+     CHRIS DUNN: We got together a few times back and forth.
+She was throwing a party and I went to it. The rest was just
+plain old love. It happened that way.
+     DONAHUE: Where was the first time you met?
+     PAM DUNN: Chicago.
+     DONAHUE: He came to see you.
+     PAM DUNN Yes, still old-fashioned...
+     DONAHUE: Did you take him to see the Cubs or the Sox?
+     PAM DUNN: I took him to see the zoo. (Applause and
+laughter.)
+
+     (Woman says she wants to have nothing to do with computers
+asks if she'll have no choice in 20 years.)
+
+     SANDZA: The technology is headiang toward making it much
+easier for people who know nothing about computers to use them.
+
+     (Woman asks Sandza what about what the punishment was in
+his "teletrial" -- "did they flip the switch or what?")
+
+     SANDZA: No. I made a deal with a friend who's a hacker who
+crashed the system... he essentially blew up the courthouse.
+(Laughter.)
+     
+<COMMERCIAL BREAK>
+     
+     (Man in the audience says that something to consider is
+that "if information is currency, then who's minding the
+bank.")
+
+     DONAHUE: And what are the censorship rules? Who decides?
+     
+     (Following the usual format for the Donahue show, the
+camera fades out with people in the audience still asking
+questions. As the show ends, one man is asking if the computer
+cracker ever break into computers in the Soviet Union. No
+answer is record.)
+     -End of transcript.-
+
+
+ORIGINALLY POSTED ON AND DOWNLOADED FROM P-80 SYSTEMS

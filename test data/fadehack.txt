@@ -1,0 +1,60 @@
+R
+
+24/125: The Fading Hacker Mystique
+Name: Mac??? #95 @5211
+Date: Sat Aug 24 22:06:32 1991
+From: Blitzkrieg (Louisville, Ky.)
+
+
+[FORMATTED FOR 80 COLUMNS
+ AND MIXED CASE]
+
+The Fading Hacker Mystique:  No Longer Just Pests
+
+CORPORATIONS TURNING UP THE HEAT ON HI-TECH INTERLOPERS
+
+The blurred line between computer hacking and computer crime has never been
+more unclear.  With few precedents to guide them, criminologists, legal
+scholars, and computer users are scrambling to define the boundaries of
+acceptable PC hacking.
+     That's not an easy job, but a resolution of the issue has never been more
+pressing--the prosecution of hackers charged with illegally infiltrating
+private data banks is on the upswing.
+     Increasingly, federal authorities are pursuing hacker related crimnes,
+according to New York State Police Senior Investigator Don Delaney.
+     "[Hacking] is causing companies to lose a lot of money," said Delaney, who
+made his comments at a recent conference on computer privacy hosted by New
+York University.
+     The hacker mystique doesn't play at all well in corporate America, where
+MIS managers take dim views of outsiders busting into their data networks, and
+they often treat security breaches as crimes.
+     The most famous case occurred a couple of years ago, when Robert Morris
+Jr., the son of a famous computer scientist, was put on trial and convicted
+after a rogue virus he invented paralyzed a nationwide computer network.
+     More recently, a 17-year-old New York student was charged with a
+misdemeanor for cracking the code in Sprint's extensive UNIX networks.  The
+apprentice hacker, who goes by the code name "Phiber Optic," maintains that he
+turned to hacking because his school didn't cover the computer subjects he was
+interested in.  Even now, he still believes that private computer networks
+remain fair game.
+     Intellectually curious or hi-tech felons?
+     Hackers are rarely "just playing," Delaney said.  Often, they've been
+involved in crimes such as stealing credit cards or accessing toll-free phone
+numbers.
+     Ultimately, the answer will be colored by what side of the debate you
+take, but if Delaney's position reflects a wider hard-line attitude, hackers
+should take note.
+     "Every company has the rihgt to have its computer networks left alone," he
+said.
+
+  --[  Taken from the August, 1991 issue of Computer Shopper on page 128.  ]--
+_______________________________________________________________________________ 
+
+     Re-typed and uploaded by MAC??? of The NATO Association.
+
+ - End of File -
+
+
+
+
+Read:(1-125,^24),? :

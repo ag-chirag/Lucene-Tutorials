@@ -1,0 +1,142 @@
+4
+
+
+                    Copyright 1986 Ken McLeod
+
+
+                     HACKERS: Friend of Foe?
+
+
+Much has been said and written lately about hackers and their activities.
+From attempting to reposition communications satellites to break-ins at
+computer facilities throughout the world.  Is this just hype?  Do these
+precocious children really possess the keys to computer disarmament?
+
+I could tell many sexy stories about hacker activity.  Computers broken
+into, monetary fraud, late night sojourns to computer sites, ad infinitum, 
+ad nauseum.  I don't think salacious stories about highly motivated but
+misguided teenagers is the real issue.  What is germain is that hackers
+represent a real and serious threat to information processing and are a
+problem created by society.
+
+Computer security personnel are faced with a modern day Hobson's choice.
+Do they ignore the "hackers", or, do the entrench themselves in a Maginot
+line of technical ramparts.  Either choice may result in serious if not
+financially fatal costs to an organization.
+
+Hackers seem to have become steeped in an aura of technological mysticism--
+often perceived as the Druids of the Church of Information Processing.
+Are video display terminals really their Oracle's?  You be the judge!
+
+While the popular belief, at least within the "hacker culture", is to
+believe in an embodiment of computers and computer programming for the
+greater goal of understanding computer technology, in reality, most
+people espousing the "hacker ethic" actually fit quite nicely into the
+definition of a criminal.
+
+My "Theory of Hacking" was developed after I arrested more hackers than
+probably any other single law enforcement officer and in response to the
+inability of anyone else to explaing why hackers "hacked."
+
+Having had the privilege of conducting what was essentially empirical 
+research while enforcing the law -- numerous hackers were arrested and
+interviewed.
+
+During my interviews with the hackers a strange pattern developed which
+seemed to be shared by most, if not all of those persons arrested.
+"Information may not be owned", was the recurrent theme.  Each hacker
+seemed determined to rationalize why he, (or rarely "she"), felt it 
+necessary to commit a criminal act in furtherance of the divine act of
+"Information Acquisition." This was strange behavior for a criminal,
+at least from the point of view of a traditional law enforcement officer.
+
+Why was the mere "reading" of data contained in a computer so important
+in the life of a hacker?  What spiritual nirvana was reached when the 
+ultimate goal has been reached: "Access Granted."
+
+A complete enforcement re-evaluation was required to combat the hacker
+problem.  A realization came about when traditional views of the value
+of information was ignored, i.e. information = money, and a new outlook
+adopted: information = value/status/power.  While the equations may at
+first glance seem equal, the variables of value, status and power have 
+a much greater meaning among peers.
+
+Hackers, when compared to the public perception of a "common criminal",
+are not breaking into computer systems using the same standards as a
+conventional burglar (if criminal standards can exist!).  A burglar or
+robber is usually concerned with simply the monetary value of what he
+steals.  A hacker tends to have different motives although the end
+result may be the same.
+
+In accepting the fact that hackers seek information (usually) not for
+its pecuniary value, but for its value as a commodity of status and
+reputation, then we have reached the first step in combating hackers.
+What was and is really happening is that hackers are merely a logical
+metamorphosis of our reliance on the flow and value of data and informa-
+tion in our modern society.
+
+Hackers are not some subterranean breed of criminal who has learned the
+innermost secrets of the information age.  In reality they are our own
+technologically created demons.
+
+Modern society has bred a generation of youngsters who have been taught
+to communicate and pass information as naturally as eating and sleeping.
+These hackers, for they usually are younger, realize that to possess
+information is the first step to power; for information in and of itself
+denotes power.
+
+It is not illogical that hackers are our own worst nightmares, created
+from ignorance and apathy.  Hackers are simply eating at the trough of
+information which computer managers so eagerly spread throughout society,
+
+To combat hackers two attitudes must be accepted by computer professionals-
+- 1) Hackers have been created by society and are a natural extension of
+that society; and, 2) Apathy and ambivalence are rampant throughout the
+computer field.
+
+Hackers create no new problems, they simply feed on those areas in which
+computer designers, operators and managers have failed to protect.
+
+Law Enforcement is faced with serious problems in attempting to
+investigate and prosecute hackers.  Computer professionals refuse to
+identify or report suspected or actual cases of computer crime, for fear
+of losing face amongst their peers.
+
+Too often hacker attacks, from inside or outside a company, are considered
+personnel problems, rather than crimes.  Managers refuse to believe that
+some of the employees might acutally fit the hacker mold and fail to act
+accordingly.
+
+In November of 1984 one of the first hacker arrests I made was of a 28
+year old school teacher.  Since that time the ages of suspects or
+arrestees has steadily decreased to where we have detected cases of
+computer fraud committed by 12 year olds.  Attempts to break into
+financial, government and private computers are discussed among hackers
+as easily as talking about the latest football scores.
+
+Groups of children now regularly control information secretly removed
+from the computers of America's largest corporations and government
+institutions.  Arrests only tend to credentialize the hackers, making them
+experts in the eyes of many.
+
+This is disturbing.  Are we to create a system of jails for the young
+intellectuals on out society?  Certainly not!  What is the answer?
+
+I believe that two things are going to occur--one a sure bet, the second
+worthy of debate.  The first is that computer fraud dba "hacker activity"
+will continue to increase in both scope and complexity with correspondingly
+exponential losses.  The second is that computer security professionals will
+continue to be slow to come around to accepting the fact that hackers are
+a part of the fabric of society and that to be dealt with, they must first
+be understood.
+
+Law Enforcement can not be the lone cry in the wilderness, baying for
+computer users to safeguard their information.  Computer professionals
+must proactively protect their systems through a synergistic system of
+awareness, acceptance and technical competence.  Pseudo-experts and
+"reformed hackers" are not the answer.  Only through a policy of total
+commitment to computer security will the hcaker problem by effectively
+dealt with.
+
+
+z
