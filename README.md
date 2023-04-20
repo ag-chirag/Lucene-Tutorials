@@ -1,5 +1,5 @@
 # Apache Lucene Video Tutorials
-#####Link to watch videos - https://youtu.be/FixCCGjLWGg?list=PLPjq0_ZOyVPN5a6YBjkEhA8Vd5PXHdkQO
+##### Link to watch videos - https://youtu.be/FixCCGjLWGg?list=PLPjq0_ZOyVPN5a6YBjkEhA8Vd5PXHdkQO
 
 1. This repository contains the power point presentations showed in the video.<br />
     a. Apache Lucene Part 1.pptx <br />
